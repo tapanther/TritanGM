@@ -1,0 +1,30 @@
+site_name: Tritan
+theme:
+  name: material
+  custom_dir: 'theme'
+  palette:
+    primary: blue
+    accent: blue
+  favicon: 'img/favicon.ico'
+  logo:
+    icon: 'account_balance'
+repo_name: 'tapanther/Tritan'
+repo_url: 'https://github.com/tapanther/TritanGM'
+site_url: 'https://tapanther.github.io/TritanGM/'
+
+#extra:
+#  disqus: 'tritangm'
+
+markdown_extensions:
+  - admonition
+
+nav:
+  - Home : index.md
+  - Campaign :
+    - The Demon Core :
+      - The Demon Core : DemonCore_GM.md
+  - General :
+    - Timeline : Timeline.md
+  - Categories :
+      - Campaign : Campaign.md
+      - General : General.md

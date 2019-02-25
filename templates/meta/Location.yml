@@ -1,0 +1,29 @@
+---
+node : Locations
+template : Location.md
+title : TEXT
+GeneralInfo :
+  Statistics :
+    Type : TEXT
+    Region : TEXT
+    Population : NUM
+  Description : >-
+    TEXT
+Geography :
+  Description : >-
+      TEXT
+  Features:
+    NAME : >-
+      TEXT
+  Settlements:
+    NAME : >-
+      TEXT
+History :
+  Description : >-
+    TEXT
+  Timeline :
+    -
+      Name : NAME
+      Date : YEAR
+      Description : >-
+        TEXT

@@ -1,0 +1,252 @@
+---
+node : Campaign/The Demon Core
+template : Generic.md
+title : The Demon Core
+GeneralInfo :
+  Description : >-
+    Trapped within the golden mirror is the soul of an ancient and terrible
+    demon. Where the Shroud provides the initial energy to the weapon, it is
+    the Demon Core that empowers the truly apocalyptic devastation the weapon
+    wreaks.
+
+
+    The Demon Core, like all pieces of the weapon, was separated and hidden by
+    Hermes Trismegistus prior to the Great Sack. Unbeknownst to anyone outside
+    Hermes' inner circle, the Demon Core was not buried in a desolate area, but
+    was instead entrusted into the care of Lord Symnyr Lynch, Councillor of
+    Blackpoint and a long-time personal friend.
+
+
+    As prolongued exposure to the Core is extremely hazardous, the sphere
+    was placed inside a leaden sarcophagus, and hidden deep within the
+    catacombs under the city. Since then, the existence of the Demon Core and
+    its final resting place has been a closely guarded secret, known only
+    to the office of the Blackpoint Councillor, and after the Great Sack,
+    the Royal Chancellor that superseded the title.
+
+
+    Discovering the location of the Demon Core's sarcophagus is no easy task.
+    The catacombs are a twisting maze of passages and chambers, many of which
+    have not been accessed in centuries. Many of the catacomb entrances were
+    sealed during the Great Sack, and the rest are heavily guarded by the
+    Dusk Templars. Breaking into the catacombs will be a difficult proposition,
+    second only to breaking out with the sarcophagus.
+
+
+    Alternatively, a diplomatic approach may be possible. The current
+    Chancellor, Lord Reynfred, has been searching for information about the
+    weapon, as have his predecessors. Although the Chancellor would use the
+    weapon for his own purposes, the Lynch family remains the unofficial
+    protectors of the Demon Core. Yrvyn Lynch serves as the Chancellor's
+    clerk, has access to his ancestor's records, and has been looking for a way
+    to secure the Demon Core from the Chancellor's grasp.
+Content :
+  -
+    separate : True
+    Title : Reaching Blackpoint
+    Subtitle : The Black Highway
+    Text : >-
+      Blackpoint lies at the Southwestern terminus of the Black Highway, the
+      largest trade route in Easter Tritan, connecting the two capitals of
+      Blackpoint and Siddar City. The road is wide, well maiantained, and
+      most importantly, safe. The road is constantly patrolled by the Dusk
+      Templars up until the Republic takes over some distance past Ravenhelm.
+
+
+      The road passes through several small towns, but none are particularly
+      worthy of note. Many of the towns have little to offer other than simple
+      agricultural products and raw materials. As the towns get closer to
+      Blackpoint, the attitude becomes colder and less receptive. The small
+      villages just outside the city practically stare down any outsiders that
+      wander through.
+  -
+    separate : False
+    Subtitle : The Gates of Blackpoint
+    Text : >-
+      As Blackpoint is composed of interlocking walled enclaves, the outer gates
+      of the city are but the first of many checkpoints the party will need to
+      pass in order to get access to the city proper.
+
+
+      There are a dozen or so outer gates open at any given time, but only four
+      have a customs station where non-citizens can gain the paperwork
+      necessary to traverse through the city. These four gates are located on
+      enclaves that were destroyed during the Great Sack, and still show much
+      of the damage today.
+  -
+    separate : False
+    Subtitle : The Inns
+    Text : >-
+      Near each of the main four gates is a small inn, where visitors to the
+      city can spend the night and get some rest from the long journey. Unlike
+      the nearby villages, these inns depend entirely on foreign visitors, and
+      extend them every courtesy.
+
+      
+      The innkeepers vary, but they are all pleasant and charming, a stark
+      contrast to the surrounding villagers. Typical names for the innkeepers
+      are Sean, Anraoi, Paidi, Eithne, Aibell, or Eimear. A short conversation
+      with the inkeepers reveals that the entrances to the city are limited
+      for foreigners, and few are allowed in without prior business in the
+      city.
+
+
+      A DC 15 Charisma (Persuasion) check with the inkeeper can reveal some
+      useful information to enter the city with fewer complications.
+      Alternatively, a DC 15 Intelligence (Investigation) check of the
+      inn's patrons may reveal similar information.
+    Table :
+      15 : >-
+        The inkeeper knows a merchant willing to pretend they are part of his
+        security escort - for a price (1000 gp). He will take the party as far
+        as the first enclave where his destination lies.
+      18 : >-
+        The inkeeper knows that one of the Crown inspectors (Sioda) at the 
+        Station has a sick daughter, and may be willing to look the other way
+        in exchange for some money for medicine (500 gp). The inspector will
+        furnish the party with temporary entry permits, good for a pair of days.
+      20 : >-
+        The inkeeper reveals that one of the patrons has been selling forged
+        entry permits (250 gp). The forgeries will withstand a moderate degree
+        of scrutiny, but should provide access to the inner city.
+  -
+    separate : False
+    Subtitle : The Customs Station
+    Text : >-
+      The Customs Stations are only open between sunrise and sunset. Any
+      travelers arriving outside those hours are directed by the guards
+      on duty to one of the nearby inns.
+
+
+      Once it is daytime, the Customs Station is open, and the guards will
+      usher everyone without a valid entry permit into the small guardhouse
+      where the inspector is located.
+    Table :
+      Meta :
+        Columns :
+          - Roll
+          - Name
+          - Description
+      Rows :
+        1-10 :
+          - Darearca (F)
+          - >-
+            A good natured inspector, she takes pride in her work but is willing
+            to accomodate travelers to the extent allowed by the Crown.
+        11-15 :
+          - Declan (M)
+          - >-
+            A bookish inspector, he is interested in hearing tales of faraway lands.
+            If indulged, he will be fairly generous with travelers.
+        16-20 :
+          - Sidoa (M)
+          - >-
+            A bitter inspector, Sioda takes no joy in his job, and appears to be
+            very distracted during the inspection. A DC 20 Wisdom (Insight) check
+            reveals that his daughter is sick, and he needs money for medicine
+            (500gp).
+  -
+    separate : False
+    Text : >-
+      Without some additional help through the checkpoint, the party will
+      be required to leave their weapons at the Customs Station, to be
+      retrieved upon exit. Only licensed caravan guards to known merchants
+      are allowed to keep their weapons. The gate is guarded by about 15
+      soldiers, with dozens of Dusk Templars only moments away. Trying to
+      break through the checkpoint will throw the enclave into lockdown, and
+      immediately make the party wanted enemies of the Dohlaran Crown. This will
+      make it much harder to avoid detection and can introduc complications
+      once inside the city.
+
+
+      Additionally, ancient magic items
+      are expressly forbidden, and will be confiscated and not returned
+      if discovered. This information is common knowledge, and the party
+      should take care not to have such items on their person. In the interests
+      of greater diplomacy, the inspectors will remind the party of this fact
+      and allow them to come back another day when they are better prepared.
+      
+
+      The insspector on duty will thoroughly check the party, requiring a
+      DC 18 Dexterity (Sleight of Hand) or DC 18 Charisma (Deception) check
+      for each party member attempting to smuggle a weapon through. If caught,
+      the weapon(s) will be removed and placed in the depository. Should a
+      member of the party attempt to smuggle a weapon through again, the
+      entire party will have their passes revoked, and will need to try again
+      in about a week's time.
+  -
+    separate : True
+    Subtitle : The Ruined District
+    Title : Inside the Outer Enclaves
+    Text : >-
+      The outermost enclaves of the city were almost entirely destroyed
+      by Baltatrax during the Great Sack. Many of the buildings are
+      significantly newer and of a different architecture than those inside
+      the inner city. The outer enclaves tend to be a mix of poorer housing
+      and industries. Many merchants have supply contracts here, and
+      accomodations and supplies may be easily found.
+
+
+
+      Travel between the outer enclaves is not restricted, and permits are
+      rarely checked. These enclaves are typically run by the local nobility,
+      who are less willing to spend more than is necessary on security, and
+      there are plenty of warehouses and shanties to hide in should the need
+      arise.
+  -
+    separate : False
+    Subtitle : Gardhynyr Trade House
+    Text : >-
+      The Gahrdynyr Trade House, one of the major trading organizations
+      within the Republic, has a major depot here. If the party has good
+      relations with the Republic, they may have been gifted a letter of
+      introduction, or even a Republic Warrant, which can be presented
+      to the intendant at the Gardhynyr Trade House, Orval Morrissy.
+
+
+      The intendant doesn't officially run the trade house, but he has
+      the most up to date and accurante information, as he is the primary
+      contact for merchants and local businessmen. A DC 15 Charisma
+      (Persuasion) check can gain the party a lot of valuable information
+      about the city, including the local layout. With a suitable introduction,
+      the intendant will be much more forthcoming, allowing the party to roll
+      with advantage. A warrant grants automatic success, as the intendant
+      is entirely loyal to the Republic.
+
+
+      The intendant can supply the party with additional paperwork to allow
+      them easier travel into the inner city. The paperwork identifies
+      the party as trade representatives, and for all intents and purposes
+      is genuine. Without a warrant, the intendant will want some form of
+      compensation for the paperwork, but he is not interested in money.
+      He wants a magic item, forbidden contraband within the city, and he's
+      not too particular about what he gets.
+
+
+      If the party may not have a magic item they are willing to part with,
+      the intendant knows of some confiscated items at a local guardhouse
+      that haven't been logged yet. It seems a merchant was foolish enough
+      to attempt to hide the items, and was promptly discovered.
+  -
+    separate : False
+    Subtitle : The Guardhouse
+    Text : >-
+      The guardhouse is located within the commercial zone, and is normally
+      staffed by 20 guards, although many more can be called in case of
+      an emergency. The guards mostly handle petty crimes, and don't suspect
+      any kind of trouble will arise.
+
+
+      At the depository of the guardhouse is a small trove of about a half
+      dozen minor magic items, any of which will satisfy the intendant. 
+  -
+    Text : |
+      To get to the depository, the party will need to:
+        
+      - Sneak into the guardhouse ...
+        - ... during the day   : DC 25 Dexterity (Stealth) check
+        - ... during the night : DC 20 Dexterity (Stealth) check
+        - Getting a layout of the guardhouse and guard rotations with a DC 15 Wisdom (Perception) check can grant advantage.
+      - Distract the guard at the repository entrance
+      - Unlock the depository where the items are held with a DC 18 Dexterity (Sleight of Hand) check
+        - The depository guard has a set of keys, which can be lifted with a DC 15 Dexterity (Sleight of Hand) check.

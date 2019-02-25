@@ -1,0 +1,14 @@
+---
+node : General
+template : Generic.md
+title : TEXT
+GeneralInfo :
+  Description: >-
+    TEXT
+Content:
+  -
+    separate: BOOL
+    Subtitle: TEXT
+    Title: TEXT
+    Text: |
+      TEXT

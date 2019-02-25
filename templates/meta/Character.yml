@@ -1,0 +1,18 @@
+---
+node : NPC
+template : Character.md
+title : TEXT
+GeneralInfo :
+  Statistics :
+    Race : TEXT
+    Age : NUMBER
+  Traits :
+    - LIST
+  Description : >-
+    TEXT
+Occupation :
+  Role : TEXT
+  Note : TEXT
+  Location : TEXT
+Description : >-
+  TEXT
