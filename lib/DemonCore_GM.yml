@@ -559,3 +559,106 @@ Content :
       the pattern (or the pins) requires a DC 20 Wisdom (Perception or Insight)
       check. Hiding from the patrols is extremely difficult, requiring a
       successful DC 25 Dexterity (Stealth) check, repeated in 10-minute intervals.
+  -
+    separate : True
+    Title : Crown Enclaves
+    Text : >-
+      The Crown Enclaves are the innermost enclaves, encompassing the palace
+      grounds, the army headquarters, and the Crown offices that host the
+      government. Very few people actually live in the Crown Enclaves, with only
+      the royal family and the oldest Dohlaran noble families having any sort
+      of permanent residence within.
+
+
+      These enclaves are heavily patrolled by the Dusk Templars, and contain the
+      only known entrances to the catacombs in which the Demon Core is hidden.
+  -
+    Subtitle : Crown Offices
+    Text : >-
+      If the party requested an audience that piqued the interest of Yrvyn Lynch,
+      they are directed to the appropriate building within the Crown offices, where
+      Yrvyn will be waiting, and will attempt to determine whether the party is on his
+      side, or if they represent a threat to either himself or the Crown.
+
+
+      Yrvyn is not disloyal to the Crown, but he believes that his family has a
+      higher calling to protect the Demon Core until it is needed. He can be
+      convinced to help the party by presenting evidence that they are on a quest
+      for Hermes Trismegistus or Azoth the Wise. Simply mentioning them is insufficient,
+      and he will immediately suspect that the party is searching for the Demon Core
+      for nefarious purposes.
+
+
+      Once convinced of the party's noble intentions, Yrvyn will suggest that they
+      meet up in a more discreet location to continue the conversation. Yrvyn will
+      suggest a suitable location if none is presented by the party.
+
+
+      If the party did not happen upon Yrvyn, and meet with one of the ministers,
+      they will quickly be dismissed and escorted out of the Crown Enclaves unless
+      they can successfully bluff their way through the audience. Depending on how
+      the party plays it, this can be a Charisma (Deception or Performance),
+      Wisdom (Insight), or Intelligence (History), all at DC 25. A successful pass
+      will allow them to remain on the Crown Enclaves without being escorted out.
+  -
+    Subtitle : Meetup with Yrvyn
+    Text : >-
+      When the party rendezvous with Yrvyn, they can gain a great deal of information
+      about the catacombs and the Demon Core's location. Yrvyn's great-great-great
+      grandfather ordered the desruction of most of the official records when it
+      became clear that the Crown could not be trusted with the artifact. Fortunately
+      for the party, the Lynch family kept their own set of records, and although they
+      could not save a map, there is a record of Symnyr's directions to reach the
+      artifact's vault. He will also mention that some of the catacomb exits were
+      hidden rather than sealed, and although their locations are unknown, it should
+      be possible to exit the catacombs from a different location, possibly in the
+      Outer Enclaves, but it would be next to impossible to find that exit from
+      outside.
+
+
+      Most importantly however, Yrvyn has keys to the various catacomb gates,
+      which have been enchanted against picking and would otherwise require a
+      DC 25 Dexterity (Sleight of Hand) check to bypass, or a DC 15 check if
+      Dispell or Knock are used on each gate.
+
+
+      Lastly, Yrvyn can help create a distraction to draw away the Dusk Templars
+      and allow the party to enter the catacombs more easily from within the
+      Crown Enclaves.
+  -
+    subtitle : True
+    Title : Entering the Catacombs
+    Text : >-
+      There are about a half dozen catacomb entrances within the Crown Enclave,
+      though only one is particularly suitable for the party to use. The entrance is
+      located inside the Draseotheoa, a massive First Age temple to long forgotten
+      gods.
+
+
+      If the party has learned the location of the catacomb entrances from Yrvyn
+      or some other source, they can head directly there. Otherwise, the party will
+      need to explore the Crown Enclaves to try to locate the entrances. A DC 20
+      Intelligence (History or Religion) check can provide insight that the catacombs
+      would have been used as burial chambers during the First Age, and First Age temples
+      would have been connected to the catacombs. 
+
+
+      The best catacomb entrance is hidden underneath the statue of the Dragon God inside
+      the Draseotheoa. Normally, a pair of Dusk Templars patrol the wing of the
+      temple where the statue is located. If Yrvyn was recruited, these guards are
+      not present. Otherwise the Dusk Templars will pass by the statue every 5 minutes.
+
+
+      The statue of the Dragon God is a massive marble statue and one of the cultural
+      treasures of Blackpoint. During the First Age, the Draseotheoa was constructed
+      to honor the old pantheon, but as the city's patron god, the Dragon God
+      was given a dedicated wing of the temple. The statue bears a small inscription
+      in draconic scratched behind the base, which reads:
+
+
+      !!! quote
+          Through the dragon's breath lies the Underworld.
+
+
+      Inspecting the statue's mouth, a small switch can be felt. When activated,
+      a wall panel behind the statue reveals a secret door into the catacombs.
