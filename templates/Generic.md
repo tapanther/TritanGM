@@ -9,7 +9,7 @@ Main Page for {{ title }}
 {% endblock %}
 
 {%- block pagecontent %}
-{% if GeneralInfo.Description and Content[0].separate %}
+{% if GeneralInfo and GeneralInfo.Description and Content[0].separate %}
 
 ---
 
