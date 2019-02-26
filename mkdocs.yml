@@ -7,7 +7,7 @@ theme:
     accent: blue
   favicon: 'img/favicon.ico'
   logo:
-    icon: 'account_balance'
+    icon: 'local_library'
 repo_name: 'tapanther/Tritan'
 repo_url: 'https://github.com/tapanther/TritanGM'
 site_url: 'https://tapanther.github.io/TritanGM/'
@@ -21,8 +21,7 @@ markdown_extensions:
 nav:
   - Home : index.md
   - Campaign :
-    - The Demon Core :
-      - The Demon Core : DemonCore_GM.md
+    - The Demon Core : DemonCore_GM.md
   - General :
     - Timeline : Timeline.md
   - Categories :
