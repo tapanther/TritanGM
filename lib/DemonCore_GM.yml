@@ -647,18 +647,194 @@ Content :
       the Draseotheoa. Normally, a pair of Dusk Templars patrol the wing of the
       temple where the statue is located. If Yrvyn was recruited, these guards are
       not present. Otherwise the Dusk Templars will pass by the statue every 5 minutes.
+  -
+    Subtitle : Draseotheoa
+    Text : >-
+      The Draseotheoa is the holiest site in Blackpoint. A massive First Age temple,
+      the Draseotheoa boasts a massive central nave flanked by two rows of intricately
+      carved columns. The stained glass windows that line the Aisles depict imagery
+      of the Old Pantheon's miracles, though the accompanying lore has largely been
+      lost to the ages. Two transepts flank the central altar, in which the idols
+      and statues of the ancient gods are kept as a reminder of what once was. An
+      octagonal chapterhouse abuts the choir, in which sits a colossal statue of
+      a dragon.
 
 
       The statue of the Dragon God is a massive marble statue and one of the cultural
       treasures of Blackpoint. During the First Age, the Draseotheoa was constructed
       to honor the old pantheon, but as the city's patron god, the Dragon God
-      was given a dedicated wing of the temple. The statue bears a small inscription
-      in draconic scratched behind the base, which reads:
+      was given a dedicated room in the temple.
+      
+
+      The statue bears a small inscription in draconic scratched behind the base,
+      which reads:
 
 
       !!! quote
-          Through the dragon's breath lies the Underworld.
+          Lips to lips, mouth to mouth,  
+          Comes the speaker of the shrouds,  
+          Suck in the spirit, speak the words,  
+          Let secrets of the dead be heard.  
 
 
       Inspecting the statue's mouth, a small switch can be felt. When activated,
       a wall panel behind the statue reveals a secret door into the catacombs.
+  -
+    separate : True
+    Title : Catacombs of Blackpoint
+    Text : >-
+      The catacombs of Blackpoint refer to a massive complex of interconnected
+      subterranean tunnels and chambers that serve as the final resting place of
+      hundreds, if not thousands, of Blackpoint's paragons of the past millenia.
+
+
+      Originally, the catacombs were a disjoint collection of mining tunnels and
+      crypts that crisscrossed the ground beneath the city. Over the course of
+      a thousand years, parts of the catacombs were found, forgotten, collapsed,
+      expanded, or even sealed off, until a labyrinth of tunnels and chambers
+      were left behind. No complete map of the catacombs has ever existed, but
+      the most well known sections are the undercrofts beneath the surviving
+      temples.
+
+
+      During the Great Sack, most of the entrances to the catacombs were sealed or
+      destroyed to prevent the invading hordes from using them to bypass the
+      enclave walls. Only the Royal Crypts and the entraces within the Royal Enclaves
+      were preserved, as the Crown planned to use the labyrinth in a last ditch
+      attempt to survive should Baltatrax and his hordes breach the inner city.
+
+
+      The catacombs beneath the Draseotheoa span three levels.
+
+
+      The first level holds hundreds of First Age cadavers, mostly in small alcoves
+      cut into the walls of the tunnels. Only the most honored of the dead were
+      granted the privilege of a crypt or sarcophagus.
+
+
+      The second level contains far fewer
+      remains, mostly along the first set of tunnels leading to the first level.
+      The Royal Crypts are located in the second level, along with the Royal Vaults,
+      which house many of the Crown's ancient treasures.
+
+
+      The third and final level was sealed shut behind a massive, warded gateway, under
+      orders from Councillor Ermylynd Lynch in the First Century. In the Fifth Century,
+      Morrin Lynch had all of the records pertaining to the third level destroyed, in
+      order to keep the Demon Core's location hidden.
+  -
+    Subtitle : Catacombs Level 1
+    Text : >-
+      The first level of the Catacombs beneath the Draseotheoa connect to the rest
+      of the catacomb network at many locations. This level is dominated by long,
+      winding corridors lined with the remains of long forgotten heroes.
+
+
+      TBD : Map, description, layout, etc.
+  -
+    Subtitle : Catacombs Level 2
+    Text : >-
+      The second level has far fewer remains than the first, and the layout is
+      a little less haphazard. There are far fewer connections to the rest of the
+      catacombs, having been constructed only once the first level was nearly full.
+
+
+      TBD : Map, description, layout, etc.
+  -
+    Subtitle : Catacombs Level 3
+    Text : >-
+      The third and last level of the catacombs is far less impressive than the
+      prior two, containing almost no loculi (wall graves), and only an occasional
+      room with unmarked sarcophagi. The layout however is far more labyrinthean,
+      seemingly designed with the intent of confounding anyone trying to make
+      their way without a map.
+
+
+      TBD : Map, description, layout, etc.
+  -
+    separate : True
+    Title : Leaving the Catacombs
+    Text : >-
+      With the sarcophagus secure, the party can make their way back through
+      the catacombs to either the first or second level. Both levels have various
+      connections to the rest of the network, and can attempt to navigate the
+      passages to a different, possibly blocked catacomb entrance.
+
+
+      With Yrvyn's instructions, it should be relatively straightforward to chart
+      a path to one of the hidden exits within the Outer Enclaves, giving the party
+      a large advantage in retrieving the Demon Core. The remaining hidden exits
+      are all inside older, sometimes abandoned temples, and have merely been
+      plastered over. A DC 13 Strength check can be used to break through the plaster,
+      or alternatively, the plaster wall has AC 13 and 100 hp. The party will then
+      emerge in either a chapterhouse or a choir.
+
+
+      If the party has no instructions, the catacombs are treacherous to navigate,
+      requiring a DC 30 Survival check to avoid getting lost. A successful check
+      brings the party to one of the Outer Enclave exits, but a failed check returns
+      them to one of the six Royal Enclaves entrances:
+    Table :
+      1 : Rock of Cashel
+      2 : Crown Offices
+      3 : Kilmainham Gaol
+      4 : Cloughoughter Cathedral
+      5 : Caherminnaun Dun
+      6 : Draseotheoa
+  -
+    Subtitle : Royal Enclave Catacomb Exits
+    Text : >-
+      **Rock of Cashel**
+
+
+      The palace grounds exit is located within the inner courtyard's chapel,
+      hidden behind a false wall that can be rotated out of the way in the choir.
+      The palace has a large number of servants and soldiers, and is the most
+      difficult exit to use. Avoiding the Templar patrols requires a DC 25 Dexterity
+      (Stealth) check every 10 minutes (DC 20 at night). The chapel is fortunately
+      not too distant from the walls which lead to the Draseotheoa's enclave.
+
+
+      **Crown Offices**
+
+
+      The catacombs exit in the Crown Offices in the abbey next to the Chancellor's
+      Office. During the day, the Crown Offices are a bustling administrative center,
+      making it nearly impossible to avoid being seen, but at night there is only the
+      occasional Templar patrol, and even more rarely, a clerk burning the midnight oil.
+
+
+      **Kilmainham Gaol**
+
+
+      The altar in the jail's chapel slides out of the way to reveal an entrance to
+      the catacombs, but requires a DC 20 Dexterity (Sleight of Hand) check to unlock.
+      The chapel is located in the back courtyard, and is usually empty. Unfortunately,
+      the jail is surrounded by a moat, with the main jail entrance the only bridge to
+      the rest of the enclave.
+
+
+      **Cloughoughter Cathedral**
+
+
+      While not as famous as the Draseotheoa, the Cloughoughter Cathedral serves as
+      the Primate's seat, and doubles as the Cult's administrative center. The catacomb
+      exit is located in the chapterhouse that has become the Blackpoint Cult's
+      assembly. This room is generally deserted, but is the farthest room from the
+      cathedral entrance.
+
+
+      **Caherminnaun Dun**
+
+
+      A fortification outside the Crown Palace, the Caherminnaun Dun is the primary base
+      of the Dusk Templars. The catacombs exit directly into the abbey within the
+      training grounds, and is the only non-hidden entrance. A simple locked gate
+      prevents access to the catacombs, requiring a DC 15 Dexterity (Sleight of Hand)
+      check to open. The training grounds are almost never empty, with usually a dozen
+      or so Templar squires practicing under the watchful eye of at least two
+      Templar Knights.
+  -
+    Subtitle : The Outer Enclaves Catacombs Exits
+    Text : >-
+      TBD
