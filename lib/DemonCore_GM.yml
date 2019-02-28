@@ -765,9 +765,7 @@ Content :
       a path to one of the hidden exits within the Outer Enclaves, giving the party
       a large advantage in retrieving the Demon Core. The remaining hidden exits
       are all inside older, sometimes abandoned temples, and have merely been
-      plastered over. A DC 13 Strength check can be used to break through the plaster,
-      or alternatively, the plaster wall has AC 13 and 100 hp. The party will then
-      emerge in either a chapterhouse or a choir.
+      plastered over. 
 
 
       If the party has no instructions, the catacombs are treacherous to navigate,
@@ -835,6 +833,27 @@ Content :
       or so Templar squires practicing under the watchful eye of at least two
       Templar Knights.
   -
-    Subtitle : The Outer Enclaves Catacombs Exits
+    Subtitle : Outer Enclaves Catacombs Exits
     Text : >-
-      TBD
+      Of over a hundred exits in the Outer Enclaves, only four are still usable as an exit,
+      as they were merely plastered over rather than collapsed or filled in.
+      A DC 13 Strength check can be used to break through the plaster,
+      or alternatively, the plaster wall has AC 11 and 100 hp. The party will then
+      emerge in either a chapterhouse or a choir.
+
+
+      If the party is following Yrvyn's directions, they should find themselves at
+      Mél of Ardagh, one of the oldest temples still in use. Otherwise, they will
+      emerge randomly at one of the four plastered exits.
+    Table :
+      1 : Fin Barre's Cathedral
+      2 : Mél of Ardagh
+      3 : St. Canice
+      4 : Iosa the Redeemer
+  -
+    Text : >-
+      **Fin Barre**
+
+
+      The last cathedral to be build before the Great Sack, the Fin Barre is named after
+      a folk hero 
