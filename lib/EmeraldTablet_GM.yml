@@ -1,0 +1,52 @@
+---
+node : Campaign
+template : Generic.md
+control :
+  - subtitle_headings
+title : The Emerald Tablets
+GeneralInfo :
+  Description : >-
+    The Emerald Tablets are a pentad of artifacts from before the First Age, which
+    were themselves part of a terrible weapon that could level a city in the blink
+    of an eye.
+
+
+    The Emerald Tablets, as the name suggests, are bright green gemstone slabs
+    intricately inscribed with gold and silver runes, and littered with thousands
+    of small stones, jewels, and charms of unknown purpose. The tablets are clearly
+    man-made, though their manufacture is beyond even the most skilled jewelers and
+    craftsmen of today.
+
+
+    It was believed by Hermes Trismegistus that the delicate runes were meant to
+    channel and control the arcane energy of the weapon, similar to a nervous
+    system. Indeed, the tablets connect to the inner casing pustules by a tangle of
+    enameled wires, much like nerves tendril out from a spinal cord.
+
+
+    As the tablets are the most fragile and susceptible component of the weapon,
+    they were hidden within the forge city of Terraworth, where the warm, dry climate
+    and lack of natural disasters would provide the greatest likelihood of survival.
+
+
+    The tablets' precise location has been lost to history. When Terraworth fell
+    early during the Great Sack, the vaults that held the tablets were buried beneath
+    tons of rubble, sealed off from the rest of the world.
+Content :
+  -
+    separate : True
+    Title : Reaching Terraworth
+    Text : >-
+      The ruins of Terraworth lie at the crook of the Ophidian Mountains, to the
+      far Northwest of the South March Province. The area is largely deserted; after
+      civilization was driven out by Baltatrax's hordes, the canals and waterways
+      that brought life to the otherwise desolate valley fell into disrepair. With
+      no water, the majority of the flora and fauna died off, forcing the occupying
+      hordes to seek greener pastures elsewhere.
+  -
+    Subtitle : Serpent's Pass
+    Text : >-
+      The only maintained roadway into the Ophidian Valley is the Serpent's Pass,
+      an ancient traderoute far to the west of the city ruins. The Serpent's Pass
+      connects Blackpoint with Cantfall, allowing traders to bypass the heavy tolls
+      levied at Ravenhelm.
