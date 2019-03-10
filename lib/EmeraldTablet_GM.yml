@@ -43,6 +43,15 @@ Content :
       that brought life to the otherwise desolate valley fell into disrepair. With
       no water, the majority of the flora and fauna died off, forcing the occupying
       hordes to seek greener pastures elsewhere.
+
+
+      Terraworth is the easiest to reach of the great First Age ruins, as it lies
+      just outside the borders of Second Age civilization. It is also the least
+      dangerous, as most of the monsters and hordes have long since moved on, and
+      only a handful of beasts call the ruins home. As a result, many aspiring relic
+      hunters cut their teeth at Terraworth. Yet the danger should not be
+      understated; of those foolhardy souls that attempt to scavenge the wreckage,
+      only half return alive.
   -
     Subtitle : Serpent's Pass
     Text : >-
@@ -50,3 +59,107 @@ Content :
       an ancient traderoute far to the west of the city ruins. The Serpent's Pass
       connects Blackpoint with Cantfall, allowing traders to bypass the heavy tolls
       levied at Ravenhelm.
+
+
+      The highway is well traveled, and both the Expedition and the Dusk Templars
+      routinely patrol the area. Merchant caravans are routinely encountered,
+      providing an opportunity for trade and resupply before heading out into
+      the unclaimed wilderness.
+  -
+    Subtitle : Lashend Road Fork
+    Text : >-
+      From the Serpent's Pass within the valley forks the Lashend Road, the
+      old highway that leads to Terraworth and the South March Province.
+      The fork has been barricaded off, with dozens of hazard signs in all
+      languages warning travelers to the dangers beyond. Unlike the Serpent's
+      Pass, Lashend Road is not patrolled and has fallen victim to disuse and
+      disrepair for centuries.
+
+
+      Bypassing the barricades is trivial, as they are primarily meant as a
+      deterrent rather than a true barrier. Immediately beynod the signs,
+      the road is uneven and overgrown with vegetation. Travel is impeded,
+      forcing the party to proceed at half-rate, as though travelling through
+      pure wilderness. The road mainly allows the party to maintain their
+      bearings with ease, avoiding the survival checks that would otherwise be
+      necessary to avoid getting lost.
+  -
+    Subtitle : Lashend River
+    Text : >-
+      The road follows the Lashend River, formerly the lifeblood of the city.
+      One of Baltatrax's first moves was to block and dam the river's source,
+      knowing fully well that the city would collapse much more quickly as
+      a result. Today, the river is but a small stream running through a dry,
+      rocky riverbed.
+
+
+      As the river is one of the only sources of clean water in the area, it
+      tends to attract all manner of creatures, including the monsters that
+      inhabit the area. The table below contains possible encounters for the
+      party as they travel along the Lashend Road.
+    Table :
+      Meta : 
+        Columns :
+          - D6
+          - Encounter
+        Rows :
+          -
+            - 1
+            - TBD
+          -
+            - 2
+            - TBD
+          -
+            - 3
+            - TBD
+          -
+            - 4
+            - TBD
+          -
+            - 5
+            - TBD
+          -
+            - 6
+            - TBD
+  -
+    separate : True
+    Title : Towns of Terraworth
+    Text : >-
+      Like any major city, Terraworth was supported by a network of smaller
+      towns and villages that supplied much of the food and raw materials
+      needed by the city.
+
+
+      These abandoned villages often hide minor relics of the First Age,
+      which can fetch a decent price on the artifacts market. Small icons
+      and statues of the Old Gods are the most common relic, but once in a blue
+      moon a lucky hunter finds a wondrous item that still holds a bit of magic.
+  -
+    Subtitle : Random Town Relics
+    Table :
+      01 - 25 : Icon or Statue of an Old God
+  -
+    Subtitle : Arkala Ruins
+    Text : >-
+      The first town ruins along the Lashend River is the town of Arkala. A former
+      farming town, Arkala was largely spared the devastation wrought to many of the
+      other villages. As Baltatrax's forces descended from the East, the town was
+      quickly evacuated.
+
+
+      Arkala is completely deserted, and nearly devoid of anything of interest.
+      Relic hunters have stripped the place bare. The telltale signs of their
+      stay (burnt out coals, bundled hay mats, forgotten tools, etc.) show that
+      the town is primarily used by hunters on their way to the ruins.
+
+
+      As the party passes near Arkala, they can perform a DC 13 Wisdom
+      (Perception) check to spot a wispy trail of smoke rising from the town.
+      A duo of novice treasure hunters have set up a campsite at Arkala. The
+      pair are on their first expedition, and largely unaware of the dangers.
+      They have heard rumours that something has awoken within Terraworth
+      revealing a long lost treasure, and the pair have a plan.
+
+
+      Unfortunately, the party are not the only ones to notice the smoke, and the
+      deserted village is suddenly
