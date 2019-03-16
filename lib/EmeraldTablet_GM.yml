@@ -35,7 +35,7 @@ GeneralInfo :
 Content :
   -
     separate : True
-    Title : Reaching Terraworth
+    Title : Reaching the Ophidian Valley
     Text : >-
       The ruins of Terraworth lie at the crook of the Ophidian Mountains, to the
       far Northwest of the South March Province. The area is largely deserted; after
@@ -153,13 +153,45 @@ Content :
       the town is primarily used by hunters on their way to the ruins.
 
 
-      As the party passes near Arkala, they can perform a DC 13 Wisdom
+      As the party passes near Arkala, they can perform a DC 11 Wisdom
       (Perception) check to spot a wispy trail of smoke rising from the town.
       A duo of novice treasure hunters have set up a campsite at Arkala. The
       pair are on their first expedition, and largely unaware of the dangers.
       They have heard rumours that something has awoken within Terraworth
-      revealing a long lost treasure, and the pair have a plan.
+      revealing a long lost treasure, and the pair have a plan. They will hesistantly
+      greet the party, and attempt to determine whether the party are rival
+      relic hunters who might try to take advantage of their naivete.
+
+
+      If pressed for details, the pair reveals that it's all memorized between the
+      two of them; they didn't write anything down for fear that some rival hunters,
+      like the party, could steal their thunder. If pressed further, the party must
+      attempt a DC 15 Charisma (Persuasion) check to join, as the pair feel a little
+      out of their element and could use some backup. Attempts to intimidate the pair
+      will likely result in the amateur's disappearance at the first available
+      opportunity, as they have decided the party is precisely the type of people they
+      wish to avoid.
 
 
       Unfortunately, the party are not the only ones to notice the smoke, and the
-      deserted village is suddenly
+      deserted village is suddenly ambushed by `TBD MONSTERS`. The wanna-be hunters
+      quickly take off, making their escape deeper into the abandoned canyon. If
+      the party are in Arkala when this happens, they can attempt to follow
+      the pair through a chase sequence (average DC 13) to both follow the pair's
+      path and to lose the invading monsters.
+
+      
+      If the party did not detour to Arkala, the pair are chased off by the invading
+      monsters, and will be encountered later.
+  -
+    Subtitle : Terraworth Loop
+    Text : >-
+      At the third fork in the road on the way to Terraworth lies a loop that
+      connects many of the surrounding town ruins with the city proper. The
+      lower path leads to an abandoned Imperial outpost and the city of Terraworth,
+      while the upper path leads to Krutoq's Tower and the supporting towns.
+  -
+    Subtitle : Cardend and Falkirk
+    Text : >-
+      Cardend and Falkirk are the two major agricultural towns that once fed
+      the massive populace of Terraworth.
