@@ -193,5 +193,104 @@ Content :
   -
     Subtitle : Cardend and Falkirk
     Text : >-
-      Cardend and Falkirk are the two major agricultural towns that once fed
-      the massive populace of Terraworth.
+      Cardend and Falkirk are the two principal agricultural towns that once fed
+      the massive populace of Terraworth. Like Arkala, the towns have been picked
+      dry of any major First Age relics, leaving only the occasional rusted trinket.
+
+
+      Occasionally, a band of monsters (from the table of Lashend River encounters)
+      will take up temporary residence within the town ruins. It's clear that many
+      prospective relic hunters have met their fate in these towns, as dessicated
+      or skeletal remains can easily be found amongst the rubble. Basic adventuring
+      supplies (rope, water bags, picks, torches, etc.) can be recovered from the
+      remains.
+  -
+    Subtitle : Kirkwall Ruins
+    Text : >-
+      The mining town of Kirkwall stood to the far Northeast of Terraworth. The town
+      was famous in the First Age for the high quality silver ore, which was processed
+      in the dwarven forges of Terraworth and Dirbuhr. Even today, chunks of silver ore
+      can be easily found, as most relic hunters have no interest in hauling the heavy
+      rock all the way to Blackpoint or Ravenhelm for smelting.
+
+
+      To either side of the town lay the entrances to a massive silver mining complex,
+      which has become the home of many a monster and abomination. It is rumored that
+      the town's population once sought refuge within the mines, only to meet an
+      untimely death when Baltatrax's hordes poured into the shafts. Most relic hunters
+      avoid the mines, both out of a healthy dose of self preservation as well as a
+      measure of respect towards the massacre that occurred within.
+
+
+      The entrances to the mines are littered with the remains of a massive battle.
+      Broken pieces of armor and weapons are strewn throughout the area, although
+      there are comparatively few skeletal remains of creatures to be found within the
+      debris, and those that are present appear to have suffered massive trauma.
+
+      
+      Further investigation of the debris reveals that the equipment is a hodgepodge of
+      pieces from both the First and Second Ages. Smithing touchmarks range from the
+      forges of Terraworth to the manufactoria of Siddar City. A DC 18 Intelligence
+      (History) check can reveal that the tooling marks on the Siddarese weapons are
+      of a factory-forge that was only opened (with much fanfare) within the past decade.
+      Additionally, a DC 13 Intelligence (Nature) check or a DC 13 Wisdom (Medicine) check
+      shows that the corpses are significantly older, with many showing clear signs of
+      weathering and erosion to a degree that would indicate hundreds of years of exposure
+      rather than the less-than-ten years some of the weapons would suggest.
+
+
+      Despite the apparent contradiction, both timelines are correct. A battle did take
+      place approximately 4 years prior, between the creatures living within
+      the mines and a skeletal army of an Elumin (Death domain) cleric, Pleas Morgan.
+  -
+    separate : True
+    Title : Krutoq the Elven Lich
+    Text : >-
+      Elandorr Krutoq, former Councillor of Terraworth, was an elven wizard from around
+      400 BGS. As Krutoq neared the end of his life, he became obsessed with the possibility
+      of achieving immortality. Though very little is known about that time period,
+      it is believed that Krutoq used his position and power to ensure his activities
+      would not be halted. Indeed, Krutoq succeeded in becoming a Lich, and attempted to
+      convert the City's population into an undead army as payment to his fiendish patron.
+
+
+      For nearly 5 years, Krutoq amassed an army from his fortified tower, which he
+      had built ostensibly for the Imperial Army before seizing it for his own nefarious
+      purposes. Krutoq was eventually defeated by the city's forces, but his phylactery
+      was never found. Given his high position within the city's government, Elandorr
+      had successfully hidden his phylactery within the city's vaults, guessing correctly
+      that it would remain undisturbed until he could regenerate.
+
+
+      Unfortunately for Krutoq, the vault's ancient wards prevented his resurrection,
+      leaving him trapped on the purgatory between life and undeath. Should the
+      phylactery be removed from the protection of the vault however, Krutoq would arise
+      once again to a world without the Imperial might that once defeated him.
+  -
+    Subtitle : Pleas Morgan
+    Text : >-
+      Formerly a member of Blackpoint's clergy under the Primate, Pleas was drawn
+      by the proscribed teachings of the dark side of Elumin, and was ejected from
+      the priesthood for it. Pleas would have been executed for blasphemy, had he
+      not been spirited away by like-minded cultists seeking his intimate knowledge
+      of Blackpoint's ecclesiarchy.
+
+      
+      Morgan, acting on his twisted interpretation of Elumin's will, is attempting to
+      locate Krutoq's phylactery within the ruins of Terraworth to revive the fallen
+      lich. It is due to his efforts that rumors of an awakening in Terraworth have begun
+      circulating the relic hunter community. Pleas, having been granted visions of a
+      golden vault beneath Terraworth, is consumed with restoring the ancient lich.
+  -
+    Subtitle : Krutoq's Tower
+    Text : >-
+      To the far Northwest of Terraworth lies a ruined fortified tower. Officially
+      constructed as a military fortification for the Empire, the tower was constructed
+      by Krutoq prior to his ascencion to lichdom for his own evil uses.
+
+
+      Although Krutoq was defeated some 400 years prior to the Great Sack, the battered
+      remains of his tower still stand. The inhabitants of Terraworth believed the
+      tower to be cursed, as three consecutive Councillors met unfortunate fates shortly
+      after ordering the tower's destruction. Content to leave well enough alone, successive
+      Councillors abandoned all plans to take down the tower.
