@@ -151,50 +151,173 @@ Content :
       Relic hunters have stripped the place bare. The telltale signs of their
       stay (burnt out coals, bundled hay mats, forgotten tools, etc.) show that
       the town is primarily used by hunters on their way to the ruins.
-  -
-    Subtitle : Arther Bramer and Leighya Treadway
-    Text : >-
-      As the party passes near Arkala, they can perform a DC 11 Wisdom
-      (Perception) check to spot a wispy trail of smoke rising from the town.
-      A duo of novice treasure hunters have set up a campsite at Arkala before
-      heading on to Terraworth proper.
 
 
-      Leighya and Arther, fresh out of a conscription stint with the Army of
-      the Republic, decided not to extend their warrants but rather to strike it
-      out on their own. The two childhood friends have always been enamored with 
-      stories of daring explorers recovering ancient relics, and resolved to
-      make those dreams come true.
+      As the party passes by Arkala, they can discover that a small group of
+      amateur relic hunters are currently under attack in Arkala.
+      
+
+      If it is nighttime when the party passes by Arkala, a faint blue-green glow
+      can be seen emanating from the town, interspersed with the occassional flash
+      of energy. The faint sounds of clashing metal and energetic blasts can be heard
+      with a DC 12 Wisdom (Perception) check.
 
 
-      The pair are on their first expedition, and largely unaware of the dangers.
-      They have heard rumours that something has awoken within Terraworth
-      revealing a long lost treasure, and the pair have a plan. They will hesistantly
-      greet the party, and attempt to determine whether the party are rival
-      relic hunters who might try to take advantage of their naivete.
-
-
-      If pressed for details, the pair reveals that it's all memorized between the
-      two of them; they didn't write anything down for fear that some rival hunters,
-      like the party, could steal their thunder. If pressed further, the party must
-      attempt a DC 15 Charisma (Persuasion) check to join, as the pair feel a little
-      out of their element and could use some backup. Attempts to intimidate the pair
-      will likely result in the amateurs' disappearance at the first available
-      opportunity, as they have decided the party is precisely the type of people they
-      wish to avoid.
+      If it is daytime, a plume of black some can be seen rising into the air from
+      the direction of Arkala, and the same Wisdom (Perception) check can be used
+      to hear the sounds of combat.
   -
     Subtitle : Ambush in Arkala
     Text : >-
-      Unfortunately, the party are not the only ones to notice the smoke, and the
-      deserted village is suddenly ambushed by `TBD MONSTERS`. The wanna-be hunters
-      quickly take off, making their escape deeper into the abandoned valley. If
-      the party are in Arkala when this happens, they can attempt to follow
-      the pair through a chase sequence (average DC 13) to both follow the pair's
-      path and to lose the invading monsters.
+      As Terraworth is the nearest and least dangerous major ruin of the First Age,
+      it is a popular spot for novice treasure hunters to cut their teeth before
+      heading out into the true dangers of the South March and Southguard Provinces.
+
+
+      On this occasion, a pair of prospective adventurers is under attack in Arkala.
+      Leighya Treadway and Arther Bramer, natives of Lindmont to the Southeast of
+      Archersreve, are fending off a group of monsters consisting of:
+
+
+          * 4 x Skeleton
+          * 2 x Will-o'-Wisp
+          * 1 x Poltergeist
+          * 1 x Deathlock Wight
+
+
+      The pair, as experienced former Republic soldiers, are holding out among the
+      ruins of the town, but are running out of ammunition and won't hold out for
+      much longer.
+
+
+      If the party decides not to investigate Arkala, the encounter above is skipped,
+      and the amateur hunters will be encountered later, but missing much of their
+      prepared equipment and information, having been forced to leave it all behind
+      when escaping Arkala.
+  -
+    Subtitle : Novice Adventurers
+    Text : >-
+      Leighya and Arther, fresh out of a conscription stint with the Army of
+      the Republic, decided not to extend their warrants but rather to strike it
+      out on their own. The two childhood friends have always been enamored with
+      stories of daring explorers recovering ancient relics, and resolved to
+      make those dreams come true.
 
       
-      If the party did not detour to Arkala, the pair are chased off by the invading
-      monsters, and will be encountered later.
+      The pair are on their first expedition, and largely unaware of the dangers.
+      They have heard rumours that something has awoken within Terraworth
+      revealing a long lost treasure. Over the last 6 months, after their deployment
+      with the Republic Army, the two have gathered as much information about
+      Terraworth as possible, and posses highly detailed copies of maps from the
+      Royal Archives in Blackpoint, belived to be the best available. They also carry
+      all manner of adventuring gear, from hundreds of feet of rope to pickaxes to
+      ichor (flameless) lamps. They also had a horse-drawn cart, which has long
+      gone missing after the horse fled the ambush, taking the heavier equipment
+      with it.
+
+
+      Despite all their preparation and combat training, the pair were shocked at
+      the strength and ferocity of the attack upon them. According to their
+      research, a few skeletons or possibly a wisp or two should have been the
+      worst thing they could encounter. The two are further convinced that something
+      really must have awoken within the city ruins, and are more determined than ever
+      to find out.
+
+
+      If the pair is rescued from the ambush in Arkala, they will reluctantly
+      offer their support and vast knowledge of the city to the party, in exchange
+      for a mutually-beneficial combined expedition.
+
+
+      If the pair is encountered later on, they will make the same offer, but
+      will only have their memorized knowledge available, as the maps and notes
+      were destroyed when they were forced to flee Arkala.
+
+
+      Regardless of how they are met, the party will eventually notice that
+      Arther has been extremely careful when handling a small satchel. A DC
+      14 Wisdom (Perception) check can allow the party to hear a faint rasping
+      sound coming from within the sack, which quickly prompts Arther to gently
+      pat the bag unconciously.
+
+
+      If pressed, Arther and Leighya will try to avoid the subject, claiming that
+      the satchel simply holds some delicate supplies (ointments, antiseptics, etc.).
+      If pressed further to reveal the contents, they will claim that the contents
+      are very sensitive and expensive. Both statements are clearly false, and it
+      is obvious that the pair don't want to reveal the true contents of the bag.
+
+
+      If confronted or otherwise forced to open the satchel, Arther and Leighya
+      will begrudgingly comply, warning the party to listen to him and not make
+      any hasty decisions. Gingerly reaching into the pouch, Arthur repeatedly
+      tells the party to stay calm as he reveals an ancient-looking skull, meticulously
+      adorned with holy sigils and purity seals. As the skull is pulled out of the
+      satchel, an ominous amber light begins to glow from within the eyesockets,
+      and with a deep, rasping breath the skull is momentarily sheathed in green
+      flames - a Flameskull!
+  -
+    Subtitle : Flameskull
+    Text : >-
+      As the flameskull awakens, it's clear that the charms and icons are somehow
+      keeping it from flying into the psychotic frenzy that traditionally
+      characterizes the creature. As the flames once again flicker on and off, 
+      the skull rasps *"Help me..."*
+
+
+      It's clear from the way that Arther and Leighya look and behave towards the
+      flameskull that they have some emotional connection with it, possibly a
+      combination of pity and sadness.
+
+
+      If the party does not immediately attack and asks the pair to explain,
+      Leighya will respond with their story.
+
+
+      !!! quote
+          We found him on our last mission. Our squad was sent to Terraworth to
+          rescue some clueless merchants that were trying to find a shortcut to
+          Rookwatch and got ambushed outside the ruins.
+
+
+          He was just wandering aimlessly outside Arkala, cackling madly to itself
+          every so often before crying out in anguish. We were just about to put
+          an arrow through it when it suddenly turned and dashed towards us. I thought
+          we were in for it when fire shot out from it's eyes, but instead of attacking
+          us it hit the skeleton that had managed to sneak up behind us.
+
+
+          I still remember the first words it said, *"Please, help me. I don't know
+          what I am."* Then it just swung violently between fits of laughter and
+          despair. We didn't know what to do, but we had a cleric, Sister Powall,
+          she said he might be remembering his former life. He'd just saved mine,
+          I felt we owed it to him to try to help.
+
+          
+      Leighya will continue explaining that the charms and sigils help calm it,
+      almost like a sleeping trance. They've managed to talk to flameskull when
+      it has a rare moment of lucidity, and have learned a little bit about the
+      pitiful creature they now care for:
+
+
+          * **Former Life.** The flameskull can remember very little about itself,
+          only a momentary flash of a warrior in gleaming armor, perhaps a paladin.
+
+
+          * **How it Died.** The last image the creature can remember is of a sickening
+          green pulse of energy consuming all of its vision.
+
+
+          * **Who Created It.** In undeath, the flameskull can remember things more
+          vividly. It recalls being called to this life by a black-robed cultist,
+          whose skin looked badly lesioned, as though he'd been severely burnt.
+
+
+          * **Why it Behaves Strangely.** For months, the skull had obeyed its
+          creator, all the while screaming internally and descending into madness
+          over the atrocities it was forced to commit. He'd been shattered at some
+          point during a fight with soldiers. He remembers a cleric, perhaps something
+          he did had broken the cultist's control, at least partially.
   -
     Subtitle : Terraworth Loop
     Text : >-
@@ -328,12 +451,6 @@ Content :
       near the end has a map, but it is unlabeled and too low scale to figure out
       immediately. A successful DC 13 Intelligence (History) check will allow the
       characters to realize that the map is of the former city of Terraworth.
-
-
-      If the amateur relic hunters, Arther and Leighya, are with the party, they
-      will immediately recognize he map, having studied it religiously in preparation
-      for their expedition. They recognize many of the landmarks depicted on the map
-      as possible excavation sites for the treasure they've heard so much about.
   -
     separate : True
     Title : City of Terraworth
