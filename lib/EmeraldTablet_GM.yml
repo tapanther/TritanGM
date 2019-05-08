@@ -105,22 +105,22 @@ Content :
         Rows :
           -
             - 1
-            - TBD
+            - Gnoll Hunting Pack (1d8 Hunters, 2d8 Gnolls, 1d4 Flesh Gnawers)
           -
             - 2
-            - TBD
+            - 1d4 Leucrotta Leucrottas
           -
             - 3
-            - TBD
+            - 2d6 Death Dogs
           -
             - 4
-            - TBD
+            - Kobold Tribe (2d20 Kobolds, 1d6 Kobold Inventors, 1d3 Kobold Scale Sorcerers, 1d6 Kobold Dragonshield)
           -
             - 5
-            - TBD
+            - Orc Tribe
           -
             - 6
-            - TBD
+            - Yuan-ti Tribe
   -
     separate : True
     Title : Towns of Terraworth
@@ -513,8 +513,8 @@ Content :
       The outskirt ruins have been largely picked clean, but the occasional minor relic can be found
       with a successful DC 25 Intelligence (Investigation) check. These relics have no intrinsic powers
       or value, but are highly sought after in the Republic.
-    Table:
-        Meta : 
+    Table: 
+      Meta : 
         Columns :
           - D6
           - Encounter
