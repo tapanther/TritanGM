@@ -137,7 +137,14 @@ Content :
   -
     Subtitle : Random Town Relics
     Table :
-      01 - 25 : Icon or Statue of an Old God
+      01 - 05 : Damaged Icon or Statue of an Old Pantheon God
+      06 - 10 : Ruined Book or Manuscript
+      11 - 15 : Rusted or Shattered Weapon or Tool
+      16 : Good Quality Icon or Statue of an Old Pantheon God
+      17 : Excellent Quality Icon or Statue of an Old Pantheon God
+      18 : Good Quality Book or Manuscript
+      19 : Excellent Quality Book or Manuscript
+      20 : Intact Weapon or Tool
   -
     Subtitle : Arkala Ruins
     Text : >-
@@ -473,17 +480,39 @@ Content :
 
 
       Many parts of the outskirts show weathered signs of fire damage, with the occasional
-      mangled and rusted sword or speartip still embedded in an uncollapsed wall. The outskirts
-      of the city are perilous for the inexperienced. Structures collapse with only the slightest
-      disturbance, causing tons of rubble to fall on anyone unfortunate enough to be within. If a
-      building collapses on someone, they can make a DC 15 Dexterity (Acrobatics) check to throw
-      themselves under cover. On a failed check they take 6d10 bludgeoning damage, and half
-      as much on a successful check.
+      mangled and rusted sword or speartip still embedded in an uncollapsed wall. The
+      outskirts of the city are perilous for the inexperienced. Structures collapse with
+      only the slightest disturbance, causing tons of rubble to fall on anyone unfortunate
+      enough to be within. If a building collapses on someone, they can make a DC 15
+      Dexterity (Acrobatics) check to throw themselves under cover. On a failed check they
+      take 6d10 bludgeoning damage, and half as much on a successful check.
 
       
-      The outskirts are occasionally patrolled by Pleas' minions. At least one of the creatures
-      will attempt to flee and alert his master to the intruders. If the minion manages to evade
-      the party, encounters within the city are reinforced.
+      One of the more recognizable sites on the city outskirts are the old Imperial Army
+      Training Grounds. Although no structures remain, the large parade grounds are a dead
+      giveaway.
+
+
+      Based on their experience with the Expedition, Leighya will suggest that
+      the training grounds may hold hidden underground caches of weapons and supplies.
+      Indeed, a handful of caches lie exposed where treasure hunters have stumbled
+      upon one. If Leighya has the Royal Archive maps, a pair of caches can be found
+      easily. Without the maps, a DC 18 Intelligence (Investigation) check is needed
+      to find each of two caches.
+
+
+      Each cache contains:
+
+
+        - One dozen mundane melee and ranged weapons
+        - One dozen armor pieces of mixed type
+        - 1000 Gold Pieces
+        - 4 Random Minor Magical Items
+
+
+      The outskirts are occasionally patrolled by Pleas' minions. At least one of the
+      creatures will attempt to flee and alert his master to the intruders. If the minion
+      manages to evade the party, encounters within the city are reinforced.
     Table: 
       Meta : 
         Columns :
@@ -510,52 +539,83 @@ Content :
             - TBD
   -
     Text: >-
-      The outskirt ruins have been largely picked clean, but the occasional minor relic can be found
-      with a successful DC 25 Intelligence (Investigation) check. These relics have no intrinsic powers
-      or value, but are highly sought after in the Republic.
+      The outskirt ruins have been largely picked clean, but the occasional minor relic can
+      be found with a successful DC 25 Intelligence (Investigation) check. These relics
+      have no intrinsic powers or value, but are highly sought after in the Republic.
     Table: 
-      Meta : 
-        Columns :
-          - D6
-          - Encounter
-        Rows :
-          -
-            - 1
-            - TBD
-          -
-            - 2
-            - TBD
-          -
-            - 3
-            - TBD
-          -
-            - 4
-            - TBD
-          -
-            - 5
-            - TBD
-          -
-            - 6
-            - TBD
+      01 - 04 : Damaged Icon or Statue of an Old Pantheon God
+      05 - 08 : Ruined Book or Manuscript
+      09 - 12 : Rusted or Shattered Weapon or Tool
+      13 : Good Quality Icon or Statue of an Old Pantheon God
+      14 : Excellent Quality Icon or Statue of an Old Pantheon God
+      15 : Good Quality Book or Manuscript
+      16 : Excellent Quality Book or Manuscript
+      17 : Intact Weapon or Tool
+      18 - 19 : Random Magic Item from Table A
+      20 : Random Magic Item from Table B
   -
     Subtitle: Outer City Districts
     Text: >-
-      The once mighty walls of Terraworth have been breached in several places, and the massive
-      battering ram used by Baltatrax lies in ruins at the broken gate. The buildings directly
-      within the city walls show much the same damage as the buildings outside, and it is clear
-      that a conflagration destroyed much of what the Demon Lord's hordes did not.
+      The once mighty walls of Terraworth have been breached in several places, and the
+      massive battering ram used by Baltatrax lies in ruins at the broken gate. The
+      buildings directly within the city walls show much the same damage as the buildings
+      outside, and it is clear that a conflagration destroyed much of what the Demon Lord's
+      hordes did not.
 
 
-      The outer districts were primarily slums and industrial areas. The fabled Forges of Terraworth,
-      which once armed and supplied the legions of the Imperial Army, are located in the outer
-      districts. The massive forges are known to hold hundreds of thousands, if not millions, of
-      unfinished weapons and blanks. Despite the centuries of pillaging by both the hordes and
-      adventurous relic hunters, it is difficult not to trip over the vast quantity of unfinished
-      materiel in and around the forges. Most of the pieces are mundane and otherwise uninteresting
-      aside from their age, but can fetch a fair price to the right buyers.
+      The outer districts were primarily slums and industrial areas. The fabled Forges of
+      Terraworth, which once armed and supplied the legions of the Imperial Army, are
+      located in the outer districts. 
 
 
       Most relic hunters who make it past the city walls venture no farther than the massive
-      industrial foundries of the outer districts. The inner city is considered cursed, and recent
-      stories of near-death escapes from terrifying creatures have done nothing to discourage this
-      notion.
+      industrial foundries of the outer districts. The inner city is considered cursed, and
+      recent stories of near-death escapes from terrifying creatures have done nothing to
+      discourage this notion.
+
+      
+      The massive forges are known to hold hundreds of
+      thousands, if not millions, of unfinished weapons and blanks. Despite the centuries
+      of pillaging by both the hordes and adventurous relic hunters, it is difficult not
+      to trip over the vast quantity of unfinished materiel in and around the forges. Most
+      of the pieces are mundane and otherwise uninteresting aside from their age, but can
+      fetch a fair price to the right buyers.
+
+
+      The forges are comparatively safe, but if the party spends too long gathering blanks
+      and scrap, there is a good chance that a random patrol will stumble upon them. While
+      the forges are no longer lit, the area still contains several environmental hazards.
+      Large acid vats, once used to clean blanks and stamps, have not lost much potency
+      over the years. Flammeble materials are ubiquitous, and a stray spark or flame can
+      result in lethal detonations.
+    Table:
+      Meta:
+        Columns:
+          - Hazard
+          - Trigger
+          - Effect
+        Rows:
+          -
+            - Acid Pit
+            - DC 15 Dexterity (Acrobatics)
+            - >-
+              On fail: fall into the pit and take 2d6 acid damage per round.
+          -
+            - Explosive Barrel
+            - Electric or Fire Damage
+            - >-
+              All creatures in a 20 ft. radius sphere take 7d6 fire damage.
+          -
+            - Collapsing Rubble
+            - On Missed Attack
+            - >-
+              All creatures within 5 ft. of a rubble hazard take 1d6 bludgeoning damage.
+          -
+            - Trip Hazard
+            - DC 15 Dexterity (Acrobatics)
+            - >-
+              On fail: fall prone.
+  -
+    Text: >-
+      Beyond the forges lie the 
+      
