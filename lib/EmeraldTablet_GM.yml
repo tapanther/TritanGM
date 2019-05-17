@@ -454,10 +454,17 @@ Content :
       seem to avoid the tower. A DC 12 Intelligence (Investigation) check will find a
       forgotten satchel in the barracks that looks too new to be from the First Age.
       Inside the satchel, some minor rations and supplies can be found, but the only
-      thing of interest is a notebook filled with incomprehensible symbols. One page
+      thing of interest is a notebook filled with incomprehensible symbols. A DC 17
+      Wisdom (Insight) check is needed to decipher some of the journal. One page
       near the end has a map, but it is unlabeled and too low scale to figure out
       immediately. A successful DC 13 Intelligence (History) check will allow the
       characters to realize that the map is of the former city of Terraworth.
+
+      
+      !!! note "Pleas' Journal"
+          *570Y 2M 18KAL* - I saw the light of the golden candles that shone down upon him
+          who dwells beneath the brass gates, an angel cast out of the tribe of the martyr
+          and sealed with hellfire. 
   -
     separate : True
     Title : City of Terraworth
@@ -506,13 +513,15 @@ Content :
 
         - One dozen mundane melee and ranged weapons
         - One dozen armor pieces of mixed type
-        - 1000 Gold Pieces
-        - 4 Random Minor Magical Items
+        - Roll once on the [Treasure Hoard: Challenge 5-10 Table in the DMG][TreasureTableDnDB]
 
 
       The outskirts are occasionally patrolled by Pleas' minions. At least one of the
       creatures will attempt to flee and alert his master to the intruders. If the minion
       manages to evade the party, encounters within the city are reinforced.
+
+
+      [TreasureTableDnDB]: https://www.dndbeyond.com/sources/dmg/treasure#TreasureTables
     Table: 
       Meta : 
         Columns :
@@ -618,4 +627,3 @@ Content :
   -
     Text: >-
       Beyond the forges lie the 
-      
