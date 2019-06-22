@@ -3,7 +3,7 @@ node : Campaign
 template : Generic.md
 control :
   - subtitle_headings
-title : The Emerald Tablets
+title : Emerald Tablets
 GeneralInfo :
   Description : >-
     The Emerald Tablets are a pentad of artifacts from before the First Age, which
@@ -32,6 +32,42 @@ GeneralInfo :
     The tablets' precise location has been lost to history. When Terraworth fell
     early during the Great Sack, the vaults that held the tablets were buried beneath
     tons of rubble, sealed off from the rest of the world.
+
+
+    !!! tip "Random First Age Treasure"
+
+        First Age materials for use with Azoth's enchantment circle, or sold at a high
+        profit on the Siddar/Blackpoint markets. To this end, the party should be
+        encouraged to thoroughly search and explore the area.
+
+
+        Note that the random treasure tables on this sheet typically do not specify a
+        quantity. For example, searching through Arkala may yield "Ruined Book or
+        Manuscript", but it would be strange for the entire town to possess only a single
+        damaged book.  You may roll multiple times on the treasure tables to generate
+        additional treasures, and you may roll to determine the quantity of each treasure
+        that is generated.
+
+
+        Treasure comes in various "grades":  
+
+          - Ruined / Rusted / Shattered
+          - Good / Acceptable / Damaged
+          - Excellent / Intact
+          - Unique
+
+
+        Treasure Quantities:
+
+          - Ruined : 4d6
+          - Good : 1d8
+          - Excellent : 1d2 (or just 1)
+
+
+        Unique treasure is usually a magic item or a named item, either directly
+        granted by the table or rolled on one of the Magic Item Tables from the DMG.
+        These can be things like "+" weapons, armor, and ammo, magic wands, magic
+        scrolls, potions, and named magic items.        
 Content :
   -
     separate : True
@@ -238,11 +274,20 @@ Content :
 
       If the pair is encountered later on, they will make the same offer, but
       will only have their memorized knowledge available, as the maps and notes
-      were destroyed when they were forced to flee Arkala.
+      were destroyed when they were forced to flee Arkala. Some details will be
+      missing, but between the pair they can remember every major step and landmark
+      along their planned route.
 
 
-      Regardless of how they are met, the party will eventually notice that
-      Arther has been extremely careful when handling a small satchel. A DC
+      Regardless of how they are met, the pair will guide the party deep into the
+      ruins of Terraworth, into what used to be the governmental district. Based
+      on the information they've collected in the past several months indicates
+      that there is a previously undiscovered vault beneath the Imperial Archives,
+      which could hold untold riches.
+
+
+      After a few hours together, the party will eventually notice that
+      Leighya has been extremely careful when handling a small satchel. A DC
       14 Wisdom (Perception) check can allow the party to hear a faint rasping
       sound coming from within the sack, which quickly prompts Arther to gently
       pat the bag unconciously.
@@ -427,44 +472,66 @@ Content :
     Subtitle : Krutoq's Tower
     Text : >-
       To the far Northwest of Terraworth lies a ruined fortified tower. Officially
-      constructed as a military fortification for the Empire, the tower was constructed
-      by Krutoq prior to his ascencion to lichdom for his own evil uses.
+      constructed as a military fortification for the Empire, the tower was constructed by
+      Krutoq prior to his ascencion to lichdom for his own evil uses.
 
 
       Although Krutoq was defeated some 400 years prior to the Great Sack, the battered
-      remains of his tower still stand. The inhabitants of Terraworth believed the
-      tower to be cursed, as three consecutive Councillors met unfortunate fates shortly
-      after ordering the tower's destruction. Content to leave well enough alone, successive
+      remains of his tower still stand. The inhabitants of Terraworth believed the tower
+      to be cursed, as three consecutive Councillors met unfortunate fates shortly after
+      ordering the tower's destruction. Content to leave well enough alone, successive
       Councillors abandoned all plans to take down the tower.
 
 
       At the present time, the tower is partially collapsed from centuries of wear and
-      neglect. Only the bottom two levels are accessible, as the rest have collapsed
-      in on themselves. Outside, the ground is barren and littered with debris of the
-      upper floors.
+      neglect. Only the bottom two levels are accessible, as the rest have collapsed in on
+      themselves. Outside, the ground is barren and littered with debris of the upper
+      floors.
 
 
-      The first level is composed of a small fort, complete with a small barracks
-      and an emptied armory. There are several large holes where the attacking
-      Imperial garrison breached the fort, and the structure gives the impression that
-      it is being held together by the barest of threads.
+      The first level is composed of a small fort, complete with a small barracks and an
+      emptied armory. There are several large holes where the attacking Imperial garrison
+      breached the fort, and the structure gives the impression that it is being held
+      together by the barest of threads.
 
 
       Aside from the debris, the tower is empty. Even the creatures that roam the land
       seem to avoid the tower. A DC 12 Intelligence (Investigation) check will find a
       forgotten satchel in the barracks that looks too new to be from the First Age.
-      Inside the satchel, some minor rations and supplies can be found, but the only
-      thing of interest is a notebook filled with incomprehensible symbols. A DC 17
-      Wisdom (Insight) check is needed to decipher some of the journal. One page
-      near the end has a map, but it is unlabeled and too low scale to figure out
-      immediately. A successful DC 13 Intelligence (History) check will allow the
-      characters to realize that the map is of the former city of Terraworth.
+      Inside the satchel, some minor rations and supplies can be found, but the only thing
+      of interest is a notebook filled with incomprehensible symbols. A DC 17 Wisdom
+      (Insight) check is needed to decipher some of the journal. One page near the end has
+      a map, but it is unlabeled and too low scale to figure out immediately. A successful
+      DC 13 Intelligence (History) check will allow the characters to realize that the map
+      is of the former city of Terraworth.
 
       
       !!! note "Pleas' Journal"
-          *570Y 2M 18KAL* - I saw the light of the golden candles that shone down upon him
+
+          *569Y 7M 18KAL* - I saw the light of the golden candles that shone down upon him
           who dwells beneath the brass gates, an angel cast out of the tribe of the martyr
-          and sealed with hellfire. 
+          and sealed with hellfire. I know what I must do. My master wills it.
+
+          The blasphemers who dared to cast me out shall taste the righteous hellfire of
+          my master's wrath, delivered upon the swordpoint of the cast away angel.
+
+          *569Y 10M 8IDE* - I have found the brass gates, but the heretics' seals
+          frustrate me still. My master grows impatient. I must not disappoint him.
+
+          *570Y 1M 6NON* - A vision came to me. I must walk in the angel's footsteps
+          if I am to free him. I have studied the *true* holy texts of Elumin, and with
+          the enchained angel's tomes I shall ascend to Elumin's side.
+
+          *570Y 3M 12KAL* - The first seal is broken. My master is pleased. The angel
+          Elandorr shall once again spread my master's light throughout Tritan, and I
+          shall have my revenge upon the apostates. Praise Elumin.
+
+          Tomorrow, I shall return to the angel's keep and continue my search for the
+          holy basin upon which the angel shall restore his heavenly host.
+          
+          *570Y 3M 3KAL* I have failed in my search for the angel's basin. I can only
+          trust in Elumin's grace that the angel shall prevail despite my failure. I
+          will return to the brass gates on the morrow.
   -
     separate : True
     Title : City of Terraworth
@@ -513,15 +580,13 @@ Content :
 
         - One dozen mundane melee and ranged weapons
         - One dozen armor pieces of mixed type
-        - Roll once on the [Treasure Hoard: Challenge 5-10 Table in the DMG][TreasureTableDnDB]
+        - Roll once on the
+          [Treasure Hoard: Challenge 5-10 Table in the DMG][5_10_Hoard_TreasureTable]
 
 
       The outskirts are occasionally patrolled by Pleas' minions. At least one of the
       creatures will attempt to flee and alert his master to the intruders. If the minion
       manages to evade the party, encounters within the city are reinforced.
-
-
-      [TreasureTableDnDB]: https://www.dndbeyond.com/sources/dmg/treasure#TreasureTables
     Table: 
       Meta : 
         Columns :
@@ -530,22 +595,24 @@ Content :
         Rows :
           -
             - 1
-            - TBD
+            - 2d6 Pack of [Death Dogs][DeathDog]
           -
             - 2
-            - TBD
+            - 1d4 [Black Earth Cultists][BlackEarthCultist]
           -
             - 3
-            - TBD
+            - 1d4 [Gargoyle]s
           -
             - 4
-            - TBD
+            - 2d8 [Skeleton] Patrol + [Deathlock Wight][DeathlockWight]
           -
             - 5
-            - TBD
+            - 1d4 [Leucrotta]
           -
             - 6
-            - TBD
+            - >-
+              [Adult Blue Dragon][AdultBlueDraon] flies overhead.
+              DC 18 Dexterity (Stealth) to avoid detection.
   -
     Text: >-
       The outskirt ruins have been largely picked clean, but the occasional minor relic can
@@ -560,8 +627,8 @@ Content :
       15 : Good Quality Book or Manuscript
       16 : Excellent Quality Book or Manuscript
       17 : Intact Weapon or Tool
-      18 - 19 : Random Magic Item from Table A
-      20 : Random Magic Item from Table B
+      18 - 19 : Random Magic Item from [Magic Item Table A][MIT_A]
+      20 : Random Magic Item from [Magic Item Table B][MIT_B]
   -
     Subtitle: Outer City Districts
     Text: >-
@@ -626,4 +693,270 @@ Content :
               On fail: fall prone.
   -
     Text: >-
-      Beyond the forges lie the 
+      Beyond the forges lies the ruins of the tenement districts and commercial zones.
+      The districts are largely burnt down, and there's nothing of particular interest
+      within. A few of the remaining buildings contain the lairs of dangerous creatures,
+      and are best avoided. Arther and Leighya will strongly suggest that the party avoid
+      the rest of the Outer Districts.
+  -
+    Subtitle: Brass Gates of Terraworth
+    Text: >-
+      The Imperial District (and the Imperial Archive) is separated from the surrounding
+      ruins by an internal rampart. The main entryway into the district was through a set
+      of large, decorative brass gates, which are little more than twisted wrecks amidst
+      the rubble. Still, the gates remain within the popular mindset as the defining line
+      between the comparatively safe outer city and the terrors that lie within the inner
+      city.
+
+      
+      The Imperial District holds the ruins of hundreds of massive structures, ranging
+      from the burnt rubble of the former University of the Arcane Sciences to the collapsed
+      domes of the Hippodrome. Many of these buildings are rumored to hold powerful
+      ancient artifacts. Unfortunately for would be treasure hunters, the inner districts
+      host many dangerous creatures and abominations.
+  -
+    Subtitle: University of Arcane Sciences
+    Text: >-
+      The University was once a leading artificer institution for the Empire. The magi of
+      the University were responsible for many of the metallurgic and enchantment advances
+      that propelled Terraworth into becoming the Armory of the Empire.
+
+
+      The University consisted of multiple large auditoriums and alchemical laboratories.
+      Small scale replicas of the massive Terraworth Forges served as hands-on workshops
+      for many of the Empire's artificers.
+
+
+      Today, the university lies to the southwest of the city center, a burnt out skeleton
+      of it's former self. The lecture halls have collapsed into small, dusty calderas.
+      Nearly all of the forges exploded shortly after the city was ransacked due to the
+      lack of maintenance, starting the fires that consumed the rest of the University
+      and the surrounding dormitories.
+
+
+      The ruins are sure to contain artifacts buried under tons of rubble. A DC 16
+      Strength check and at least two hours of hard labor are needed to clear a
+      region large enough to search. A subsequent DC 15 Intelligence (Investigation)
+      check to find an artifact within the ruined buildings. Consult the following
+      table for a success.
+    Table:
+      01 - 05 : Good Quality Book or Manuscript
+      06 - 10 : Excellent Quality Book or Manuscript
+      11 - 14 : Roll 1d4 times on [Magic Item Table A][MIT_A]
+      15 - 16 : Roll 1d2 times on [Magic Item Table B][MIT_B]
+      17 - 18 : Roll once on [Magic Item Table C][MIT_C]
+      19 : Roll once on [Magic Item Table F][MIT_F]
+      20 : >-
+        Roll again. On a second roll of 15+, Random Magic Item from
+        [Magic Item Table G][MIT_G], otherwise one item from [Magic Item Table F][MIT_F]
+  -
+    Text: >-
+      The University is a dangerous place, particularly so due to the large number of
+      arcane experiments that were abandoned or ruined during the sack of the city.
+      For each hour spent at the University grounds, roll once for an encounter. On
+      a roll of 15+, an encounter occurs.
+    Table:    
+      Meta : 
+        Columns :
+          - D6
+          - Encounter
+        Rows :
+          -
+            - 1
+            - 2d4 [Gibbering Mouthers][GibberingMouther]
+          -
+            - 2
+            - 1d6 [Intellect Devourer][IntellectDevourer]
+          -
+            - 3
+            - >-
+              1 [Mindwitness] and 1d4 [Gazers]
+          -
+            - 4
+            - 2d8 [Skeleton] Patrol + [Deathlock Wight][DeathlockWight]
+          -
+            - 5
+            - 1 [Shadow Horror][ShadowHorror]
+          -
+            - 6
+            - 1 [Death Slaad][DeathSlaad]
+  -
+    Subtitle: Terraworth Hippodrome
+    Text: >-
+      To the East of the central districts lies the collapsed domes of the Terraworth
+      Hippodrome. The complex was once the largest enterntainment venue within the city,
+      capable of hosting over 60,000 spectators in the main collosseum alone. Smaller
+      arenas and racetracks surround the massive central structure. During the height of
+      the Empire, the Terraworth Hippodrome hosted every kind of spectator event, from
+      horse and chariot races to gladitorial contests and even simulated naval battles.
+
+
+      In the centuries since the sack, the structural integrity of most of the domes has
+      been compromised. The central dome has collapsed completely. burying the area in
+      thousands of tons of concrete rubble. A few of the smaller domes, especially the
+      older, pre-Imperial amphitheatre, still stand to this day, but show signs of
+      cracking and stress.
+
+
+      It is likely that the domes contain large amounts of First Age artifacts and
+      relics, buried beneath the collapsed domes. A DC 17 Strength check is needed in
+      order to clear off the large pieces of debris from an area in order to
+      search. A subsequent successful DC 14 Wisdom (Perception) check will allow the
+      party to find interesting objects within the rubble.
+    Table:
+      01 - 08 : Good Quality Memorabilia
+      09 - 13 : Excellent Quality Memorabilia
+      14 - 19 : Intact Weapon
+      20 : Roll once on [Magic Item Table F][MIT_F]
+  -
+    Text: >-
+      The Hippodrome is a dangerous location within Terraworth, primarily due to the
+      instability of the ruins. Most creatures avoid the domes, but if the party has
+      been previously spotted by a patrol, then one of Pleas' patrols may stumble upon
+      them.
+
+
+      Much like an avalanche, any disturbance of the ruins can spell disaster for
+      anyone caught in the region. If the party causes a small disturbance such as
+      loud sounds, strong ground vibrations, explosions, or any result of
+      carelessness or combat, roll 1d20. On a result of 19 - 20, the structure
+      partially collapses. Everyone in the area must make a DC 18 Dexterity Saving
+      Throw to avoid being crushed by falling rubble. On a failed save, the creature
+      takes 4d10 bludgeoning damage, or half as much on a successful save as they
+      dodge the largest pieces.
+
+
+      If a creature inside the dome triggers a partial collapse for any reason, roll
+      1d10. If the rolled number is less than the number of partial collapses that have
+      occurred, the building fully collapses. Every creature within the structure takes
+      8d10 bludgeoning damage as the roof collapses.
+  -
+    Subtitle: Great Bazaar
+    Text: >-
+      The Great Bazaar to the north of the Hippodrome is a large, enclosed forumn that
+      once held the bustling crowds of Terraworth's finest merchants and their customers.
+      The bazaar's wares have long since been looted or destroyed by the invading hordes.
+      Occasionally however, there is an item of value that survived buried beneath the
+      wreckage. A DC 18 Wisdom (Perception) check is needed to spot the item within the
+      rubble.
+
+      The Bazaar is relatively safe, subject only to the occasional patrol by Pleas' minions.
+    Table:
+      01 - 15 : Roll once on [Common Magic Item Table][XGE_T]
+      16 - 20 : >-
+        Roll once on [Magic Item Table B][MIT_B]. On a successful check over 25, use
+        [Magic Item Table F][MIT_F]
+  -
+    Title: Imperial Forum
+    Text: >-
+      The Terraworth Forum was the seat of administration for government of the city
+      and the surrounding territories. Major ruins within the Forum include the City
+      Council Chamber, the Basilica of Terraworth, the Imperial Gardens, and the
+      Imperial Palace.
+  -
+    Subtitle: City Council Chamber
+    Text: >-
+      The official seat of the Councillors of Terraworth, the Council Chamber was the
+      seat of power for the Terraworth Imperial Province. Located close to the center
+      of the city, to the west of the Basilica, the Council Chamber is surrounded by
+      the ruins of the various Forum buildings that housed the city's administration.
+
+
+      As a Free City, Terraworth enjoyed a great deal of autonomy within the
+      Empire. While the Councillor was officially the Emperor's direct
+      representative, in reality the Councillor was practically a monarch, ruling
+      over the Ophidian Valley much like in the Pre-Imperial Age. Given Terraworth's
+      massive value as a forge city, few in the Imperial Government at the World's
+      Gate dared to try to curtail Terraworth's prerogatives.
+
+
+      The Council Chamber, while not as lavish as the Imperial Palace, was modeled on
+      classical temple architecture, with the central structure flanked by dozens of
+      columns supporting an intricately carved elevation. The inside of the structure
+      was divided into several smaller working chambers surrouding a large audience
+      hall. Since the Great Sack, the chamber roof has partially collapsed, along with
+      several columns, exposing the inner chambers to the elements.
+
+
+      The Council Chamber was cursed by Baltatrax after his conquest of the
+      city. Upon entering the structure, a non-evil aligned creature must make a DC
+      18 Charisma Saving Throw, or gain a madness effect. Roll once on the [Long-Term
+      Madness][LongTermMadness] table and apply the effect for 1d10 x 10 hours, or
+      until cured through *lesser restoration* or *remove curse*.
+  -
+    Subtitle: Basilica
+    Text: >-
+      The golden spires of the Basilica of Terraworth were once as famous as the
+      Brass Gates of the Imperial District. Towering above the rest of the skyline,
+      the spires were dedicated to specific gods of the Old Pantheon.
+
+
+      Unfortunately for the party, Baltatrax had the Basilica utterly wiped off the
+      face of Tritan, leaving only a massive scar at the city's center. The only
+      visible remnant of the building is the rough outline of the Basilica floorplan.
+
+
+      There is a hidden entrance to the Basilica Catacombs that has remained
+      undisturbed since before the Great Sack. A DC 25 Intelligence (Investigation)
+      check is needed to find the entrance. A subsequent DC 17 Strength check can
+      force open the sealed entrance, or a DC 16 Intelligence (Religion or History)
+      to deduce the correct unlocking sequence for the Old Pantheon symbols found
+      carved into the stone.
+  -
+    Subtitle: Basilica Catacombs
+    Text: >-
+      The Basilica Catacombs hold the bodies of hundreds of Terraworth's holy
+      figures, including the last Kings and Councillors of their respective eras.
+      The catacombs are relatively small compared to the size of the city, as very
+      few earned the honor of being buried within the hallowed ground.
+
+
+      The catacombs connect via a secret tunnel to the Vault beneath the Imperial
+      Palace. The passage is hidden behind a false burial shelf bearing the inscription
+      'Elandorr, City Councillor'. The sarcophagus within the shelf is empty and
+      can be pulled away to reveal the passage.
+  -
+    Subtitle: Imperial Gardens
+    Text: >-
+      The Imperial Gardens consist of the Imperial Palace and surrounding grounds.
+      The gardens were once a beautifully detailed botanical garden, typically only
+      available to senior government officials and Imperial dignitaries.
+
+
+      The gardens today are the primary roaming grounds of many dangerous creatures,
+      which often break out into fights for dominance or control of territory. The
+      vegetation is overgrown and many of the ground's water features have long since
+      dried up, leaving only the cracked pool floors.
+    Table:
+      01 - 20 : TBD ENCOUNTERS
+  -
+    Subtitle: Imperial Palace
+    Text: >-
+      The Imperial Palace was originally the home of the Terraworth royal family
+      in the time before the Empire.
+Refs:
+  5_10_Hoard_TreasureTable: https://www.dndbeyond.com/sources/dmg/treasure#TreasureTables
+  XGE_T: https://docs.google.com/spreadsheets/d/1iEJJA9B_P-K_mDe97Lr6nrxg5EXDR1NwPAHdh2vcxmk/edit?usp=sharing
+  MIT_A: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA
+  MIT_B: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB
+  MIT_C: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableC
+  MIT_D: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableD
+  MIT_E: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableE
+  MIT_F: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableF
+  MIT_G: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableG
+  MIT_H: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableH
+  MIT_I: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableI
+  DeathDog: https://www.dndbeyond.com/monsters/death-dog
+  BlackEarthCultist: https://www.dndbeyond.com/monsters/black-earth-cultist
+  Gargoyle: https://www.dndbeyond.com/monsters/gargoyle
+  Skeleton: https://www.dndbeyond.com/monsters/skeleton
+  DeathlockWight: https://www.dndbeyond.com/monsters/deathlock-wight
+  Leucrotta: https://www.dndbeyond.com/monsters/leucrotta
+  AdultBlueDragon: https://www.dndbeyond.com/monsters/adult-blue-dragon
+  GibberingMouther: https://www.dndbeyond.com/monsters/gibbering-mouther
+  IntellectDevourer: https://www.dndbeyond.com/monsters/intellect-devourer
+  Mindwitness: https://www.dndbeyond.com/monsters/mindwitness
+  Gazer: https://www.dndbeyond.com/monsters/gazer
+  ShadowHorror: https://www.dndbeyond.com/monsters/shadow-horror
+  DeathSlaad: https://www.dndbeyond.com/monsters/death-slaad
+  LongTermMadness : https://www.dndbeyond.com/sources/dmg/running-the-game#Madness
