@@ -1,4 +1,3 @@
-
 ---
 title: {% block title %}{% endblock %}
 summary: {% block summary %}{% endblock %}
