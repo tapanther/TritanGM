@@ -18,6 +18,7 @@ site_url: 'https://tapanther.github.io/TritanGM/'
 
 markdown_extensions:
   - admonition
+  - pymdownx.superfences
 
 nav:
   - Home : index.md

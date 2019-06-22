@@ -1,3 +1,4 @@
+
 ---
 title: {% block title %}{% endblock %}
 summary: {% block summary %}{% endblock %}
@@ -79,6 +80,14 @@ Date | Name | Event
 - [{{ link }}][]
 {% endfor %}
 {% endif %}{# Links #}
+{% endblock %}
+
+{% block pageRefs %}
+{% if Refs %}
+{% for ref, link in Refs|dictsort %}
+[{{ ref }}]: {{ link }}
+{% endfor %}
+{% endif %}{# Refs #}
 {% endblock %}
 
 {% include 'links.md.j2' %}
