@@ -182,6 +182,47 @@ Content :
       19 : Excellent Quality Book or Manuscript
       20 : Intact Weapon or Tool
   -
+    Text: >-
+      The towns of Terraworth are relatively safe compared to the central city,
+      but the players may still encounter dangerous creatures. In particular,
+      an Adult Blue Dragon has made its lair to the far Southwest of Terraworth,
+      and occasionally passes over the region while hunting. The dragon's lair is
+      covered in a separate, dedicated section.
+
+      
+      One of these encounters is a patrol by [Pleas Morgan's]
+      (EmeraldTablet_GM.md#pleas-morgan) minions. These minions will behave
+      differently than the other local creatures, as they will attempt to send
+      a runner into the city proper to alert their master to the intruders. If a
+      runner makes it to the city, the players can expect heavier patrols as
+      outlined in the [Pleas' Patrols)(EmeraldTablet_GM.md#pleas-patrols] section.
+    Table: 
+      Meta : 
+        Columns :
+          - D6
+          - Encounter
+        Rows :
+          -
+            - 1
+            - 2d6 Pack of [Death Dogs][DeathDog]
+          -
+            - 2
+            - 1d4 [Black Earth Cultists][BlackEarthCultist]
+          -
+            - 3
+            - 1d4 [Gargoyle]s
+          -
+            - 4
+            - 2d8 [Skeleton] Patrol + [Deathlock Wight][DeathlockWight]
+          -
+            - 5
+            - 1d4 [Leucrotta]
+          -
+            - 6
+            - >-
+              [Adult Blue Dragon][AdultBlueDragon] flies overhead.
+              DC 18 Dexterity (Stealth) to avoid detection.
+  -
     Subtitle : Arkala Ruins
     Text : >-
       The first town ruins along the Lashend River is the town of Arkala. A former
@@ -588,32 +629,6 @@ Content :
       The outskirts are occasionally patrolled by Pleas' minions. At least one of the
       creatures will attempt to flee and alert his master to the intruders. If the minion
       manages to evade the party, encounters within the city are reinforced.
-    Table: 
-      Meta : 
-        Columns :
-          - D6
-          - Encounter
-        Rows :
-          -
-            - 1
-            - 2d6 Pack of [Death Dogs][DeathDog]
-          -
-            - 2
-            - 1d4 [Black Earth Cultists][BlackEarthCultist]
-          -
-            - 3
-            - 1d4 [Gargoyle]s
-          -
-            - 4
-            - 2d8 [Skeleton] Patrol + [Deathlock Wight][DeathlockWight]
-          -
-            - 5
-            - 1d4 [Leucrotta]
-          -
-            - 6
-            - >-
-              [Adult Blue Dragon][AdultBlueDraon] flies overhead.
-              DC 18 Dexterity (Stealth) to avoid detection.
   -
     Text: >-
       The outskirt ruins have been largely picked clean, but the occasional minor relic can
@@ -933,8 +948,43 @@ Content :
   -
     Subtitle: Imperial Palace
     Text: >-
-      The Imperial Palace was originally the home of the Terraworth royal family
-      in the time before the Empire.
+      The Imperial Palace was originally the home of the Terraworth royal family in
+      the time before the Empire. The Palace itself is a majestic U-shaped *corps de
+      logic*, flanked on either side by symmetrical secondary wings. When the Empire
+      formally annexed Terraworth, the Palace was converted into the seat of the
+      Imperial Administration for the region. Most of the original royal apartments
+      have been converted into offices and suites to hold the growing
+      bureaucracy. Although the City Councillor traditionally held office within the
+      Council Chamber, a small section of the Northern wing served as the private
+      residence for the incumbent.
+
+
+      Of particular interest to the Party, the cellars beneath the Palace were
+      converted into the Terraworth Imperial Archives, the location of many of
+      Terraworth's most valuable treasures, and the location of the Hidden Vault
+      holding Krutoq's phylactery.
+  -
+    Title: Pleas' Patrols
+    Text: >-
+      Pleas Morgan is a cleric necromancer of Elumin. He has enthralled and raised
+      a small army of creatures to protect him as he attempts to free Krutoq's
+      phylactery from the Terraworth Vaults.
+
+
+      The following table contains the types of patrol that the players may encounter
+      while in Terraworth.
+    Table:
+      Meta : 
+        Columns :
+          - Type
+          - Locations
+          - Encounter
+        Rows :
+          -
+            - Light Patrol
+            - Anywhere
+            - 2d8 [Skeleton] Patrol + [Deathlock Wight][DeathlockWight]
+
 Refs:
   5_10_Hoard_TreasureTable: https://www.dndbeyond.com/sources/dmg/treasure#TreasureTables
   XGE_T: https://docs.google.com/spreadsheets/d/1iEJJA9B_P-K_mDe97Lr6nrxg5EXDR1NwPAHdh2vcxmk/edit?usp=sharing
