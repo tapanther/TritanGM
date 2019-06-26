@@ -141,7 +141,7 @@ Content :
         Rows :
           -
             - 1
-            - Gnoll Hunting Pack (1d8 Hunters, 2d8 Gnolls, 1d4 Flesh Gnawers)
+            - Gnoll Hunting Pack (2d8 Hunters, 3d8 Gnolls, 1d4 Flesh Gnawers)
           -
             - 2
             - 1d4 Leucrotta Leucrottas
@@ -150,7 +150,9 @@ Content :
             - 2d6 Death Dogs
           -
             - 4
-            - Kobold Tribe (2d20 Kobolds, 1d6 Kobold Inventors, 1d3 Kobold Scale Sorcerers, 1d6 Kobold Dragonshield)
+            - >-
+              Kobold Tribe (2d20 Kobolds, 1d6 Kobold Inventors,
+              1d3 Kobold Scale Sorcerers, 1d6 Kobold Dragonshield)
           -
             - 5
             - Orc Tribe
@@ -207,10 +209,10 @@ Content :
             - 2d6 Pack of [Death Dogs][DeathDog]
           -
             - 2
-            - 1d4 [Black Earth Cultists][BlackEarthCultist]
+            - 2d6+4 [Dust Mephit]
           -
             - 3
-            - 1d4 [Gargoyle]s
+            - 1d4+4 [Ghast] + [Poltergeist]
           -
             - 4
             - 2d8 [Skeleton] Patrol + [Deathlock Wight][DeathlockWight]
@@ -774,7 +776,7 @@ Content :
     Table:    
       Meta : 
         Columns :
-          - D6
+          - D8
           - Encounter
         Rows :
           -
@@ -782,20 +784,23 @@ Content :
             - 2d4 [Gibbering Mouthers][GibberingMouther]
           -
             - 2
-            - 1d6 [Intellect Devourer][IntellectDevourer]
+            - 1d4 [Intellect Devourer][IntellectDevourer] + 1d6 [Wight][Wight]
           -
             - 3
             - >-
-              1 [Mindwitness] and 1d4 [Gazers]
+              1 [Mindwitness] and 2d4 [Gazers]
           -
             - 4
-            - 2d8 [Skeleton] Patrol + [Deathlock Wight][DeathlockWight]
+            - 1 [Adult Oblex][AdultOblex] + 1d4 [Ogre Zombie][OgreZombie] + 2d6 [Zombie]
           -
             - 5
             - 1 [Shadow Horror][ShadowHorror]
           -
             - 6
             - 1 [Death Slaad][DeathSlaad]
+          -
+            - 7
+            - 1d6 [Specter]
   -
     Subtitle: Terraworth Hippodrome
     Text: >-
@@ -964,6 +969,28 @@ Content :
       Terraworth's most valuable treasures, and the location of the Hidden Vault
       holding Krutoq's phylactery.
   -
+    Title: Golden Vault of Terraworth
+    Table:
+      01 : [Mummy] + TBD
+      02 : [Shield Guardian][ShieldGuardian]
+      03 : [Sword Wraith Warrior][SwordWraithWarrior]
+  -
+    Subtitle: Fight Against Pleas Morgan
+    Text: >-
+      !!! danger "Krutoq's Resurrection"
+          It is too late to stop the ritual that will resurrect Krutoq, but there is
+          still some time to prepare. The fight ahead will be significantly more
+          difficult if both Pleas and the newly arisen Elandorr are fought together,
+          so the players should be strongly encouraged to defeat Pleas quickly.
+
+
+          At the center of the ritual chamber lies Krutoq's sarcophagus, upon which
+          a [Corpse Flower][CorpseFlower] has bloomed. 
+  -
+    Subtitle: First Fight Against Elandorr Krutoq
+  -
+    Subtitle: Second Fight Against Elandorr Krutoq
+  -
     Title: Pleas' Patrols
     Text: >-
       Pleas Morgan is a cleric necromancer of Elumin. He has enthralled and raised
@@ -972,20 +999,45 @@ Content :
 
 
       The following table contains the types of patrol that the players may encounter
-      while in Terraworth.
+      while in Terraworth. There are several types of encounters that can be triggered
+      depending on where the party is and whether or not they have been spotted.
     Table:
       Meta : 
         Columns :
-          - Type
           - Locations
+          - Type
           - Encounter
         Rows :
           -
-            - Light Patrol
             - Anywhere
-            - 2d8 [Skeleton] Patrol + [Deathlock Wight][DeathlockWight]
-
+            - Medium
+            - 2d8 [Skeleton] Patrol + [Poltergeist] + [Deathlock Wight][DeathlockWight]
+          -
+            - Anywhere
+            - Light
+            - 1d6 [Shadow] + 2d6 [Dread Warrior][DreadWarrior]
+          -
+            - Inner Terraworth
+            - Light
+            - >-
+              1d4 [Black Earth Cultists][BlackEarthCultist] + 1
+              [Black Earth Priest][BlackEarthPriest]
+          -
+            - Inner Terraworth
+            - Hunter
+            - [Invisible Stalker][InvisibleStalker]
+          -
+            - Imperial Palace
+            - Heavy
+            - [Flamewrath] + 1d4 [Eternal Flame Guardian][EternalFlameGuardian]
+          -
+            - Imperial Palace
+            - Heavy
+            - >-
+              [Razerblast] + 1d4 [Eternal Flame Guardian][EternalFlameGuardian] +
+              [Eternal Flame Priest][EternalFlamePriest]
 Refs:
+  # DMG Stuff
   5_10_Hoard_TreasureTable: https://www.dndbeyond.com/sources/dmg/treasure#TreasureTables
   XGE_T: https://docs.google.com/spreadsheets/d/1iEJJA9B_P-K_mDe97Lr6nrxg5EXDR1NwPAHdh2vcxmk/edit?usp=sharing
   MIT_A: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA
@@ -997,17 +1049,46 @@ Refs:
   MIT_G: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableG
   MIT_H: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableH
   MIT_I: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableI
-  DeathDog: https://www.dndbeyond.com/monsters/death-dog
-  BlackEarthCultist: https://www.dndbeyond.com/monsters/black-earth-cultist
-  Gargoyle: https://www.dndbeyond.com/monsters/gargoyle
-  Skeleton: https://www.dndbeyond.com/monsters/skeleton
-  DeathlockWight: https://www.dndbeyond.com/monsters/deathlock-wight
-  Leucrotta: https://www.dndbeyond.com/monsters/leucrotta
+  LongTermMadness : https://www.dndbeyond.com/sources/dmg/running-the-game#Madness
+  # Creatures
+  ## Beasts / Unaligned
   AdultBlueDragon: https://www.dndbeyond.com/monsters/adult-blue-dragon
+  DeathDog: https://www.dndbeyond.com/monsters/death-dog
+  DustMephit: https://www.dndbeyond.com/monsters/dust-mephit
+  Gargoyle: https://www.dndbeyond.com/monsters/gargoyle
+  Leucrotta: https://www.dndbeyond.com/monsters/leucrotta
+  ShieldGuardian: https://www.dndbeyond.com/monsters/shield-guardian
+  ## Monstrosities / Aberrations
+  AdultOblex: https://www.dndbeyond.com/monsters/adult-oblex
+  DeathSlaad: https://www.dndbeyond.com/monsters/death-slaad
+  Gazer: https://www.dndbeyond.com/monsters/gazer
   GibberingMouther: https://www.dndbeyond.com/monsters/gibbering-mouther
   IntellectDevourer: https://www.dndbeyond.com/monsters/intellect-devourer
   Mindwitness: https://www.dndbeyond.com/monsters/mindwitness
-  Gazer: https://www.dndbeyond.com/monsters/gazer
   ShadowHorror: https://www.dndbeyond.com/monsters/shadow-horror
-  DeathSlaad: https://www.dndbeyond.com/monsters/death-slaad
-  LongTermMadness : https://www.dndbeyond.com/sources/dmg/running-the-game#Madness
+  ## Ghosts
+  Ghost: https://www.dndbeyond.com/monsters/ghost
+  Poltergeist: https://www.dndbeyond.com/monsters/poltergeist
+  Shadow: https://www.dndbeyond.com/monsters/shadow
+  Specter: https://www.dndbeyond.com/monsters/specter
+  SwordWraithCommander: https://www.dndbeyond.com/monsters/sword-wraith-commander
+  SwordWraithWarrior: https://www.dndbeyond.com/monsters/sword-wraith-warrior
+  ## Undead
+  Deathlock: https://www.dndbeyond.com/monsters/deathlock
+  DeathlockWight: https://www.dndbeyond.com/monsters/deathlock-wight
+  DreadWarrior: https://www.dndbeyond.com/monsters/dread-warrior
+  InvisibleStalker: https://www.dndbeyond.com/monsters/invisible-stalker
+  Mummy: https://www.dndbeyond.com/monsters/mummy
+  OgreZombie: https://www.dndbeyond.com/monsters/ogre-zombie
+  Skeleton: https://www.dndbeyond.com/monsters/skeleton
+  Wight: https://www.dndbeyond.com/monsters/wight
+  Zombie: https://www.dndbeyond.com/monsters/zombie
+  ## Cultists
+  BlackEarthCultist: https://www.dndbeyond.com/monsters/black-earth-cultist
+  BlackEarthPriest: https://www.dndbeyond.com/monsters/black-earth-priest
+  EternalFlameGuardian: https://www.dndbeyond.com/monsters/eternal-flame-guardian
+  EternalFlamePriest: https://www.dndbeyond.com/monsters/eternal-flame-priest
+  Flamewrath: https://www.dndbeyond.com/monsters/flamewrath
+  Razerblast: https://www.dndbeyond.com/monsters/razerblast
+  ## Other
+  CorpseFlower: https://www.dndbeyond.com/monsters/corpse-flower
