@@ -48,9 +48,12 @@ Content :
           -
             - Reason for Travel
             - Employee / Owner / Company Representative
+          -
+            - Keywords
+            - Former Gendarme, Devoted to ICSC, Kindly from Age
   -
     Text : >-
-      #### Bio
+      *Bio*
 
 
       A former detective for the Siddar City Gendarmerie, Cochran was
@@ -60,7 +63,7 @@ Content :
       a group of investors, spurred by the dream of luxurious rail travel.
 
 
-      #### Secret
+      *Secret*
 
 
       The I.C.S.C. Board has threatened to remove Cochran from the
@@ -69,7 +72,7 @@ Content :
       would be disastrous for public perception in the company.
 
 
-      #### Alibi
+      *Alibi*
 
 
       Cochran's dominant hand has no strength due to an accident during
@@ -77,8 +80,1203 @@ Content :
       and the engineers in the locomotive at the time of the crimes.
 
 
-      #### Notable
+      *Notable*
 
 
       Silver Gray suit bearing the company lapel pin. Right hand doesn't
-      clench.
+      clench. Right Handed, but learned to use Left.
+  -
+    separate : True
+    Subtitle : Colonel Isham Labey
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Dragonborn (Red)
+          -
+            - Age
+            - 45
+          -
+            - Occupation
+            - Solder, Army of the Republic
+          -
+            - Cabin
+            - B3
+          -
+            - Reason for Travel
+            - Transfer to Blackpoint
+          -
+            - Keywords
+            - Honorable, Upright, Slightly Stupid, Humorless
+  -
+    Text : >-
+      *Bio*
+
+
+      A veteran of the recent Western Conflicts, Col. Labey holds an automatic distrust
+      bordering on outright xenophobia of foreigners. Dohlarans are only barely a step
+      above the Western savages in his book. He was Katherine Rand's former superior
+      officer during her youth in the military.
+
+
+      *Secret*
+
+      He is deeply in love with Ms. Rand, and has been secretly seeing her despite the
+      risks to both (he was never implicated in the scandal that kicked her out of the
+      Army, but could stand court martial for hiding it ever since).
+      
+      
+
+      *Alibi*
+
+
+      He was with Lette all throughout the night of the crime, beyond Pinkerton's suite.
+      
+
+      *Notable*
+
+      He wears an Army dress uniform. Left Handed
+  -
+    separate : True
+    Subtitle : Katherine Rand
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Elf
+          -
+            - Age
+            - 40
+          -
+            - Occupation
+            - Governess
+          -
+            - Cabin
+            - B1
+          -
+            - Reason for Travel
+            - New job opportunities at Blackpoint
+          -
+            - Keywords
+            - Efficient, Hardworking, Cool Under Pressure
+  -
+    Text : >-
+      *Bio*
+
+
+      A strict governess, Katherine has tried to escape a sordid past as a dishonorably
+      discharged draftee. She's relied on a new name and an adopted identity to ensure
+      she can find jobs as a governess. She is trying to move westward where it is less
+      likely she will be recognized and revealed.
+
+
+      *Secret*
+
+
+      She was dishonorably discharged from the Army for getting romantically involved
+      with a superior officer (Col. Labey), and failing to disclose his identity when
+      investigated.
+      
+
+      *Alibi*
+
+
+      She was beyond Pinkerton's suite at the time of the murders.
+      
+
+      *Notable*
+
+
+      Noticeably clever, Shuts fown all talk of herself immediately. Right Handed.
+  -
+    separate : True
+    Subtitle : Luther Lette
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Gnome
+          -
+            - Age
+            - 45
+          -
+            - Occupation
+            - Secretary (to Forbes)
+          -
+            - Cabin
+            - A11
+          -
+            - Reason for Travel
+            - Accompanying Forbes
+          -
+            - Keywords
+            - Young, Inexperienced, A Little Brash
+  -
+    Text : >-
+      *Bio*
+
+
+      Luther Lette was a promising law student, but his excessive love for inebriating
+      drinks caused the University to expell him. He has taken odd secretarial jobs
+      ever since to make ends meet.
+
+
+      *Secret*
+
+
+      Lette has been embezzling from Forbes for the past year, both out of greed and
+      out of hatred, as he knows Forbes killed George Pabst on purpose.
+      
+
+      *Alibi*
+
+
+      He was with Col. Labey all throughout the night of the murder.
+      
+
+      *Notable*
+
+
+      Wears spectacles. A closer examination reveals they are very expensive.
+      Right Handed
+  -
+    separate : True
+    Subtitle : Merl Pinkerton
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Tiefling (Red)
+          -
+            - Age
+            - 49
+          -
+            - Occupation
+            - Salesman (Private Eye)
+          -
+            - Cabin
+            - A9
+          -
+            - Reason for Travel
+            - Business (Hired by Forbes)
+          -
+            - Keywords
+            - Loud, Flamboyant, Persuasive (Cool, Collected)
+  -
+    Text : >-
+      *Bio*
+
+
+      The son of a decorated Gendarme Detective, Merl decided at an early age
+      not to follow directly in his father's gootsteps, and instead launched
+      an early form of the private detective agency. He is well known among
+      the Gendarme as an expert sleuth, but has managed to keep his name relatively
+      well hidden from the general consciousness.
+
+
+      *Secret*
+
+      
+      Pinkerton is secretly working for Forbes, both as hired security as well as to
+      help Forbes discover who has been stealing from him. He suspects Lette, but has
+      not confronted the Gnome.
+      
+
+      *Alibi*
+
+
+      He was hired to protect Forbes. He stood guard with Stoker after Georgina was
+      "attacked", and Cochran will vouch for his good character.
+      
+
+      *Notable*
+
+
+      Looks like the quintessential door-to-door salesman. Slight bulge in his jacket
+      pocket from a lockpick set. Left Handed
+  -
+    separate : True
+    Subtitle : Dr. Abraham Coghill
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Halfling
+          -
+            - Age
+            - 130
+          -
+            - Occupation
+            - Physician / Apothecary
+          -
+            - Cabin
+            - A10
+          -
+            - Reason for Travel
+            - Visiting Relatives
+          -
+            - Keywords
+            - Crotchetty, Direct, Secretly Kindhearted
+  -
+    Text : >-
+      *Bio*
+
+
+      Dr. Coghill began his career as an Army medic, but decided to pursue private practice
+      as soon as his enlistment came to an end. He is a respected physician within Siddar
+      circles, and is the Chairman of the Siddar Medical Society.
+
+
+      *Secret*
+
+
+      Dr. Coghill has for some time been dependent on a cocktail of muscle relaxants and
+      soporifics in order to sleep. He keeps several vials hidden throughout his person,
+      amongst the dozens of other potions and draughts.
+      
+
+      *Alibi*
+
+
+      He was knocked out the entire night, and beyond Pinkerton's suite.
+      
+
+      *Notable*
+
+
+      Carries dozens of little glass vials on him. Right Handed
+  -
+    separate : True
+    Subtitle : Sol Forbes
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Human
+          -
+            - Age
+            - 72
+          -
+            - Occupation
+            - Businessman (Distillery Owner)
+          -
+            - Cabin
+            - A3
+          -
+            - Reason for Travel
+            - Vacation (1 yr. Anniversary)
+          -
+            - Keywords
+            - Refined, Menacing, Sour
+  -
+    Text : >-
+      *Bio*
+
+
+      The owner of several smaller distilleries, Forbes' delivery cart accidentally killed
+      George Pabst a little over a year ago. While tragic, the accident had the fortunate
+      consequence that it gave Forbes an opportunity to meet, and later marry, Georgina Pabst
+      and her not inconconsequential fortune and social status.
+
+
+      *Secret*
+
+
+      Forbes' real name is Cyril Weddal, a known racketeer and criminal. He murdered
+      George Pabst in order to rid himself of a potential financial problem, and took
+      advantage of his widow's grief to inject himself into her life and grant his
+      cover businesses an air of respectability.
+      
+
+      *Alibi*
+
+
+      He was killed first.
+      
+
+      *Notable*
+
+      
+      Gives off bad vibes to a lot of people. Wears fine clothing, but it feels wrong on him.
+
+
+      *Autopsy*
+
+
+      - Time of Death : 11 PM to 2 AM, hard to tell due to the cold
+        
+      - Cause of Death : 7 stab wounds to the abdomen
+        
+      - Notes : Appears to have been done with a common knife by a left-handed assailant.
+        There is evidence of a single, right-handed blow, but it is inconclusive.
+  -
+    separate : True
+    Subtitle : Georgina Pabst
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Dwarf
+          -
+            - Age
+            - 120
+          -
+            - Occupation
+            - Housewife, Mother, Confidant, Chef, Therapist, and whatever else strikes her mood.
+          -
+            - Cabin
+            - A2
+          -
+            - Reason for Travel
+            - Vacation (1 yr. Anniversary)
+          -
+            - Keywords
+            - Talkative, Round, Short, Henish
+  -
+    Text : >-
+      *Bio*
+
+
+      Widowed twice and remarried thrice, Mrs. Pabst is a chatterbox of the worst kind.
+      She constantly talks over everyone, regaling anyone unfortunate enough to be
+      caught in her sights with inane stories about her daughter and her former and
+      current husbands. Despite everything, she is a good natured person at heart, and
+      has been called "The Unsinkable Mrs. Pabst" both due to her tenaciousness as well
+      as her "buoyant" personality.
+
+
+      *Secret*
+
+
+      Mrs. Pabst learned that Forbes killed her previous husband on purpose, and has
+      been plotting revenge for some time now. She conspired with Iris to rid each other
+      of their mutual problems while on the Express.
+      
+
+      *Alibi*
+
+
+      She was attacked and knocked unconsciouss during the murders.
+      
+
+      *Notable*
+
+
+      Huge Personality, Bright Red Hair, Loud, Talktative, Right Handed
+  -
+    separate : True
+    Subtitle : Nanie Hays
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Kenku
+          -
+            - Age
+            - 62
+          -
+            - Occupation
+            - Missionary, Former Nurse
+          -
+            - Cabin
+            - B6
+          -
+            - Reason for Travel
+            - Pilgrimage
+          -
+            - Keywords
+            - Sheepish, Foreign (Far West), Easily Embarrassed
+  -
+    Text : >-
+      *Bio*
+
+
+      A nurse by vocation, Haws was drawn to the simple life of a nun for Mother Church
+      after a particularly devastating outbreak of influenza. She moved to Ichorburn,
+      the distant capital of Mother Church in Mountaincross Province, but has since
+      returned East to spread the faith.
+
+
+      *Secret*
+
+
+      She knows Dr. Coghill's drug problem, but does not want to shame him by revealing
+      it.
+      
+
+      *Alibi*
+
+
+      She was beyond Pinkerton's suite.
+      
+
+      *Notable*
+
+
+      Nun's Habit, Poor command of the language (Kenku)
+  -
+    separate : True
+    Subtitle : Mat Stoker
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Firbolg
+          -
+            - Age
+            - 120
+          -
+            - Occupation
+            - Conductor (*Quicksilver*)
+          -
+            - Cabin
+            - C2
+          -
+            - Reason for Travel
+            - ICSC Employee
+          -
+            - Keywords
+            - Respectable, Honest, Lacking Brains
+  -
+    Text : >-
+      *Bio*
+
+
+      A pleasant and perpetually cheerful man, Stoker has no ambitions beyond being
+      the face of the Stonhyr Express' most prestigious accomodations. He is extremely
+      proud of his job and his spotless record.
+
+
+      *Secret*
+
+
+      None      
+      
+
+      *Alibi*
+
+
+      He was in the locomotive with Cochran and the engineers at the time of the murder.
+      He stood guard with Pinkerton till morning after Mrs. Pabst reported being attacked.
+      
+
+      *Notable*
+
+
+      Conductor's Uniform. Left Handed
+  -
+    separate : True
+    Subtitle : Rush Wright
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Tiefling (Black)
+          -
+            - Age
+            - 27
+          -
+            - Occupation
+            - Conductor (*Midnight Sun*)
+          -
+            - Cabin
+            - C3
+          -
+            - Reason for Travel
+            - ICSC Employee
+          -
+            - Keywords
+            - Tomboyish, Informal, Vigilant
+  -
+    Text : >-
+      *Bio*
+
+
+      Unlike Stoker, Rush considers her current position as the #2 Conductor of the
+      Express to be a stepping stone to bigger and better things. She has her eyes
+      set on the Directorship, and she's not afraid to let anyone know of her ambitions.
+      She is a little tomboyish, spurring the more form-fitting women's skirt for the
+      male trousers, and the ascott for a tie.
+
+
+      *Secret*
+
+
+      None
+      
+
+      *Alibi*
+
+
+      She was in the aft cars at the time of the crime, covering for another conductor
+      who got hurt during the derailment. Several passengers saw her throughout the night
+      and will attest to the excellent service she rendered even to "Coach" class riders.
+      
+
+      *Notable*
+
+
+      Fiery yellow eyes and a constant predatory smirk. She is sometimes mistaken for a man
+      due to her more masculine clothing choices.
+  -
+    separate : True
+    Subtitle : Thaddeus Dunn
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Elf
+          -
+            - Age
+            - 440
+          -
+            - Occupation
+            - Valet (Forbes)
+          -
+            - Cabin
+            - B9
+          -
+            - Reason for Travel
+            - Accompanying Forbes and Mrs. Pabst
+          -
+            - Keywords
+            - Dour, Grave, Disapproving, Reserved
+  -
+    Text : >-
+      *Bio*
+
+
+      Dunn does not talk much about himself or his past. He was raised by a very
+      traditional family who taught him the importance of decorum and ritual despite
+      their low social status. Dunn believes that it is his duty to serve his employer,
+      and keep any thoughts or judgement to himself. he has a distaste for non-Elves, but
+      it is borne out of a perceived lack of decorum.
+
+
+      *Secret*
+
+
+      Dunn knows Pinkerton's true identity, and has knowledge of many of Forbes' lesser
+      criminal activities (tax evasion, fraud, etc.)
+      
+
+      *Alibi*
+
+
+      He was kept awake by Uleaven's illness all night.
+      
+
+      *Notable*
+
+
+      Bowler hat and very formal clothes with gloves. Right Handed.
+  -
+    separate : True
+    Subtitle : Otis Uleaven
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Half Orc
+          -
+            - Age
+            - 107
+          -
+            - Occupation
+            - Steam Engine Salesman / Factory Owner
+          -
+            - Cabin
+            - B10
+          -
+            - Reason for Travel
+            - Business
+          -
+            - Keywords
+            - Large, Voluble, Passionate, No Sense of Fashion
+  -
+    Text : >-
+      *Bio*
+
+
+      A former wagon driver, Uleaven saw an early steam engine at his family's forge
+      and immediately realized that was where the future lay. With only a handful of
+      gold pieces in his pocket, he set out to Glacierheart to learn all he could
+      about them. He now owns a successful steam engine fabrication shop, and is looking
+      to expand to Blackpoint
+
+
+      *Secret*
+
+
+      Uleaven was one shaken down by Forbes (Weddal) and recognized him on the train.
+      He left a threatening note, meaning only to upset Forbes.
+      
+
+      *Alibi*
+
+
+      He was sick and kept Dunn up all night.
+      
+
+      *Notable*
+
+
+      Loud, Bright Clothing, Always talking about how great Siddar and the Republic are.
+  -
+    separate : True
+    Subtitle : Elsa Gibb
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Tabaxi
+          -
+            - Age
+            - 32
+          -
+            - Occupation
+            - Maid (MEP Learmonth)
+          -
+            - Cabin
+            - B5
+          -
+            - Reason for Travel
+            - Accompanying MEP Learmonth
+          -
+            - Keywords
+            - Dependable, Trustworthy, Unimaginative
+  -
+    Text : >-
+      *Bio*
+
+
+      Orphaned at a young age, Gibb was afforded only a basic education. scraping together
+      enough funds to attend finishing school, Gibb was hired by MEP Learmonth during one
+      of her re-election campaigns, and has been with the grand old dame ever since. She
+      considers the MEP to be the mother she never had.
+
+
+      *Secret*
+
+
+      None, but she is entirely loyal to the MEP.
+      
+
+      *Alibi*
+
+
+      She was with MEP Learmonth.
+      
+
+      *Notable*
+
+
+      Can practically read the MEP's mind.
+  -
+    separate : True
+    Subtitle : MEP Filomena Learmonth
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Human
+          -
+            - Age
+            - 76
+          -
+            - Occupation
+            - Member-Elector of Parliament (Blackpoint District)
+          -
+            - Cabin
+            - A4
+          -
+            - Reason for Travel
+            - Returning for General Elections
+          -
+            - Keywords
+            - Toadlike, Elderly, Dignified, Iron Willed
+  -
+    Text : >-
+      *Bio*
+
+
+      A distinguished parliamentarian, MEP Learmonth has served for over 50 years,
+      earning a well-deserved reputation as an iron-willed, shrewd, and dignified
+      diplomat and politician. She is known among her supporters and detractors alike
+      as "The Iron Toad", much to her great displeasure.
+
+
+      *Secret*
+
+
+      She has promised to help Iris stay in the Republic, but she is facing a tough
+      re-election campaign and does not want the scandal of the murders to tarnish
+      her hard-earned reputation.
+      
+
+      *Alibi*
+
+
+      She was with Gibbs throughout the night in her quarters. She is too weak to have
+      dealt the death blows to Forbes.
+      
+
+      *Notable*
+
+
+      She wears a large red sash with gold embroidery reading "Member Elector of Parliament"
+      that is almost as large as she is.
+  -
+    separate : True
+    Subtitle : Iris Keogh
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Half-Elf
+          -
+            - Age
+            - 80
+          -
+            - Occupation
+            - None
+          -
+            - Cabin
+            - A6
+          -
+            - Reason for Travel
+            - Returning to Anacreon
+          -
+            - Keywords
+            - Exotic, Beautiful, Charming Accent
+  -
+    Text : >-
+      *Bio*
+
+
+      The daughter of a minor aristocratic family in Anacreon, Iris always resented that
+      her only worth was as a potential bride to richer and more powerful families. She
+      longs for the freedom and independence she experienced within the Republic, and wants
+      nothing more than to stay.
+
+
+      *Secret*
+
+
+      She had planned to escape her marriage and stay in the Republic as an Asylumn seeker,
+      possibly under an assumed identity, until she and Mrs. Pabst bonded over their mutual
+      hatred of the men that had wronged them. She killed Forbes while he was comatose.
+      
+
+      *Alibi*
+
+
+      She is known to take sleeping draughts and potions every night. Mat Stoker saw her
+      drink one such vial the night of the murder, but unbeknownst to him, it was a fake.
+      
+
+      *Notable*
+
+      
+      Olive skin tone, Finest Siddar clothing. Left Handed.
+  -
+    separate : True
+    Subtitle : Lige Keogh
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Half-Elf
+          -
+            - Age
+            - 102
+          -
+            - Occupation
+            - Ambassador from Anacreon
+          -
+            - Cabin
+            - A7
+          -
+            - Reason for Travel
+            - Returning to Anacreon
+          -
+            - Keywords
+            - Handsome, Tall, Slender, Foreign Mustache
+  -
+    Text : >-
+      *Bio*
+
+
+      An ambassador from the tiny midwest kingdom of Anacreon, Lige is fascinated
+      by the Republic's unique form of First Age worship which he finds charmingly
+      quaint. He is tired of the society though, with all their radical ideas and
+      careless diregard for the proper order. He was pleased when his recall papers
+      came through.
+
+
+      *Secret*
+
+
+      He is leaving behind several large gambling debts, some to Forbes'
+      less-than-legitimate businesses. He has been abusive towards Iris behind closed
+      doors, and while he is known to have a temper, the full extent has been suppressed.
+      
+
+      *Alibi*
+
+
+      None
+      
+
+      *Notable*
+
+
+      Large foreign-looking mustache, Fine Siddar Clothing. Right Handed.
+
+
+      *Autopsy*
+
+
+      - Time of Death : 12 AM - 3 AM, difficult to tell due to weather
+
+      - Cause of Death : Energy Discharge (Glyph of Warding, Scorching Ray L3)
+  -
+    separate : True
+    Title : Express Timetable
+    Table :
+      Meta : 
+        Columns :
+          - "Time"
+          - "Event"
+        Rows :
+          -
+            - D1 @ 10:00 PM
+            - Departure from Siddar City Central Station
+          -
+            - D1 @ 10:30 PM
+            - Supper Service
+          -
+            - D2 @ 3:30 AM
+            - Arrival at Glacierheart
+          -
+            - D2 @ 4:00 AM
+            - Departure from Glacierheart
+          -
+            - D2 @ 8:30 AM - 9:30 AM
+            - Breakfast Service
+          -
+            - D2 @ 11:30 AM
+            - Arrival at Featherfurth
+          -
+            - D2 @ 12:00 PM
+            - Departure from Featherfurth
+          -
+            - D2 @ 12:30 PM - 1:30 PM
+            - Lunch Service
+          -
+            - D2 @ 5:30 PM - 6:30 PM
+            - Dinner Service
+          -
+            - D2 @ 10:30 PM - 11:30 PM
+            - Light Supper Service
+          -
+            - D3 @ 7:30 AM
+            - Arrival at Pratergate
+          -
+            - D3 @ 8:00 AM
+            - Departure from Pratergate
+          -
+            - D3 @ 8:30 AM - 9:30 AM
+            - Breakfast Service
+          -
+            - D3 @ 12:30 PM - 1:30 PM
+            - Lunch Service
+          -
+            - D3 @ 5:30 - 6:30
+            - Dinner Service
+          -
+            - D3 @ 11:00 PM
+            - Light Supper Service
+          -
+            - D3 @ 11:30 PM
+            - Arrival at Ravenshelm
+          -
+            - D4 @ 12:00 AM
+            - Departure from Ravenshelm
+          -
+            - D4 @ 8:30 AM
+            - Breakfast Service
+          -
+            - D4 @ 10:00 AM
+            - Arrival at Blackpoint
+  -
+    separate : True
+    Title : True Timetable
+    Table :
+      Meta : 
+        Columns :
+          - "Time"
+          - "Event"
+        Rows :
+          -
+            - D1 @ 10:00 PM
+            - >-
+              [Departure from Siddar City Central Station](#day-1-1000-pm-departure-from-siddar-city)
+          -
+            - D1 @ 10:30 PM
+            - >-
+              [Supper Service](#day-1-1030-pm-supper-service)
+          -
+            - D2 @ 3:30 AM
+            - >-
+              [Arrival at Glacierheart](#day-2-330-am-arrival-at-glacierheart)
+          -
+            - D2 @ 4:00 AM
+            - Departure from Glacierheart
+          -
+            - D2 @ 8:30 AM - 9:30 AM
+            - >-
+              [Breakfast Service](#day-2-830-am-breakfast-service)
+          -
+            - D2 @ 11:30 AM
+            - >-
+              [Arrival at Featherfurth](#day-2-1130-am-arrival-at-featherfurth)
+          -
+            - D2 @ 12:00 PM
+            - Departure from Featherfurth
+          -
+            - D2 @ 12:30 PM - 1:30 PM
+            - Lunch Service
+          -
+            - D2 @ 5:30 PM - 6:30 PM
+            - Dinner Service
+          -
+            - D2 @ 10:30 PM - 11:30 PM
+            - Light Supper Service
+  -
+    separate : True
+    Title : Timeline of Events
+    Subtitle : Day 1, 10:00 PM - Departure from Siddar City
+    Text : >-
+      The following passengers board at this station:
+
+        
+      - Group 1
+          - Georgina Pabst
+          - Sol Forbes
+          - Luther Lette
+          - Thaddeus Dunn
+
+      - Group 2
+          - Iris Keogh
+          - Lige Keogh
+        
+      - Group 3
+          - MEP Filomena Learmonth
+          - Elsa Gibb
+
+      - Group 4
+          - Merl Pinkerton
+
+      - Group 5
+          - Dr. Abraham Coghill
+          - Nanie Hays
+
+
+      Abner Cochran is already aboard in the Restaurant Car.
+  -
+    Subtitle : Day 1, 10:30 PM - Supper Service
+    Text : >-
+      Iris and Dr. Cochran sit together. Iris discusses her restlessness and lack of
+      sleep aboard trains. Dr. Cochran gives her a sleeping draught. Lige sits with them.
+
+
+      MEP Learmonth and Elsa Gibb are absent. They are in the MEP's compartment. The MEP
+      enjoys listening to Gibb read before going to bed.
+
+
+      Cochran sits alone, but welcomes company. He will discuss the company's past, and will
+      answer any questions about the line or the company.
+
+
+      Pabst, Hays, and Forbes sit together. Pabst tells inane stories. Pabst will "kidnap"
+      any player she fancies and forces them to dine with her. She reveals readily that
+      she is on her first year anniversary, and that her previous husband was killed in
+      an accident with Forbes' delivery wagon. She further reveals that Forbes came to call
+      on her daily shortly after the accident, eventually leading to their marriage.
+
+
+      Lige and Forbes stare daggers at each other the entire supper from across separate tables.
+
+
+      Pinkerton is absent from dinner. He is inspecting Forbes' compartment while everyone is
+      distracted. He will then do a run of the train to check for known faces in the other cars.
+
+
+      Lette and Dunn sit alone in silence. They will not offer much conversation.
+
+
+      Mat Stoker and Rush Wright will be transferring baggage to the baggage car as requested,
+      and will otherwise return to their compartment during supper.
+
+
+      Forbes, Lette, and Dunn leave early to review earnings documents in Forbes' compartment.
+
+
+      Iris will leave early to discuss asylum with the MEP under the guise of a social visit.
+  -
+    Subtitle : Day 2, 3:30 AM - Arrival at Glacierheart
+    Text : >-
+      The following passengers board at this station:
+
+        
+      - Group 1
+          - Katherine Rand
+          - Col. Isham Labey
+
+      - Group 2
+          - Otis Uleaven
+
+
+      Uleaven will accidentally hop in the wrong bunk and startle Dunn. They do not enjoy
+      each other's company.
+  -
+    Subtitle : Day 2, 8:30 AM - Breakfast Service
+    Text : >-
+      Iris and Pabst dine together, and bond over their shared love of the Republic's
+      greater freedoms. They will shortly retire to the observation car to discuss their
+      mutual marriage problems and concoct the murder plot. The women will make polite
+      conversation, but will make it clear they wish to be alone.
+
+
+      Rand and Labey eat in tense silence across a pair of adjacent tables. They will not
+      offer much conversation.
+
+
+      Coghill and Hays exchange medical stories, with the former starting to get the hang
+      of deciphering the latter's sounds into something resembling speech.
+
+
+      Pinkerton searches Uleaven's quarters with Dunn, as both suspect that the Half-Orc is
+      clearly a hired goon in a ridiculous disguise. They will find nothing.
+
+
+      Uleaven tries to rope Lige into a joint business venture, but the latter will
+      tersely decline, citing the impropriety of it. Uleaven will finish breakfast
+      with Cochran if possible, discussing their shared admiration of the wonders of
+      steam.
+
+
+      Lette and Forbes will pour over financial records all throughout breakfast.
+
+
+      MEP Learmonth and Gibbs will eat together, with the latter ordering complicated
+      special requests. The MEP and Gibbs will discuss the Blackpoint situation and
+      the upcoming General Election.
+
+
+      Stoker and Wright are off duty during breakfast.
+  -
+    Subtitle : Day 2, 11:30 AM - Arrival at Featherfurth
+    Text : >-
+      If the players look like they are having trouble, or aren't in a good position to
+      unravel the mystery, the following passenger can board at this station:
+
+
+      - Hercules Parrót
+
+
+      He is a celebrated actor who often portrays detectives. He is a tool for the GM
+      to point the party in a particular direction, either by actually helping or by
+      being so clearly incompetent that nothing he says can possibly be accurate, thereby
+      steering the party away from a particular fruitless line.
+  -
+    Subtitle : Day 2, 12:30 PM - Lunch Service
+    Text : >-
+      Iris and MEP Learmonth sit together and discuss the Republic. Gibb sits with them
+      but doesn't contribute much.
+
+
+      Rand, Hays, and Cochran are held hostage to Mrs. Pabst's conversation.
+
+
+      Forbes and Lette continue to pour over documents. Dunn sits nearby, holding
+      additional paperwork but otherwise uninvolved.
+
+
+      Uleaven leaves early, complaining of abdominal pain.
+
+
+      Coghill will follow him shortly after summoning Stoker to fetch his medical kit.
+
+
+      Lige and Labey have an argument, causing Lige to storm off. The argument is spurred
+      by the two parties' drasticly different interpretation of the "natural order".
+  -
+    Subtitle : Day 2, 5:00 PM - Delay
+    Text : >-
+      At a signal junction, the Express is sidelined to make way for a barging
