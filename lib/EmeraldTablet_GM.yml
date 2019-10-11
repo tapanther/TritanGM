@@ -971,9 +971,12 @@ Content :
   -
     Title: Golden Vault of Terraworth
     Table:
-      01 : [Mummy] + TBD
-      02 : [Shield Guardian][ShieldGuardian]
-      03 : [Sword Wraith Warrior][SwordWraithWarrior]
+      01 : >- 
+        [Mummy] + TBD
+      02 : >-
+        [Shield Guardian][ShieldGuardian]
+      03 : >-
+        [Sword Wraith Warrior][SwordWraithWarrior]
   -
     Subtitle: Fight Against Pleas Morgan
     Text: >-
@@ -1025,11 +1028,13 @@ Content :
           -
             - Inner Terraworth
             - Hunter
-            - [Invisible Stalker][InvisibleStalker]
+            - >-
+              [Invisible Stalker][InvisibleStalker]
           -
             - Imperial Palace
             - Heavy
-            - [Flamewrath] + 1d4 [Eternal Flame Guardian][EternalFlameGuardian]
+            - >-
+              [Flamewrath] + 1d4 [Eternal Flame Guardian][EternalFlameGuardian]
           -
             - Imperial Palace
             - Heavy

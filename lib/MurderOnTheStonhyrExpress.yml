@@ -1,0 +1,84 @@
+---
+node : Campaign
+template : Generic.md
+control :
+  - subtitle_headings
+title : Murder on the Stonhyr Express
+GeneralInfo :
+  Description : >-
+    The Stonhyr Express is the premier rail service between Siddar City
+    and Blackpoint at the tail end of the 8th Century AGS. The line is
+    operated by the International Company of Sleeping Cars, I.C.S.C., by
+    license of the Trans-Siddar Railroad, the Republic's semi-public rail
+    corporation.
+
+
+    This module focuses on a particularly unfortunate trip on the Sixth Day
+    before the Ides of the Twelfth Moon of the Year 795 AGS (6IDE 3M 795Y).
+    The Express, delayed due to a higher-precedence military rail convoy, is
+    caught in a terrible blizzard West of Featherfurth, and derails on a
+    snowbank. The following morning, two murders are discovered in the First
+    Class sleeping car. What looks like an argument over gambling debts gone
+    bad is quickly revealed as a double homicide, and with the blizzard raging,
+    the killer must still be onboard.
+
+Content :
+  -
+    separate : True
+    Title : Passengers (NPC)
+    Subtitle : Abner Cochran
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Human
+          -
+            - Age
+            - 62
+          -
+            - Occupation
+            - Director of the Line
+          -
+            - Cabin
+            - A5
+          -
+            - Reason for Travel
+            - Employee / Owner / Company Representative
+  -
+    Text : >-
+      #### Bio
+
+
+      A former detective for the Siddar City Gendarmerie, Cochran was
+      an early investor in the burgeoning railways of the Republic,
+      making him fantastically wealthy. After his forced retirement,
+      Cochran founded the International Company of Sleeping Cars with
+      a group of investors, spurred by the dream of luxurious rail travel.
+
+
+      #### Secret
+
+
+      The I.C.S.C. Board has threatened to remove Cochran from the
+      directorship if the company stock misses yet another earnings
+      forecast. The news of an unsolved pair of murders on the train
+      would be disastrous for public perception in the company.
+
+
+      #### Alibi
+
+
+      Cochran's dominant hand has no strength due to an accident during
+      his days at the Gendarmerie. Additionally, he was with Mat Stoker
+      and the engineers in the locomotive at the time of the crimes.
+
+
+      #### Notable
+
+
+      Silver Gray suit bearing the company lapel pin. Right hand doesn't
+      clench.
