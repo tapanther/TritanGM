@@ -1006,6 +1006,67 @@ Content :
       - Cause of Death : Energy Discharge (Glyph of Warding, Scorching Ray L3)
   -
     separate : True
+    Subtitle : Hercules Parrót
+    Text : >-
+      Hercules Parrót is really a placeholder for a GMPC to help the party if needed.
+    Table :
+      Meta : 
+        Columns :
+          - ""
+          - ""
+        Rows :
+          -
+            - Race
+            - Aarakocra (unhelpful) or Kenku (helpful)
+          -
+            - Age
+            - 20 (Aarakocra) or 43 (Kenku)
+          -
+            - Occupation
+            - Actor
+          -
+            - Cabin
+            - A1
+          -
+            - Reason for Travel
+            - Returning to Blackpoint
+          -
+            - Keywords
+            - Vain, Boorish, Stupid, Cowardly (Unhelpful) or Inquisitive, Observant, Hard-Boiled (Helpful)
+  -
+    Text : >-
+      *Bio*
+
+
+      Parrót is a famous actor from Blackpoint, well known for his unique portrayal
+      of detectives. Based entirely on his work with the City Guard and the Knights
+      Templar, Parrót channels the gritty underdark of Blackpoint into his characters,
+      giving them a brutal reality sorely lacking from his contemporaries' portrayals.
+
+
+      *Secret*
+
+
+      None.
+      
+
+      *Alibi*
+
+
+      A suitable alibi should be concocted for Parrót depending on the amount of
+      knowledge he should have. He can assist Cochran with the inspection, or go
+      with Wright to assist passengers / lift morale.
+      
+
+      *Notable*
+
+
+      He is either extremely useless, and can be used to hint that a particular
+      train of thought is fruitless, or he can be useful but cryptic, simply
+      serving as a hint-dropping mechanism. He's really meant as a joke / hint
+      mechanism.
+  -
+    separate : True
     Title : Express Timetable
     Table :
       Meta : 
@@ -1083,40 +1144,71 @@ Content :
           - "Event"
         Rows :
           -
-            - D1 @ 10:00 PM
+            - Day 1 @ 10:00 PM
             - >-
               [Departure from Siddar City Central Station](#day-1-1000-pm-departure-from-siddar-city)
           -
-            - D1 @ 10:30 PM
+            - Day 1 @ 10:30 PM
             - >-
               [Supper Service](#day-1-1030-pm-supper-service)
           -
-            - D2 @ 3:30 AM
+            - Day 2 @ 3:30 AM
             - >-
               [Arrival at Glacierheart](#day-2-330-am-arrival-at-glacierheart)
           -
-            - D2 @ 4:00 AM
+            - Day 2 @ 4:00 AM
             - Departure from Glacierheart
           -
-            - D2 @ 8:30 AM - 9:30 AM
+            - Day 2 @ 8:30 AM - 9:30 AM
             - >-
               [Breakfast Service](#day-2-830-am-breakfast-service)
           -
-            - D2 @ 11:30 AM
+            - Day 2 @ 11:30 AM
             - >-
               [Arrival at Featherfurth](#day-2-1130-am-arrival-at-featherfurth)
           -
-            - D2 @ 12:00 PM
+            - Day 2 @ 12:00 PM
             - Departure from Featherfurth
           -
-            - D2 @ 12:30 PM - 1:30 PM
-            - Lunch Service
+            - Day 2 @ 12:30 PM - 1:30 PM
+            - >-
+              [Lunch Service](#day-2-1230-pm-lunch-service)
           -
-            - D2 @ 5:30 PM - 6:30 PM
-            - Dinner Service
+            - Day 2 @ 5:00 PM
+            - >-
+              [Delay for Troop Transport](#day-2-500-pm-delay)
           -
-            - D2 @ 10:30 PM - 11:30 PM
-            - Light Supper Service
+            - Day 2 @ 5:30 PM - 6:30 PM
+            - >-
+              [Dinner Service](#day-2-530-pm-dinner-service)
+          -
+            - Day 2 @ 7:00 PM
+            - >-
+              [All Clear](#day-2-700-pm-all-clear)
+          -
+            - Day 2 @ 10:30 PM - 11:30 PM
+            - >-
+              [Light Supper Service](#day-2-1030-pm-supper-service)
+          -
+            - Day 2 @ 11:20 PM
+            - >-
+              [The Plot is Executed](#day-2-1120-pm-the-plot-is-executed)
+          -
+            - Day 3 @ 12:00 AM
+            - >-
+              [The Express Derails](#day-3-1200-am-the-express-derails)
+          -
+            - Day 3 @ 12:25 AM
+            - >-
+              [The First Murder](#day-3-1225-am-the-first-murder)
+          -
+            - Day 3 @ 1:05 AM
+            - >-
+              [The Second Murder](#day-3-105-am-the-second-murder)
+          -
+            - Day 3 @ 9:00 AM
+            - >-
+              [The Discovery](#day-3-900-am-the-discovery)
   -
     separate : True
     Title : Timeline of Events
@@ -1264,8 +1356,8 @@ Content :
       Rand, Hays, and Cochran are held hostage to Mrs. Pabst's conversation.
 
 
-      Forbes and Lette continue to pour over documents. Dunn sits nearby, holding
-      additional paperwork but otherwise uninvolved.
+      Forbes and Lette take a break. Forbes and Dunn dine in silence. Lette joins
+      Lige and Labey.
 
 
       Uleaven leaves early, complaining of abdominal pain.
@@ -1275,8 +1367,199 @@ Content :
 
 
       Lige and Labey have an argument, causing Lige to storm off. The argument is spurred
-      by the two parties' drasticly different interpretation of the "natural order".
+      by the two parties' drasticly different interpretation of the "natural order". Lette
+      and Labey hit it off pretty well, despite some disagreements.
   -
     Subtitle : Day 2, 5:00 PM - Delay
     Text : >-
-      At a signal junction, the Express is sidelined to make way for a barging
+      At a signal junction, the Express is sidelined to make way for a barging troop
+      transport. The junction flags indicate that there has been a monster attack down
+      the line, and military necessities trump passanger services.
+  -
+    Subtitle : Day 2, 5:30 PM - Dinner Service
+    Text : >-
+      The Express is still sidelined until the line is cleared.
+      
+
+      Forbes and Pabst dine with Lige and Iris. They have a hushed conversation where
+      Lige and Forbes agree to meet at around 1:30 AM to settle the outstanding
+      gambling debts.
+
+
+      MEP Learmonth and Dr. Coghill dine, and discuss their shared interest in Iris'
+      wellbeing, albeit in polite and hushed tones so as not to be overheard.
+
+
+      Uleaven is missing. Stoker and Coghill will affirm that Uleaven is sick and
+      resting in his berth.
+
+
+      Rand and Labey are in the observation car, pretending not to know one another
+      while carrying on a tense conversation. They are not doing a good job of pretending.
+
+
+      Lette and Dunn dine in silence.
+
+
+      Cochran, Stoker, and Wright are in the baggage car with the other conductors,
+      discussing the delay and how it will impact the train's timetable.
+
+
+      Hays dines alone, but she seems unfazed by it.
+
+
+      Pinkerton is absent, as it is becoming increasingly common. He is searching Lette's
+      room, and has found evidence that it is Letter that is stealing from Forbes. He also
+      finds evidence that Forbes killed George Pabst over a business dispute. He will not
+      reveal his findings to Forbes, as he needs time to decide whether he's working for
+      the right person or not.
+
+
+      Forbes, Lette, and Dunn will stay in the Restaurant car until suppertime, going over
+      paperwork.
+  -
+    Subtitle : Day 2, 7:00 PM - All Clear
+    Text : >-
+      The flags are updated as the line is finally cleared. The Express resumes its
+      journey. Cochran has ordered the engineers to try to make up time, and open up
+      the throttle.
+
+
+      The weather has taken a turn for the worse though, and a heavy blizzard is descending
+      upon the area. Stoker and Wright inform the passengers of the new timetable, and
+      offer some complimentary hot drinks.
+  -
+    Subtitle : Day 2, 10:30 PM - Supper Service
+    Text : >-
+      Pabst and Hays are missing. They are chatting in Hays' room, and snacking on
+      some cheese and bread brought by Wright.
+
+
+      Lette, Dunn, and Forbes continue to go over documents.
+
+
+      Learmonth and Iris sit at a far table and discuss the mechanisms of asylumn in
+      general terms.
+
+
+      Rand and Labey share a light snack in the observation car. They haven't left since
+      dinner.
+
+
+      Pinkerton pays Uleaven a visit to try to pump him for information under the guise
+      of a friendly visit. He discounts the sick Half-Orc as a threat, and gives him
+      some contacts that could be useful in Blackpoint as an apology for wasting his time.
+
+
+      Coghill retrieves a new batch of sleeping draughts from his private locker in the
+      baggage car. He visibly takes one before leaving the restaurant car, but if asked 
+      will claim to have had a headache. Back at the He also hands one vial to Stoker and
+      asks him to deliver it to Iris later that evening when she retires.
+
+
+      Lige is in his room, fuming.
+
+
+      Cochran is making the rounds along the train, thanking all the passengers for
+      their patience and offering apologies for the delay.
+
+
+      Forbes orders a coffee to be brought to him at 11:30 PM, to his compartment.
+
+  -
+    Subtitle : Day 2, 11:20 PM - The Plot is Executed
+    Text : >-
+      Iris will leave early, and receive the draught from Stoker. She asks him to bring
+      her some water, and while he is gone, swaps the draught with a placebo. She drinks
+      the fake potion in front of him when he returns.
+
+
+      Pabst will return to her compartment before the end of supper, where she picks up
+      a draught Iris left in the end priv. She returns to the restaurant car and orders
+      a warm milk, and while the attendant is distracted, spikes the readied coffee for
+      Forbes. If for some reason she is caught, she will claim that she is only doing it
+      to make sure Forbes gets some sleep, as he has been staying up all night to go
+      over paperwork.
+
+
+      Stoker picks up the coffee and delivers it not a few moments later. Forbes will
+      quickly down the cup and notice nothing.
+
+
+      Lette and Dunn will be dismissed by Forbes as the latter wants some privacy to review
+      some of the less-than-legal business books. He will quickly find himself overcome with
+      exhaustion, but given his lack of sleep recently he won't find it too suspicious. He'll
+      decide to take a short nap as the sleeping draught hits him.
+
+
+      On his way back, Lette runs into Labey and Rand, who are returning from the Observation
+      Car. Lette invites Labey to discuss politics. The dragonborn accepts and bids Rand a
+      polite goodbye.
+  -
+    Subtitle : Day 3, 12:00 AM - The Express Derails
+    Text : >-
+      As the blizzard rages on, the Express hits a snowbank that has built up on the rails.
+      Although the snow gives, it lifts and halts the train, causing the engine to derail. The
+      passengers will feel a harsh deceleration. Some people will receive minor bumps and
+      bruises, and a few will get more serious injuries, often from falling or being struck
+      by a heavy object knocked loose.
+
+
+      Stoker and Wright will check on the passengers in the cars, and being making
+      announcements of another delay while the state of the Express is examined. Before Stoker
+      heads to the locomotive, MEP Learmonth will summon him, and ask him to fetch Gibb. He
+      wakes her and transmits the message before heading to the engine at 12:15 AM with Cochran.
+
+
+      Wright heads to the other passenger cars to take over for a conductor who was struck
+      by a heavy suitcase and needs to rest.
+  -
+    Subtitle : Day 3, 12:25 AM - The First Murder
+    Text : >-
+      Iris uses her minor magical training to disguise herself as Stoker, and dons a stolen
+      Conductor's uniform. She accidentally bumps into Gibb as the latter reports to Learmonth's
+      cabin.
+
+
+      At 12:25 AM, Stoker returns from the locomotive and announces that the train has derailed.
+      He announces it to the various compartments, and excuses himself to continue assessing
+      the damage.
+
+
+      Going through the connecting door in Pabst's room, Iris enters Forbes' compartment,
+      and finds him unconscious. She stabs Forbes several times at 12:26 AM. She opens the
+      window, hoping to confuse the investigation. She then hides the knife in the compartment
+      after wiping it down.
+      
+
+      At 12:28 AM, she crosses the connecting door again and leaves. She returns to her
+      compartment after hiding the stolen uniform in an empty compartment (only if Hercules
+      Parrót is not aboard, otherwise she will hide the uniform in Gibb's room).
+  -
+    Subtitle : Day 3, 1:05 AM - The Second Murder
+    Text : >-
+      Lige leaves his room to talk to Forbes and settle the debts. He slips into the dark
+      cabin, and discovers the body when he opens the Ichor lamp shutters. He knows that he
+      will be implicated, and decides to steal and destroy any evidence of his debt before
+      leaving.
+
+
+      At 1:10 AM, Stoker accidentally rings the conductor's bell. Stoker, who had recently
+      returned, answers, but is told by Lige (pretending to be Forbes) it was a mistake.
+
+
+      At 1:26 AM, Lige accidentally triggers a Glyph of Warding, which activates a Scorching
+      Ray spell that kills him.
+
+
+      At 1:30 AM, after hearing the Glyph go off, Pabst frantically rings the bell, claiming
+      that she felt a man in her compartment. Stoker attempts to calm her down, and tries
+      to fetch Dr. Coghill without success (the Dr. is knocked out by his sleeping draught).
+      Pinkerton notices the worried conductor, and joins him to stand guard outside Mrs.
+      Pabst's door until morning.
+  -
+    Subtitle : Day 3, 9:00 AM - The Discovery
+    Text : >-
+      When Lette and Dunn are unable to rouse Forbes for breakfast, they fetch Stoker
+      Cochran, and Coghill, and use the Conductor's key to open the compartment. They are
+      shocked to discover the two bodies, and the investigation begins.
