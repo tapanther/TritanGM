@@ -125,6 +125,7 @@ Content :
 
       *Secret*
 
+
       He is deeply in love with Ms. Rand, and has been secretly seeing her despite the
       risks to both (he was never implicated in the scandal that kicked her out of the
       Army, but could stand court martial for hiding it ever since).
@@ -138,6 +139,7 @@ Content :
       
 
       *Notable*
+
 
       He wears an Army dress uniform. Left Handed
   -
@@ -1075,64 +1077,64 @@ Content :
           - "Event"
         Rows :
           -
-            - D1 @ 10:00 PM
+            - Day 1 @ 10:00 PM
             - Departure from Siddar City Central Station
           -
-            - D1 @ 10:30 PM
+            - Day 1 @ 10:30 PM
             - Supper Service
           -
-            - D2 @ 3:30 AM
+            - Day 2 @ 3:30 AM
             - Arrival at Glacierheart
           -
-            - D2 @ 4:00 AM
+            - Day 2 @ 4:00 AM
             - Departure from Glacierheart
           -
-            - D2 @ 8:30 AM - 9:30 AM
+            - Day 2 @ 8:30 AM - 9:30 AM
             - Breakfast Service
           -
-            - D2 @ 11:30 AM
+            - Day 2 @ 11:30 AM
             - Arrival at Featherfurth
           -
-            - D2 @ 12:00 PM
+            - Day 2 @ 12:00 PM
             - Departure from Featherfurth
           -
-            - D2 @ 12:30 PM - 1:30 PM
+            - Day 2 @ 12:30 PM - 1:30 PM
             - Lunch Service
           -
-            - D2 @ 5:30 PM - 6:30 PM
+            - Day 2 @ 5:30 PM - 6:30 PM
             - Dinner Service
           -
-            - D2 @ 10:30 PM - 11:30 PM
+            - Day 2 @ 10:30 PM - 11:30 PM
             - Light Supper Service
           -
-            - D3 @ 7:30 AM
+            - Day 3 @ 7:30 AM
             - Arrival at Pratergate
           -
-            - D3 @ 8:00 AM
+            - Day 3 @ 8:00 AM
             - Departure from Pratergate
           -
-            - D3 @ 8:30 AM - 9:30 AM
+            - Day 3 @ 8:30 AM - 9:30 AM
             - Breakfast Service
           -
-            - D3 @ 12:30 PM - 1:30 PM
+            - Day 3 @ 12:30 PM - 1:30 PM
             - Lunch Service
           -
-            - D3 @ 5:30 - 6:30
+            - Day 3 @ 5:30 - 6:30
             - Dinner Service
           -
-            - D3 @ 11:00 PM
+            - Day 3 @ 11:00 PM
             - Light Supper Service
           -
-            - D3 @ 11:30 PM
+            - Day 3 @ 11:30 PM
             - Arrival at Ravenshelm
           -
-            - D4 @ 12:00 AM
+            - Day 4 @ 12:00 AM
             - Departure from Ravenshelm
           -
-            - D4 @ 8:30 AM
+            - Day 4 @ 8:30 AM
             - Breakfast Service
           -
-            - D4 @ 10:00 AM
+            - Day 4 @ 10:00 AM
             - Arrival at Blackpoint
   -
     separate : True
