@@ -85,6 +85,19 @@ Content :
 
       Silver Gray suit bearing the company lapel pin. Right hand doesn't
       clench. Right Handed, but learned to use Left.
+
+
+      !!! quote "Testimony"
+          I was in the engine the entire time. As soon as the train struck
+          the snowbank, I knew it would be trouble. After 30 years in the
+          service you can just tell the difference between an hours-long
+          delay and a days-long delay.
+
+          
+          Conductors Stoker and Wright came with me, the engineers will
+          vouch for all of us. We were there until well past 1:00 AM.
+          Stoker left temporarily to announce the delay to the passengers,
+          but he returned within minutes.
   -
     separate : True
     Subtitle : Colonel Isham Labey
@@ -142,6 +155,16 @@ Content :
 
 
       He wears an Army dress uniform. Left Handed
+
+
+      !!! quote "Testimony"
+          I was with Mr. Lette all night, discussing his blatantly absurd ideas
+          until well past 3 in the morning. The cabin door was ajar all night,
+          several passengers and the occasional conductor passed by.
+
+
+          I believe Ms. Gibb rushed by around 12:30 AM, sometime just before
+          Conductor Stoker returned to announce the derailment.
   -
     separate : True
     Subtitle : Katherine Rand
@@ -198,7 +221,12 @@ Content :
 
 
       Noticeably clever, Shuts fown all talk of herself immediately. Right Handed.
-  -
+
+
+      !!! quote "Testimony"
+          I was in my quarters with Elsa until she was recalled by the MEP. I didn't
+          leave all night.
+      -
     separate : True
     Subtitle : Luther Lette
     Table :
@@ -253,6 +281,17 @@ Content :
 
       Wears spectacles. A closer examination reveals they are very expensive.
       Right Handed
+
+
+      !!! quote "Testimony"
+          Colonel Labey and I had a discussion that went really late, or really
+          early depending on how you look at it. I think we finally finished our
+          bottles around 3:30 AM. I remember looking at my timepiece and thinking
+          Mr. Forbes is going to kill me for showing up hung over. Guess I had the
+          right idea but the wrong victim.
+
+
+          I think I saw Ms. Gibb shortly before and after Stoker walked by.
   -
     separate : True
     Subtitle : Merl Pinkerton
@@ -312,6 +351,14 @@ Content :
 
       Looks like the quintessential door-to-door salesman. Slight bulge in his jacket
       pocket from a lockpick set. Left Handed
+
+
+      !!! quote "Testimony"
+          I was on the lookout for anyone trying to access the first-class coach.
+          The only people I saw rushing back and forth were the Conductors, Ms. Gibb,
+          Mr. Owl, and Mrs. Mildred. The latter I stopped once it was clear something
+          fishy was going on. I lost track of the Kenku while I was standing guard
+          over Mrs. Pabst.
   -
     separate : True
     Subtitle : Dr. Abraham Coghill
@@ -367,6 +414,12 @@ Content :
 
 
       Carries dozens of little glass vials on him. Right Handed
+
+
+      !!! quote "Testimony"
+          I was in my quarters all night, having taken a sleeping draught. I didn't
+          even notice the derailment until Mr. Stoker was kind enough to rouse me
+          for breakfast.
   -
     separate : True
     Subtitle : Sol Forbes
@@ -493,6 +546,17 @@ Content :
 
 
       Huge Personality, Bright Red Hair, Loud, Talktative, Right Handed
+
+
+      !!! quote "Testimony"
+          I was in my compartment, when all of a sudden I woke up due to the sound of
+          a door being opened, you know just like in those horror shellackies that are
+          all the rage nowadays. I just knew a man had come into my chamber, and don't give
+          me that look I know precisely what the feeling of a man in my chambers is! I
+          felt a bump on my head and I when I finally came to I panicked and rang for Mr.
+          Stalker. He took for absolutely ever and then had the gall to suggest I dreamt it
+          up! I've never been so insulted in my life, I have half a mind to write a sternly
+          worded letter to the Director of the Trans-Siddar's wife!
   -
     separate : True
     Subtitle : Nanie Hays
@@ -548,6 +612,12 @@ Content :
 
 
       Nun's Habit, Poor command of the language (Kenku)
+
+
+      !!! quote "Testimony"
+          Hays was in her compartment all night, and can vouch that Mildred was
+          up knitting and walking around most of the night. She didn't mind, but
+          it did keep her up.
   -
     separate : True
     Subtitle : Mat Stoker
@@ -602,6 +672,23 @@ Content :
 
 
       Conductor's Uniform. Left Handed
+
+
+      !!! quote "Testimony"
+          I was in the engine with Wrigth, Cochran, and the engineers until around 12:40 AM
+          I did pop by the cars for a brief moment to let everyone know of the derailment, but
+          then I went right back. I think it was around 12:30 AM.
+
+
+          After that, I went back around 12:45 AM, and it wasn't until 1:10 AM that Mr.
+          Forbes accidentally rang for me. Then it was quiet until Mrs. Pabst had her
+          incident around 1:30 AM.
+
+
+          I know someone was in the forward lavatory while I was guarding Mrs. Pabst. I went
+          to investigate since they were in there a long time, and I got a response, but when
+          I overrode the lock there was no one in there, and a small puddle of water had formed
+          beneath the window.
   -
     separate : True
     Subtitle : Rush Wright
@@ -660,6 +747,12 @@ Content :
 
       Fiery yellow eyes and a constant predatory smirk. She is sometimes mistaken for a man
       due to her more masculine clothing choices.
+
+
+      !!! quote "Testimony"
+          I was in the engine with Cochran, Stoker, and the engineers, till I was sent to
+          the aft cars to relieve another conductor whohad gotten hurt. I didn't really
+          see anything. You can ask around, all the aft cars passengers saw me.
   -
     separate : True
     Subtitle : Thaddeus Dunn
@@ -716,6 +809,11 @@ Content :
 
 
       Bowler hat and very formal clothes with gloves. Right Handed.
+
+
+      !!! quote "Testimony"
+          One was kept up all night by that oafish brute and his sensitive stomach.
+          One did not hear anything, did not leave one's cabin, and kept to oneself.
   -
     separate : True
     Subtitle : Otis Uleaven
@@ -772,6 +870,17 @@ Content :
 
 
       Loud, Bright Clothing, Always talking about how great Siddar and the Republic are.
+
+
+      !!! quote "Testimony"
+          I was sick, something about lunch just didn't sit well with me. That Dunn guy,
+          the butler, no sympathy for others. Kept complaining I kept him up all night,
+          he could have just offered a little sympathy.
+
+
+          I heard Forbes was dirty, involved in all kinds of illegal gambling and fight
+          rigging. Plus, his alcohol wasn't all that good, I wonder how he got so rich
+          so quickly.
   -
     separate : True
     Subtitle : Elsa Gibb
@@ -826,6 +935,14 @@ Content :
 
 
       Can practically read the MEP's mind.
+
+
+      !!! quote "Testimony"
+          I was with my Lady since Mr. Stoker came to fetch me. She had a terrible fright,
+          and she enjoys hearing me read. It was strange through, Mr. Stoker was in such
+          a rush when he came to get me, and then he was just strolling along like nothing
+          a few minutes later when I nearly bumped into him going into my Lady's room. He
+          looked really frightened.
   -
     separate : True
     Subtitle : MEP Filomena Learmonth
@@ -883,7 +1000,14 @@ Content :
 
 
       She wears a large red sash with gold embroidery reading "Member Elector of Parliament"
-      that is almost as large as she is.
+      that is almost as large as she is
+
+
+      !!! quote "Testimony"
+          I was in my cabin when the train derailed. Conductor Stoker was kind
+          enough to check in on me, and went to get Ms. Gibb to keep me company.
+          We spent all night reading The Collected Fables of Mary the Prophetess,
+          childish I know but I've had a weakness for it since I was a child.
   -
     separate : True
     Subtitle : Iris Keogh
@@ -941,6 +1065,16 @@ Content :
 
       
       Olive skin tone, Finest Siddar clothing. Left Handed.
+
+
+      !!! quote "Testimony"
+          I was asleep all night, due to the sleeping draught Dr. Cochran gave me.
+          I must admit I'm glad I slept through it all, it must have been terribly
+          frightening. I don't know anything until Mr. Cochran stopped by this morning
+          to check up on me.
+
+
+          Mr. Stoker brought me water for the draught, and he saw me take it.
   -
     separate : True
     Subtitle : Lige Keogh
