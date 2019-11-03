@@ -7,36 +7,35 @@ title : The Demon Core
 GeneralInfo :
   Description : >-
     Trapped within the golden mirror is the soul of an ancient and terrible
-    demon. Where the Shroud provides the initial energy to the weapon, it is
-    the Demon Core that empowers the truly apocalyptic devastation the weapon
-    wreaks.
+    demon. Where the Shroud provides the initial energy to the weapon, it is the
+    Demon Core that empowers the truly apocalyptic devastation the weapon wreaks.
 
 
-    The Demon Core, like all pieces of the weapon, was separated and hidden by
-    Hermes Trismegistus prior to the Great Sack. Unbeknownst to anyone outside
-    Hermes' inner circle, the Demon Core was not buried in a desolate area, but
-    was instead entrusted into the care of Lord Symnyr Lynch, Councillor of
-    Blackpoint and a long-time personal friend.
+    The Demon Core, like all pieces of the weapon, was separated and hidden by Hermes
+    Trismegistus prior to the Great Sack. Unbeknownst to anyone outside Hermes' inner
+    circle, the Demon Core was not buried in a desolate area, but was instead
+    entrusted into the care of Lord Symnyr Lynch, Councillor of Blackpoint and a
+    long-time personal friend.
 
 
-    As prolongued exposure to the Core is extremely hazardous, the sphere
-    was placed inside a leaden sarcophagus, and hidden deep within the
-    catacombs under the city. Since then, the existence of the Demon Core and
-    its final resting place has been a closely guarded secret, known only
-    to the office of the Blackpoint Councillor, and after the Great Sack,
-    the Royal Chancellor that superseded the title.
+    As prolongued exposure to the Core is extremely hazardous, the sphere was placed
+    inside a leaden sarcophagus, and hidden deep within the catacombs under the
+    city. Since then, the existence of the Demon Core and its final resting place has
+    been a closely guarded secret, known only to the office of the Blackpoint
+    Councillor, and after the Great Sack, the Royal Chancellor that superseded the
+    title.
 
 
-    Discovering the location of the Demon Core's sarcophagus is no easy task.
-    The catacombs are a twisting maze of passages and chambers, many of which
-    have not been accessed in centuries. Many of the catacomb entrances were
-    sealed during the Great Sack, and the rest are heavily guarded by the
-    Dusk Templars. Breaking into the catacombs will be a difficult proposition,
-    second only to breaking out with the sarcophagus.
+    Discovering the location of the Demon Core's sarcophagus is no easy task.  The
+    catacombs are a twisting maze of passages and chambers, many of which have not
+    been accessed in centuries. Many of the catacomb entrances were sealed during the
+    Great Sack, and the rest are heavily guarded by the Dusk Templars. Breaking into
+    the catacombs will be a difficult proposition, second only to breaking out with
+    the sarcophagus.
 
 
-    Alternatively, a diplomatic approach may be possible. The current
-    Chancellor, Lord Reynfred, has been searching for information about the
+    Alternatively, a diplomatic approach may be possible. The current Chancellor,
+    Lord Reynfred, has been searching for information about the
     weapon, as have his predecessors. Although the Chancellor would use the
     weapon for his own purposes, the Lynch family remains the unofficial
     protectors of the Demon Core. Yrvyn Lynch serves as the Chancellor's
@@ -50,9 +49,9 @@ Content :
     Text : >-
       Blackpoint lies at the Southwestern terminus of the Black Highway, the
       largest trade route in Easter Tritan, connecting the two capitals of
-      Blackpoint and Siddar City. The road is wide, well maiantained, and
-      most importantly, safe. The road is constantly patrolled by the Dusk
-      Templars up until the Republic takes over some distance past Ravenhelm.
+      Blackpoint and Siddar City. The road is wide, well maiantained, and most
+      importantly, safe. The road is constantly patrolled by the Dusk Templars up
+      until the Republic takes over some distance past Ravenhelm.
 
 
       The road passes through several small towns, but none are particularly
@@ -66,31 +65,29 @@ Content :
     Subtitle : Gates of Blackpoint
     Text : >-
       As Blackpoint is composed of interlocking walled enclaves, the outer gates
-      of the city are but the first of many checkpoints the party will need to
-      pass in order to get access to the city proper.
+      of the city are but the first of many checkpoints the party will need to pass
+      in order to get access to the city proper.
 
 
-      There are a dozen or so outer gates open at any given time, but only four
-      have a customs station where non-citizens can gain the paperwork
-      necessary to traverse through the city. These four gates are located on
-      enclaves that were destroyed during the Great Sack, and still show much
-      of the damage today.
+      There are a dozen or so outer gates open at any given time, but only four have
+      a customs station where non-citizens can gain the paperwork necessary to
+      traverse through the city. These four gates are located on enclaves that were
+      destroyed during the Great Sack, and still show much of the damage today.
   -
     separate : False
     Subtitle : Blackpoint Village Inns
     Text : >-
       Near each of the main four gates is a small inn, where visitors to the
-      city can spend the night and get some rest from the long journey. Unlike
-      the nearby villages, these inns depend entirely on foreign visitors, and
-      extend them every courtesy.
+      city can spend the night and get some rest from the long journey. Unlike the
+      nearby villages, these inns depend entirely on foreign visitors, and extend
+      them every courtesy.
 
       
-      The innkeepers vary, but they are all pleasant and charming, a stark
-      contrast to the surrounding villagers. Typical names for the innkeepers
-      are Sean, Anraoi, Paidi, Eithne, Aibell, or Eimear. A short conversation
-      with the inkeepers reveals that the entrances to the city are limited
-      for foreigners, and few are allowed in without prior business in the
-      city.
+      The innkeepers vary, but they are all pleasant and charming, a stark contrast
+      to the surrounding villagers. Typical names for the innkeepers are Sean,
+      Anraoi, Paidi, Eithne, Aibell, or Eimear. A short conversation with the
+      inkeepers reveals that the entrances to the city are limited for foreigners,
+      and few are allowed in without prior business in the city.
 
 
       A DC 15 Charisma (Persuasion) check with the inkeeper can reveal some
@@ -102,30 +99,29 @@ Content :
     Table :
       1-7 : >-
         The inkeeper knows a merchant willing to pretend they are part of his
-        security escort - for a price (1000 gp). He will take the party as far
-        as the outer enclaves where his destination lies.
+        security escort - for a price (1000 gp). He will take the party as far as the
+        outer enclaves where his destination lies.
       8-15 : >-
-        The inkeeper knows that one of the Crown inspectors (Sioda) at the 
-        Station has a sick daughter, and may be willing to look the other way
-        in exchange for some money for medicine (500 gp). The inspector will
-        furnish the party with temporary entry permits, good for a pair of
-        days.
+        The inkeeper knows that one of the Crown inspectors (Sioda) at the Station
+        has a sick daughter, and may be willing to look the other way in exchange for
+        some money for medicine (500 gp). The inspector will furnish the party with
+        temporary entry permits, good for a pair of days.
       16-20 : >-
-        The inkeeper reveals that one of the patrons has been selling forged
-        entry permits (250 gp). The forgeries will withstand a moderate degree
-        of scrutiny, but should provide access to the inner city.
+        The inkeeper reveals that one of the patrons has been selling forged entry
+        permits (250 gp). The forgeries will withstand a moderate degree of scrutiny,
+        but should provide access to the inner city.
   -
     separate : False
     Subtitle : Customs Station
     Text : >-
-      The Customs Stations are only open between sunrise and sunset. Any
-      travelers arriving outside those hours are directed by the guards
-      on duty to one of the nearby inns.
+      The Customs Stations are only open between sunrise and sunset. Any travelers
+      arriving outside those hours are directed by the guards on duty to one of the
+      nearby inns.
 
 
-      Once it is daytime, the Customs Station is open, and the guards will
-      usher everyone without a valid entry permit into the small guardhouse
-      where the inspector is located.
+      Once it is daytime, the Customs Station is open, and the guards will usher
+      everyone without a valid entry permit into the small guardhouse where the
+      inspector is located.
     Table :
       Meta :
         Columns :
@@ -137,8 +133,8 @@ Content :
             - 1-10
             - Darearca (F)
             - >-
-              A good natured inspector, she takes pride in her work but is willing
-              to accomodate travelers to the extent allowed by the Crown.
+              A good natured inspector, she takes pride in her work but is willing to
+              accomodate travelers to the extent allowed by the Crown.
           -
             - 11-15
             - Declan (M)
@@ -156,69 +152,65 @@ Content :
   -
     separate : False
     Text : >-
-      Without some additional help through the checkpoint, the party will
-      be required to leave their weapons at the Customs Station, to be
-      retrieved upon exit. Only licensed caravan guards to known merchants
-      are allowed to keep their weapons. The gate is guarded by about 15
-      soldiers, with dozens of Dusk Templars only moments away. Trying to
-      break through the checkpoint will throw the enclave into lockdown, and
-      immediately make the party wanted enemies of the Dohlaran Crown. This will
-      make it much harder to avoid detection and can introduc complications
-      once inside the city.
+      Without some additional help through the checkpoint, the party will be required
+      to leave their weapons at the Customs Station, to be retrieved upon exit. Only
+      licensed caravan guards to known merchants are allowed to keep their
+      weapons. The gate is guarded by about 15 soldiers, with dozens of Dusk Templars
+      only moments away. Trying to break through the checkpoint will throw the
+      enclave into lockdown, and immediately make the party wanted enemies of the
+      Dohlaran Crown. This will make it much harder to avoid detection and can
+      introduc complications once inside the city.
 
 
-      Additionally, ancient magic items
-      are expressly forbidden, and will be confiscated and not returned
-      if discovered. This information is common knowledge, and the party
-      should take care not to have such items on their person. In the interests
-      of greater diplomacy, the inspectors will remind the party of this fact
-      and allow them to come back another day when they are better prepared.
+      Additionally, ancient magic items are expressly forbidden, and will be
+      confiscated and not returned if discovered. This information is common
+      knowledge, and the party should take care not to have such items on their
+      person. In the interests of greater diplomacy, the inspectors will remind the
+      party of this fact and allow them to come back another day when they are better
+      prepared.
       
 
-      The inspector on duty will thoroughly check the party, requiring a
-      DC 18 Dexterity (Sleight of Hand) or DC 18 Charisma (Deception) check
-      for each party member attempting to smuggle a weapon through. If caught,
-      the weapon(s) will be removed and placed in the depository. Should a
-      member of the party attempt to smuggle a weapon through again, the
-      entire party will have their passes revoked, and will need to try again
-      in about a week's time.
+      The inspector on duty will thoroughly check the party, requiring a DC 18
+      Dexterity (Sleight of Hand) or DC 18 Charisma (Deception) check for each party
+      member attempting to smuggle a weapon through. If caught, the weapon(s) will be
+      removed and placed in the depository. Should a member of the party attempt to
+      smuggle a weapon through again, the entire party will have their passes
+      revoked, and will need to try again in about a week's time.
   -
     separate : True
     Title : Inside the Outer Enclaves
     Text : >-
-      The outermost enclaves of the city were almost entirely destroyed
-      by Baltatrax during the Great Sack. Many of the buildings are
-      significantly newer and of a different architecture than those inside
-      the inner city. The outer enclaves tend to be a mix of poorer housing
-      and industries. Many merchants have supply contracts here, and
-      accomodations and supplies may be easily found.
+      The outermost enclaves of the city were almost entirely destroyed by Baltatrax
+      during the Great Sack. Many of the buildings are significantly newer and of a
+      different architecture than those inside the inner city. The outer enclaves
+      tend to be a mix of poorer housing and industries. Many merchants have supply
+      contracts here, and accomodations and supplies may be easily found.
 
 
 
-      Travel between the outer enclaves is not restricted, and permits are
-      rarely checked. These enclaves are typically run by the local nobility,
-      who are less willing to spend more than is necessary on security, and
-      there are plenty of warehouses and shanties to hide in should the need
-      arise.
+      Travel between the outer enclaves is not restricted, and permits are rarely
+      checked. These enclaves are typically run by the local nobility, who are less
+      willing to spend more than is necessary on security, and there are plenty of
+      warehouses and shanties to hide in should the need arise.
   -
     Subtitle : Ruined Districts
     Text : >-
-      Some of the enclaves were far too damaged during the Great Sack, and
-      have been converted into makeshift residences for many of the city's
-      workers. Contrary to the common perception, these people are generally
-      friendly and respectful to foreginers, whom they view with mild
-      curiosity and a great deal of deference. Travelers are often addressed
-      as 'my lord' or 'my lady', regardless of any true claim to nobility.
+      Some of the enclaves were far too damaged during the Great Sack, and have been
+      converted into makeshift residences for many of the city's workers. Contrary to
+      the common perception, these people are generally friendly and respectful to
+      foreginers, whom they view with mild curiosity and a great deal of
+      deference. Travelers are often addressed as 'my lord' or 'my lady', regardless
+      of any true claim to nobility.
 
 
-      Since many people's impression of Blackpoint comes from the outer
-      villages or the nobility within, there is an assumption that the entirety
-      of the citizenry shares a similar disdain for foreigners. It is not true
-      to say, however, that the common folk think favorably of strangers. It's
-      simply that the average commoner within the walls is secure in the knowledge
-      that Blackpoint would never allow "the wrong sort of people" to stay, and
-      anyone passing through is more of a temporary curiosity. To the common
-      folk, decency and kindness are entirely unrelated to acceptance and tolerance.
+      Since many people's impression of Blackpoint comes from the outer villages or
+      the nobility within, there is an assumption that the entirety of the citizenry
+      shares a similar disdain for foreigners. It is not true to say, however, that
+      the common folk think favorably of strangers. It's simply that the average
+      commoner within the walls is secure in the knowledge that Blackpoint would
+      never allow "the wrong sort of people" to stay, and anyone passing through is
+      more of a temporary curiosity. To the common folk, decency and kindness are
+      entirely unrelated to acceptance and tolerance.
   -
     separate : False
     Subtitle : Gardhynyr Trade House
@@ -226,55 +218,52 @@ Content :
       The Gahrdynyr Trade House, one of the major trading organizations
       within the Republic, has a major depot here. If the party has good
       relations with the Republic, they may have been gifted a letter of
-      introduction, or even a Republic Warrant, which can be presented
-      to the intendant at the Gardhynyr Trade House, Orval Morrissy.
+      introduction, or even a Republic Warrant, which can be presented to the
+      intendant at the Gardhynyr Trade House, Orval Morrissy.
 
 
-      The intendant doesn't officially run the trade house, but he has
-      the most up to date and accurante information, as he is the primary
-      contact for merchants and local businessmen. A DC 15 Charisma
-      (Persuasion) check can gain the party a lot of valuable information
-      about the city, including the local layout. With a suitable introduction,
-      the intendant will be much more forthcoming, allowing the party to roll
-      with advantage. A warrant grants automatic success, as the intendant
-      is entirely loyal to the Republic.
+      The intendant doesn't officially run the trade house, but he has the most up to
+      date and accurante information, as he is the primary contact for merchants and
+      local businessmen. A DC 15 Charisma (Persuasion) check can gain the party a lot
+      of valuable information about the city, including the local layout. With a
+      suitable introduction, the intendant will be much more forthcoming, allowing
+      the party to roll with advantage. A warrant grants automatic success, as the
+      intendant is entirely loyal to the Republic.
 
 
-      If the party inquires about more than just basics about the city, or
-      directly asks about the catacombs or information related to the
-      Demon Core, the intendant will suggest that the party visit the
-      Crown Libraries within the Inner Enclaves, as that is the most likely
-      place to find information about the history of the kingdom and the
-      city. He will point out however that entering the Inner Enclaves is
-      not a privilege extended to every traveler, and that special permits,
-      such as those granted to trade company representatives.
+      If the party inquires about more than just basics about the city, or directly
+      asks about the catacombs or information related to the Demon Core, the
+      intendant will suggest that the party visit the Crown Libraries within the
+      Inner Enclaves, as that is the most likely place to find information about the
+      history of the kingdom and the city. He will point out however that entering
+      the Inner Enclaves is not a privilege extended to every traveler, and that
+      special permits, such as those granted to trade company representatives.
 
 
-      The intendant can supply the party with additional paperwork to allow
-      them easier travel into the inner city. The paperwork identifies
-      the party as trade representatives, and for all intents and purposes
-      is genuine. Without a warrant, the intendant will want some form of
-      compensation for the paperwork, but he is not interested in money.
-      He wants a magic item, forbidden contraband within the city, and he's
-      not too particular about what he gets.
+      The intendant can supply the party with additional paperwork to allow them
+      easier travel into the inner city. The paperwork identifies the party as trade
+      representatives, and for all intents and purposes is genuine. Without a
+      warrant, the intendant will want some form of compensation for the paperwork,
+      but he is not interested in money.  He wants a magic item, forbidden contraband
+      within the city, and he's not too particular about what he gets.
 
 
-      If the party may not have a magic item they are willing to part with,
-      the intendant knows of some confiscated items at a local guardhouse
-      that haven't been logged yet. It seems a merchant was foolish enough
-      to attempt to hide the items, and was promptly discovered.
+      If the party may not have a magic item they are willing to part with, the
+      intendant knows of some confiscated items at a local guardhouse that haven't
+      been logged yet. It seems a merchant was foolish enough to attempt to hide the
+      items, and was promptly discovered.
   -
     separate : False
     Subtitle : Outer Enclave Guardhouse
     Text : >-
-      The guardhouse is located within the commercial zone, and is normally
-      staffed by 20 guards, although many more can be called in case of
-      an emergency. The guards mostly handle petty crimes, and don't suspect
-      any kind of trouble will arise.
+      The guardhouse is located within the commercial zone, and is normally staffed
+      by 20 guards, although many more can be called in case of an emergency. The
+      guards mostly handle petty crimes, and don't suspect any kind of trouble will
+      arise.
 
 
-      At the depository of the guardhouse is a small trove of about a half
-      dozen minor magic items, any of which will satisfy the intendant. 
+      At the depository of the guardhouse is a small trove of about a half dozen
+      minor magic items, any of which will satisfy the intendant.
   -
     Text : |
       To get to the depository, the party will need to:
@@ -282,22 +271,23 @@ Content :
       - Sneak into the guardhouse ...
           - ... during the day   : DC 25 Dexterity (Stealth) check
           - ... during the night : DC 20 Dexterity (Stealth) check
-          - Getting a layout of the guardhouse and guard rotations with a DC 15 Wisdom (Perception) check can grant advantage.
+          - Getting a layout of the guardhouse and guard rotations with a DC 15 Wisdom (Perception)
+          check can grant advantage.
       - Distract the guard at the repository entrance
       - Unlock the depository where the items are held with a DC 20 Dexterity (Sleight of Hand) check
-          - The depository guard has a set of keys, which can be lifted with a DC 15 Dexterity (Sleight of Hand) check.
+          - The depository guard has a set of keys, which can be lifted with a DC 15 Dexterity
+          (Sleight of Hand) check.
       - Leave the guardhouse without alerting the guards.
   -
     Text : >-
-      Additional complications may arise if the party is discovered. The
-      guards will turn hostile, and the party can become wanted if they fight
-      with the guards. It is possible that the party becomes notorious in
-      Blackpoint, which will put guards on alert for persons matching the
-      party's last known description.
+      Additional complications may arise if the party is discovered. The guards will
+      turn hostile, and the party can become wanted if they fight with the guards. It
+      is possible that the party becomes notorious in Blackpoint, which will put
+      guards on alert for persons matching the party's last known description.
 
 
-      Here are some additional encounters that may arise while the party
-      is retrieving the magic items from the depository:
+      Here are some additional encounters that may arise while the party is
+      retrieving the magic items from the depository:
     Table :
       1-5 : >-
         No additional encounters.
@@ -309,8 +299,8 @@ Content :
       16-18 : >-
         1d6 + 3 Dusk Templars arrive at the guardhouse.
       19 : >-
-        The guards conduct a random inspection of the building. The party can
-        avoid detection with a successful DC 20 Dexterity (Stealth) check.
+        The guards conduct a random inspection of the building. The party can avoid
+        detection with a successful DC 20 Dexterity (Stealth) check.
       20 : >-
         A thief is already in the process of stealing the magic items.
   -
@@ -325,47 +315,45 @@ Content :
 
 
       With the appropriate paperwork, the party will once again be inspected as they
-      are considered untrustworthy foreigners. requiring a
-      DC 18 Dexterity (Sleight of Hand) or DC 18 Charisma (Deception) check
-      for each party member attempting to smuggle a weapon or magic item through.
+      are considered untrustworthy foreigners. requiring a DC 18 Dexterity (Sleight
+      of Hand) or DC 18 Charisma (Deception) check for each party member attempting
+      to smuggle a weapon or magic item through.
 
 
       It is possible to circumvent the need for permits, though this carries
       significant risk.
 
 
-      Most of the poorer citizens of the Outer Enclaves do not
-      have paperwork themselves, but some of the richer merchants and travelers
-      may have paperwork that matches the party's general descriptions. These
-      permits may be pickpocketed by a successful DC 15 Dexterity (Sleight of Hand)
-      check. A failed check alerts the owner, who will cry for help against the
-      would-be thief.
+      Most of the poorer citizens of the Outer Enclaves do not have paperwork
+      themselves, but some of the richer merchants and travelers may have paperwork
+      that matches the party's general descriptions. These permits may be
+      pickpocketed by a successful DC 15 Dexterity (Sleight of Hand) check. A failed
+      check alerts the owner, who will cry for help against the would-be thief.
 
       
-      Alternatively, the checkpoint itself could be bypassed, either by going
-      over the walls, DC 15 Strength (Athletics), or through them with the
-      appropriate spells. However, the guards in the Inner Enclaves will
-      occasionally stop-check foreigners for paperwork, which can create
-      complications if the permits are not produced.
+      Alternatively, the checkpoint itself could be bypassed, either by going over
+      the walls, DC 15 Strength (Athletics), or through them with the appropriate
+      spells. However, the guards in the Inner Enclaves will occasionally stop-check
+      foreigners for paperwork, which can create complications if the permits are not
+      produced.
   -
     separate : True
     Title : Inside the Inner Enclaves
     Text : >-
-      Unlike the Outer Enclaves, the inner sectors of Blackpoint are extremely
-      well maintained, offering many beautiful sights of antecasum architecture.
-      The citizens privileged enough to live in the Inner Enclaves are generally
-      wealthy merchants, artesans, freemen, and the lower nobility. These
-      enclaves are typically better patrolled and protected, and anyone who does
-      not appear to belong can expect to present their permits several times
-      throughout the day.
+      Unlike the Outer Enclaves, the inner sectors of Blackpoint are extremely well
+      maintained, offering many beautiful sights of antecasum architecture.  The
+      citizens privileged enough to live in the Inner Enclaves are generally wealthy
+      merchants, artesans, freemen, and the lower nobility. These enclaves are
+      typically better patrolled and protected, and anyone who does not appear to
+      belong can expect to present their permits several times throughout the day.
 
 
       Similar to the Outer Enclaves, travel within the same ring is significantly
-      more relaxed. Permits typically do not need to be presented, unless an
-      Enclave has been sealed due to a policing action, which is extremely rare.
-      Travel to the Outer Enclaves is similarly unrestricted, though the guards
-      will remind well-to-do citizens not to linger or leave the main boulevards
-      that connect the inner checkpoints with the outer gates.
+      more relaxed. Permits typically do not need to be presented, unless an Enclave
+      has been sealed due to a policing action, which is extremely rare.  Travel to
+      the Outer Enclaves is similarly unrestricted, though the guards will remind
+      well-to-do citizens not to linger or leave the main boulevards that connect the
+      inner checkpoints with the outer gates.
   -
     Subtitle : Crown Library
     Text : >-
@@ -401,9 +389,9 @@ Content :
 
 
       Once inside the library, the clerks can help the party find the appropriate
-      records, but will become suspicious if the party asks too many direct
-      questions about the catacombs, the Chancellor, the Demon Core, or any closely
-      related subject.
+      records, but will become suspicious if the party asks too many direct questions
+      about the catacombs, the Chancellor, the Demon Core, or any closely related
+      subject.
 
 
       !!! warning
@@ -418,9 +406,9 @@ Content :
 
       
       The records can be searched manually to avoid attracting attention to the
-      party's activities, using Intelligence (Investigation or History) checks of
-      the appropriate DC. Topics marked as restricted require a DC 14 Dexterity
-      (Stealth) check to bypass the librarian in the restricted section.
+      party's activities, using Intelligence (Investigation or History) checks of the
+      appropriate DC. Topics marked as restricted require a DC 14 Dexterity (Stealth)
+      check to bypass the librarian in the restricted section.
     Table :
       Meta :
         Columns :
@@ -577,14 +565,14 @@ Content :
     Text : >-
       If the party requested an audience that piqued the interest of Yrvyn Lynch,
       they are directed to the appropriate building within the Crown offices, where
-      Yrvyn will be waiting, and will attempt to determine whether the party is on his
-      side, or if they represent a threat to either himself or the Crown.
+      Yrvyn will be waiting, and will attempt to determine whether the party is on
+      his side, or if they represent a threat to either himself or the Crown.
 
 
       Yrvyn is not disloyal to the Crown, but he believes that his family has a
       higher calling to protect the Demon Core until it is needed. He can be
-      convinced to help the party by presenting evidence that they are on a quest
-      for Hermes Trismegistus or Azoth the Wise. Simply mentioning them is insufficient,
+      convinced to help the party by presenting evidence that they are on a quest for
+      Hermes Trismegistus or Azoth the Wise. Simply mentioning them is insufficient,
       and he will immediately suspect that the party is searching for the Demon Core
       for nefarious purposes.
 
@@ -607,24 +595,24 @@ Content :
       about the catacombs and the Demon Core's location. Yrvyn's great-great-great
       grandfather ordered the desruction of most of the official records when it
       became clear that the Crown could not be trusted with the artifact. Fortunately
-      for the party, the Lynch family kept their own set of records, and although they
-      could not save a map, there is a record of Symnyr's directions to reach the
-      artifact's vault. He will also mention that some of the catacomb exits were
+      for the party, the Lynch family kept their own set of records, and although
+      they could not save a map, there is a record of Symnyr's directions to reach
+      the artifact's vault. He will also mention that some of the catacomb exits were
       hidden rather than sealed, and although their locations are unknown, it should
       be possible to exit the catacombs from a different location, possibly in the
       Outer Enclaves, but it would be next to impossible to find that exit from
       outside.
 
 
-      Most importantly however, Yrvyn has keys to the various catacomb gates,
-      which have been enchanted against picking and would otherwise require a
-      DC 25 Dexterity (Sleight of Hand) check to bypass, or a DC 15 check if
-      Dispell or Knock are used on each gate.
+      Most importantly however, Yrvyn has keys to the various catacomb gates, which
+      have been enchanted against picking and would otherwise require a DC 25
+      Dexterity (Sleight of Hand) check to bypass, or a DC 15 check if Dispell or
+      Knock are used on each gate.
 
 
-      Lastly, Yrvyn can help create a distraction to draw away the Dusk Templars
-      and allow the party to enter the catacombs more easily from within the
-      Crown Enclaves.
+      Lastly, Yrvyn can help create a distraction to draw away the Dusk Templars and
+      allow the party to enter the catacombs more easily from within the Crown
+      Enclaves.
   -
     subtitle : True
     Title : Entering the Catacombs
@@ -635,35 +623,36 @@ Content :
       gods.
 
 
-      If the party has learned the location of the catacomb entrances from Yrvyn
-      or some other source, they can head directly there. Otherwise, the party will
-      need to explore the Crown Enclaves to try to locate the entrances. A DC 20
+      If the party has learned the location of the catacomb entrances from Yrvyn or
+      some other source, they can head directly there. Otherwise, the party will need
+      to explore the Crown Enclaves to try to locate the entrances. A DC 20
       Intelligence (History or Religion) check can provide insight that the catacombs
-      would have been used as burial chambers during the First Age, and First Age temples
-      would have been connected to the catacombs. 
+      would have been used as burial chambers during the First Age, and First Age
+      temples would have been connected to the catacombs.
 
 
-      The best catacomb entrance is hidden underneath the statue of the Dragon God inside
-      the Draseotheoa. Normally, a pair of Dusk Templars patrol the wing of the
-      temple where the statue is located. If Yrvyn was recruited, these guards are
-      not present. Otherwise the Dusk Templars will pass by the statue every 5 minutes.
+      The best catacomb entrance is hidden underneath the statue of the Dragon God
+      inside the Draseotheoa. Normally, a pair of Dusk Templars patrol the wing of
+      the temple where the statue is located. If Yrvyn was recruited, these guards
+      are not present. Otherwise the Dusk Templars will pass by the statue every 5
+      minutes.
   -
     Subtitle : Draseotheoa
     Text : >-
       The Draseotheoa is the holiest site in Blackpoint. A massive First Age temple,
-      the Draseotheoa boasts a massive central nave flanked by two rows of intricately
-      carved columns. The stained glass windows that line the Aisles depict imagery
-      of the Old Pantheon's miracles, though the accompanying lore has largely been
-      lost to the ages. Two transepts flank the central altar, in which the idols
-      and statues of the ancient gods are kept as a reminder of what once was. An
-      octagonal chapterhouse abuts the choir, in which sits a colossal statue of
-      a dragon.
+      the Draseotheoa boasts a massive central nave flanked by two rows of
+      intricately carved columns. The stained glass windows that line the Aisles
+      depict imagery of the Old Pantheon's miracles, though the accompanying lore has
+      largely been lost to the ages. Two transepts flank the central altar, in which
+      the idols and statues of the ancient gods are kept as a reminder of what once
+      was. An octagonal chapterhouse abuts the choir, in which sits a colossal statue
+      of a dragon.
 
 
       The statue of the Dragon God is a massive marble statue and one of the cultural
       treasures of Blackpoint. During the First Age, the Draseotheoa was constructed
-      to honor the old pantheon, but as the city's patron god, the Dragon God
-      was given a dedicated room in the temple.
+      to honor the old pantheon, but as the city's patron god, the Dragon God was
+      given a dedicated room in the temple.
       
 
       The statue bears a small inscription in draconic scratched behind the base,
@@ -677,8 +666,8 @@ Content :
           Let secrets of the dead be heard.  
 
 
-      Inspecting the statue's mouth, a small switch can be felt. When activated,
-      a wall panel behind the statue reveals a secret door into the catacombs.
+      Inspecting the statue's mouth, a small switch can be felt. When activated, a
+      wall panel behind the statue reveals a secret door into the catacombs.
   -
     separate : True
     Title : Catacombs of Blackpoint
@@ -689,19 +678,18 @@ Content :
 
 
       Originally, the catacombs were a disjoint collection of mining tunnels and
-      crypts that crisscrossed the ground beneath the city. Over the course of
-      a thousand years, parts of the catacombs were found, forgotten, collapsed,
-      expanded, or even sealed off, until a labyrinth of tunnels and chambers
-      were left behind. No complete map of the catacombs has ever existed, but
-      the most well known sections are the undercrofts beneath the surviving
-      temples.
+      crypts that crisscrossed the ground beneath the city. Over the course of a
+      thousand years, parts of the catacombs were found, forgotten, collapsed,
+      expanded, or even sealed off, until a labyrinth of tunnels and chambers were
+      left behind. No complete map of the catacombs has ever existed, but the most
+      well known sections are the undercrofts beneath the surviving temples.
 
 
       During the Great Sack, most of the entrances to the catacombs were sealed or
-      destroyed to prevent the invading hordes from using them to bypass the
-      enclave walls. Only the Royal Crypts and the entraces within the Royal Enclaves
-      were preserved, as the Crown planned to use the labyrinth in a last ditch
-      attempt to survive should Baltatrax and his hordes breach the inner city.
+      destroyed to prevent the invading hordes from using them to bypass the enclave
+      walls. Only the Royal Crypts and the entraces within the Royal Enclaves were
+      preserved, as the Crown planned to use the labyrinth in a last ditch attempt to
+      survive should Baltatrax and his hordes breach the inner city.
 
 
       The catacombs beneath the Draseotheoa span three levels.
@@ -712,21 +700,21 @@ Content :
       granted the privilege of a crypt or sarcophagus.
 
 
-      The second level contains far fewer
-      remains, mostly along the first set of tunnels leading to the first level.
-      The Royal Crypts are located in the second level, along with the Royal Vaults,
-      which house many of the Crown's ancient treasures.
+      The second level contains far fewer remains, mostly along the first set of
+      tunnels leading to the first level.  The Royal Crypts are located in the second
+      level, along with the Royal Vaults, which house many of the Crown's ancient
+      treasures.
 
 
-      The third and final level was sealed shut behind a massive, warded gateway, under
-      orders from Councillor Ermylynd Lynch in the First Century. In the Fifth Century,
-      Morrin Lynch had all of the records pertaining to the third level destroyed, in
-      order to keep the Demon Core's location hidden.
+      The third and final level was sealed shut behind a massive, warded gateway,
+      under orders from Councillor Ermylynd Lynch in the First Century. In the Fifth
+      Century, Morrin Lynch had all of the records pertaining to the third level
+      destroyed, in order to keep the Demon Core's location hidden.
   -
     Subtitle : Catacombs Level 1
     Text : >-
-      The first level of the Catacombs beneath the Draseotheoa connect to the rest
-      of the catacomb network at many locations. This level is dominated by long,
+      The first level of the Catacombs beneath the Draseotheoa connect to the rest of
+      the catacomb network at many locations. This level is dominated by long,
       winding corridors lined with the remains of long forgotten heroes.
 
 
@@ -734,8 +722,8 @@ Content :
   -
     Subtitle : Catacombs Level 2
     Text : >-
-      The second level has far fewer remains than the first, and the layout is
-      a little less haphazard. There are far fewer connections to the rest of the
+      The second level has far fewer remains than the first, and the layout is a
+      little less haphazard. There are far fewer connections to the rest of the
       catacombs, having been constructed only once the first level was nearly full.
 
 
@@ -743,11 +731,11 @@ Content :
   -
     Subtitle : Catacombs Level 3
     Text : >-
-      The third and last level of the catacombs is far less impressive than the
-      prior two, containing almost no loculi (wall graves), and only an occasional
-      room with unmarked sarcophagi. The layout however is far more labyrinthean,
-      seemingly designed with the intent of confounding anyone trying to make
-      their way without a map.
+      The third and last level of the catacombs is far less impressive than the prior
+      two, containing almost no loculi (wall graves), and only an occasional room
+      with unmarked sarcophagi. The layout however is far more labyrinthean,
+      seemingly designed with the intent of confounding anyone trying to make their
+      way without a map.
 
 
       TBD : Map, description, layout, etc.
@@ -761,11 +749,11 @@ Content :
       passages to a different, possibly blocked catacomb entrance.
 
 
-      With Yrvyn's instructions, it should be relatively straightforward to chart
-      a path to one of the hidden exits within the Outer Enclaves, giving the party
-      a large advantage in retrieving the Demon Core. The remaining hidden exits
-      are all inside older, sometimes abandoned temples, and have merely been
-      plastered over. 
+      With Yrvyn's instructions, it should be relatively straightforward to chart a
+      path to one of the hidden exits within the Outer Enclaves, giving the party a
+      large advantage in retrieving the Demon Core. The remaining hidden exits are
+      all inside older, sometimes abandoned temples, and have merely been plastered
+      over.
 
 
       If the party has no instructions, the catacombs are treacherous to navigate,
@@ -785,12 +773,12 @@ Content :
       **Rock of Cashel**
 
 
-      The palace grounds exit is located within the inner courtyard's chapel,
-      hidden behind a false wall that can be rotated out of the way in the choir.
-      The palace has a large number of servants and soldiers, and is the most
-      difficult exit to use. Avoiding the Templar patrols requires a DC 25 Dexterity
-      (Stealth) check every 10 minutes (DC 20 at night). The chapel is fortunately
-      not too distant from the walls which lead to the Draseotheoa's enclave.
+      The palace grounds exit is located within the inner courtyard's chapel, hidden
+      behind a false wall that can be rotated out of the way in the choir.  The
+      palace has a large number of servants and soldiers, and is the most difficult
+      exit to use. Avoiding the Templar patrols requires a DC 25 Dexterity (Stealth)
+      check every 10 minutes (DC 20 at night). The chapel is fortunately not too
+      distant from the walls which lead to the Draseotheoa's enclave.
 
 
       **Crown Offices**
@@ -799,46 +787,47 @@ Content :
       The catacombs exit in the Crown Offices in the abbey next to the Chancellor's
       Office. During the day, the Crown Offices are a bustling administrative center,
       making it nearly impossible to avoid being seen, but at night there is only the
-      occasional Templar patrol, and even more rarely, a clerk burning the midnight oil.
+      occasional Templar patrol, and even more rarely, a clerk burning the midnight
+      oil.
 
 
       **Kilmainham Gaol**
 
 
       The altar in the jail's chapel slides out of the way to reveal an entrance to
-      the catacombs, but requires a DC 20 Dexterity (Sleight of Hand) check to unlock.
-      The chapel is located in the back courtyard, and is usually empty. Unfortunately,
-      the jail is surrounded by a moat, with the main jail entrance the only bridge to
-      the rest of the enclave.
+      the catacombs, but requires a DC 20 Dexterity (Sleight of Hand) check to
+      unlock.  The chapel is located in the back courtyard, and is usually
+      empty. Unfortunately, the jail is surrounded by a moat, with the main jail
+      entrance the only bridge to the rest of the enclave.
 
 
       **Cloughoughter Cathedral**
 
 
       While not as famous as the Draseotheoa, the Cloughoughter Cathedral serves as
-      the Primate's seat, and doubles as the Cult's administrative center. The catacomb
-      exit is located in the chapterhouse that has become the Blackpoint Cult's
-      assembly. This room is generally deserted, but is the farthest room from the
-      cathedral entrance.
+      the Primate's seat, and doubles as the Cult's administrative center. The
+      catacomb exit is located in the chapterhouse that has become the Blackpoint
+      Cult's assembly. This room is generally deserted, but is the farthest room from
+      the cathedral entrance.
 
 
       **Caherminnaun Dun**
 
 
-      A fortification outside the Crown Palace, the Caherminnaun Dun is the primary base
-      of the Dusk Templars. The catacombs exit directly into the abbey within the
-      training grounds, and is the only non-hidden entrance. A simple locked gate
+      A fortification outside the Crown Palace, the Caherminnaun Dun is the primary
+      base of the Dusk Templars. The catacombs exit directly into the abbey within
+      the training grounds, and is the only non-hidden entrance. A simple locked gate
       prevents access to the catacombs, requiring a DC 15 Dexterity (Sleight of Hand)
-      check to open. The training grounds are almost never empty, with usually a dozen
-      or so Templar squires practicing under the watchful eye of at least two
+      check to open. The training grounds are almost never empty, with usually a
+      dozen or so Templar squires practicing under the watchful eye of at least two
       Templar Knights.
   -
     Subtitle : Outer Enclaves Catacombs Exits
     Text : >-
-      Of over a hundred exits in the Outer Enclaves, only four are still usable as an exit,
-      as they were merely plastered over rather than collapsed or filled in.
-      A DC 13 Strength check can be used to break through the plaster,
-      or alternatively, the plaster wall has AC 11 and 100 hp. The party will then
+      Of over a hundred exits in the Outer Enclaves, only four are still usable as an
+      exit, as they were merely plastered over rather than collapsed or filled in.  A
+      DC 13 Strength check can be used to break through the plaster, or
+      alternatively, the plaster wall has AC 11 and 100 hp. The party will then
       emerge in either a chapterhouse or a choir.
 
 
