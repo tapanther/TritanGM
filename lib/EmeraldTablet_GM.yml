@@ -197,7 +197,7 @@ Content :
       differently than the other local creatures, as they will attempt to send
       a runner into the city proper to alert their master to the intruders. If a
       runner makes it to the city, the players can expect heavier patrols as
-      outlined in the [Pleas' Patrols)(EmeraldTablet_GM.md#pleas-patrols] section.
+      outlined in the [Pleas' Patrols](#pleas-patrols) section.
     Table: 
       Meta : 
         Columns :
@@ -209,7 +209,7 @@ Content :
             - 2d6 Pack of [Death Dogs][DeathDog]
           -
             - 2
-            - 2d6+4 [Dust Mephit]
+            - 2d6+4 [Dust Mephits][DustMephit]
           -
             - 3
             - 1d4+4 [Ghast] + [Poltergeist]
@@ -788,7 +788,7 @@ Content :
           -
             - 3
             - >-
-              1 [Mindwitness] and 2d4 [Gazers]
+              1 [Mindwitness] and 2d4 [Gazers][Gazer]
           -
             - 4
             - 1 [Adult Oblex][AdultOblex] + 1d4 [Ogre Zombie][OgreZombie] + 2d6 [Zombie]
@@ -949,7 +949,33 @@ Content :
       vegetation is overgrown and many of the ground's water features have long since
       dried up, leaving only the cracked pool floors.
     Table:
-      01 - 20 : TBD ENCOUNTERS
+      Meta : 
+        Columns :
+          - D8
+          - Encounter
+        Rows :
+          -
+            - 1
+            - 2d4 [Basilisk]s
+          -
+            - 2
+            - Roll on [Pleas' Patrols](#pleas-patrols)
+          -
+            - 3
+            - >-
+              1 [Mindwitness] and 2d4 [Gazers][Gazer]
+          -
+            - 4
+            - 1 [Bulette]
+          -
+            - 5
+            - 1d3 [Sorrowsworn Lost][TheLost]
+          -
+            - 6
+            - 1 [Sorrowsworn Lonely][TheLonely]
+          -
+            - 7
+            - 1 [Sorrowsworn Hunger][TheHungry]
   -
     Subtitle: Imperial Palace
     Text: >-
@@ -1065,12 +1091,17 @@ Refs:
   ShieldGuardian: https://www.dndbeyond.com/monsters/shield-guardian
   ## Monstrosities / Aberrations
   AdultOblex: https://www.dndbeyond.com/monsters/adult-oblex
+  Basilisk: https://www.dndbeyond.com/monsters/basilisk
+  Bulette: https://www.dndbeyond.com/monsters/bulette
   DeathSlaad: https://www.dndbeyond.com/monsters/death-slaad
   Gazer: https://www.dndbeyond.com/monsters/gazer
   GibberingMouther: https://www.dndbeyond.com/monsters/gibbering-mouther
   IntellectDevourer: https://www.dndbeyond.com/monsters/intellect-devourer
   Mindwitness: https://www.dndbeyond.com/monsters/mindwitness
   ShadowHorror: https://www.dndbeyond.com/monsters/shadow-horror
+  TheHungry: https://www.dndbeyond.com/monsters/the-hungry
+  TheLonely: https://www.dndbeyond.com/monsters/the-lonely
+  TheLost: https://www.dndbeyond.com/monsters/the-lost
   ## Ghosts
   Ghost: https://www.dndbeyond.com/monsters/ghost
   Poltergeist: https://www.dndbeyond.com/monsters/poltergeist
@@ -1082,6 +1113,7 @@ Refs:
   Deathlock: https://www.dndbeyond.com/monsters/deathlock
   DeathlockWight: https://www.dndbeyond.com/monsters/deathlock-wight
   DreadWarrior: https://www.dndbeyond.com/monsters/dread-warrior
+  Ghast: https://www.dndbeyond.com/monsters/ghast
   InvisibleStalker: https://www.dndbeyond.com/monsters/invisible-stalker
   Mummy: https://www.dndbeyond.com/monsters/mummy
   OgreZombie: https://www.dndbeyond.com/monsters/ogre-zombie
