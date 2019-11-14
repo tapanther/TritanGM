@@ -17,7 +17,7 @@ Main Page
 
 ## Using this Site
 
-Use the **navigation bar** to explore the different aspects of _Tritan_.
+Use the navigation bar to explore the different aspects of Tritan.
 
 
 You can alternatively use the category pages below to narrow your

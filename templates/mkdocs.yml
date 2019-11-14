@@ -8,13 +8,13 @@ theme:
     accent: blue
   favicon: 'img/favicon.ico'
   logo:
-    icon: 'local_library'
-repo_name: 'tapanther/TritanGM'
-repo_url: 'https://github.com/tapanther/TritanGM/'
-site_url: 'https://tapanther.github.io/TritanGM/'
+    icon: 'account_balance'
+repo_name: 'tapanther/Tritan'
+repo_url: 'https://github.com/tapanther/Tritan'
+site_url: 'https://tapanther.github.io/Tritan/'
 
-#extra:
-#  disqus: 'tritangm'
+extra:
+  disqus: 'tritan'
 
 markdown_extensions:
   - admonition
@@ -22,7 +22,7 @@ markdown_extensions:
 
 nav:
   - Home : index.md
-{% for child in navTree.children | sort_multi('parent', 'name') if not child.noLink %}
+{% for child in navTree|getTreeDirectChildren if not child.noLink %}
 {{ macros.printTreeYAML(child, 1) }}
 {%- endfor %}
   - Categories :
