@@ -1014,7 +1014,18 @@ Content :
 
 
           At the center of the ritual chamber lies Krutoq's sarcophagus, upon which
-          a [Corpse Flower][CorpseFlower] has bloomed. 
+          a [Corpse Flower][CorpseFlower] has bloomed. The flower must consume 9
+          corpses in order to complete the ritual. The flower has consumed 1d3 corpses
+          by the time the Party arrives in the ritual chamber, and will consume a corpse
+          within 10 ft. every turn. There are 2d12 corpses strewn around the flower, and
+          the minions will do their best to ensure the flower always has a corpse to consume.
+          Additionally, this flower can use a bonus action to use it's Harvest the Dead
+          ability.
+
+
+          The flower must be destroyed before the ritual completes in order to weaken
+          Elandorr when he resurrects, otherwise the lich will come back significantly
+          stronger.
   -
     Subtitle: First Fight Against Elandorr Krutoq
   -
