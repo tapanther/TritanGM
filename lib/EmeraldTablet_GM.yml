@@ -1015,19 +1015,39 @@ Content :
 
           At the center of the ritual chamber lies Krutoq's sarcophagus, upon which
           a [Corpse Flower][CorpseFlower] has bloomed. The flower must consume 9
-          corpses in order to complete the ritual. The flower has consumed 1d3 corpses
+          corpses in order to complete the ritual. The flower has consumed 1d3+2 corpses
           by the time the Party arrives in the ritual chamber, and will consume a corpse
           within 10 ft. every turn. There are 2d12 corpses strewn around the flower, and
           the minions will do their best to ensure the flower always has a corpse to consume.
-          Additionally, this flower can use a bonus action to use it's Harvest the Dead
-          ability.
 
 
-          The flower must be destroyed before the ritual completes in order to weaken
-          Elandorr when he resurrects, otherwise the lich will come back significantly
-          stronger.
+          After the flower consumes and digests it's ninth corpse, the ritual completes
+          at full strength. If the flower is destroyed before it digests the last corpse,
+          the ritual will complete, but Krutoq will be weakened by comparison. Refer to the
+          table below on how Krutoq's strength is affected by the flower's ritual.
+  -
+    Table:
+      Meta :
+        Columns :
+          - Corpses Consumed
+          - Effect
+        Rows :
+          -
+            - 9
+            - No changes
+          -
+            - 8
+            - 90% Health, Krutoq loses his 7th Level Spell Slot
+          -
+            - 7
+            - 80% Health, Krutoq loses his 7th and 6th Level Spell Slots
+          -
+            - 6
+            - 70% Health, 
   -
     Subtitle: First Fight Against Elandorr Krutoq
+    Text: >-
+      
   -
     Subtitle: Second Fight Against Elandorr Krutoq
   -
@@ -1093,6 +1113,8 @@ Refs:
   MIT_I: https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableI
   LongTermMadness : https://www.dndbeyond.com/sources/dmg/running-the-game#Madness
   # Creatures
+  ## Special
+  DevkarinLich: https://www.dndbeyond.com/monsters/devkarin-lich
   ## Beasts / Unaligned
   AdultBlueDragon: https://www.dndbeyond.com/monsters/adult-blue-dragon
   DeathDog: https://www.dndbeyond.com/monsters/death-dog
