@@ -414,6 +414,12 @@ Content :
           over the atrocities it was forced to commit. He'd been shattered at some
           point during a fight with soldiers. He remembers a cleric, perhaps something
           he did had broken the cultist's control, at least partially.
+
+
+      Unknown to the explorers and the party, the Flameskull is a critical component of
+      a dark ritual to restore it's creator to undeath. The cultists in Terraworth will
+      attempt to steal the Flameskull at every opportunity, and will transport it to the
+      Imperial Archives where the ritual is taking place should it ever be captured.
   -
     Subtitle : Terraworth Loop
     Text : >-
@@ -932,10 +938,55 @@ Content :
       few earned the honor of being buried within the hallowed ground.
 
 
-      The catacombs connect via a secret tunnel to the Vault beneath the Imperial
-      Palace. The passage is hidden behind a false burial shelf bearing the inscription
-      'Elandorr, City Councillor'. The sarcophagus within the shelf is empty and
-      can be pulled away to reveal the passage.
+      The catacombs connect via a secret tunnel to the Archives beneath the Imperial
+      Palace. The passage is hidden behind a false burial shelf bearing the
+      inscription 'Elandorr, City Councillor'. The sarcophagus within the shelf is
+      empty and can be pulled away to reveal the passage, which releases a [Shadow
+      Horror][ShadowHorror] and immediately extinguishes all torches within 60 ft.,
+      as though [Control Flames][ControlFlames] had been cast. Additionally, a
+      magical darkness descends upon the area, as though [Darkness] had been cast
+      at second level.
+
+
+      The Shadow Horror only attacks the party if there is light available to cast
+      shadows, otherwise it remains neutral until the party exits the tunnel. If
+      there is light to cast shadows, the Horror will preferrentially attack the
+      holder of the source of the light, or the creature closest to the source of
+      light.
+
+
+      Whether the party fights or avoids the Shadow Horror, the passageway ahead
+      is entirely devoid of illumination, and is riddled with Light Traps.
+
+
+      !!! danger "Light Traps" 
+          Pressure plates dot the darkened corridor. When lit, the pressure plates
+          are easily visible on the floor and can be avoided.  If the floor is not
+          well-lit, the pressure plates are not discernible from the rest of the
+          tunnel floor.
+
+
+          For creatures weighing more than 20 lbs, roll 1d6 for every 15 ft. of
+          movement that the creature performs while unable to see the plates. On a
+          roll of 6, the plate is activated, and a hidden opening fires a blob of
+          luminescent, sticky goo at the pressure plate's position. The creature must
+          then make a DC 16 Dexterity Saving Throw or be coated in the luminescent
+          goo. The goo can be cleaned off with a thorough soaking in hot water, or
+          with universal solvent, but seems to be immune to magical methods of
+          cleaning.
+
+
+          The goo emits a sickly yellow light that creates *dim light* in a 10 ft.
+          radius around the creature (or impact point). The [Shadow
+          Horror][ShadowHorror] responds to the light by attacking the nearest
+          creature.
+
+        
+      The tunnel eventually opens up into the cellars of the Imperial Palace, through
+      a hidden door (DC 16 Investigation check to find) outside the Imperial
+      Archives. This side of the doorway can be opened by inserting a special key
+      hidden somewhere within the Vault, or from within simply by turning the locking
+      mechanism.
   -
     Subtitle: Imperial Gardens
     Text: >-
@@ -994,17 +1045,68 @@ Content :
       converted into the Terraworth Imperial Archives, the location of many of
       Terraworth's most valuable treasures, and the location of the Hidden Vault
       holding Krutoq's phylactery.
+
+
+      The entryway to the Archives are guarded by a massive pair of iron double-doors,
+      though it appears that someone has already broken into the Vault. The massive
+      doors stand partially melted, creating an opening at the seam wide enough for
+      a large creature to walk through. The iron appears to have been heated directly,
+      as if struck by multiple fiery blasts.
   -
     Title: Golden Vault of Terraworth
+    Text: >-
+      According to legent, at the core of the Imperial Archives lies a sealed chamber
+      known as the Golden Vault of Terraworth, within which lies the greatest
+      treasures of the ancient city. Many a treasure hunter have died attempting to
+      reach the Imperial Palace, and of those that survived, none had ever managed
+      to unseal the central chamber.
+
+
+      In reality, the Golden Vault was constructed as a prison designed to hold the
+      immortal body of Elandorr Krutoq, the First Age necromancer that once plagued
+      the city. 
+
+
+      Using the knowledge gained from a lifetime of religious study within the
+      Primacy of Blackpoint, Pleas Morgan was able to unlock the Golden Vault, and
+      has set up the beginnings of a ritual to restore the trapped lich to undeath.
+      The ritual had only required one final component: the soul of one of the lich's
+      victims. Unbeknownst to the party, the Flameskull was the final key to the
+      demented cleric's plan.
+
+      
+      If the party has Leighya and Arthur, the Flameskull will overcome the calming
+      charms and dart out in an attempt to attack the decayed corpse of the lich in a
+      fit of maddened fury, only to become trapped as the ritual begins to drain it's
+      life force.
+
+      
+      If the party does not have Leighya and Arthur, or the flameskull has been
+      captured in a previous encounter, the ritual is ongoing when the party
+      arrives. Should the ritual complete unobstructed, the Flameskull's essence will
+      be lost once and for all.
+
+
+      Pleas Morgan and his minions are gathered inside the Golden Vault, guarding a
+      pulsating, sickening chrysalis from which a [Corpse Flower][CorpseFlower] has
+      sprouted. There are several tied up creatures and corpses that are being fed to
+      the flower as part of the ritual. With each corpse that is consumed, the Corpse
+      Flower and chrysalis' sickly pulsing grows stronger. The cultists will defent
+      the Corpse Flower until the ritual is complete or is disrupted by the party.
     Table:
-      01 : >- 
-        [Mummy] + TBD
-      02 : >-
-        [Shield Guardian][ShieldGuardian]
-      03 : >-
-        [Sword Wraith Warrior][SwordWraithWarrior]
+      Meta :
+        Columns :
+          - Count
+          - Creature
+        Rows :
+          -
+            - 1
+            - Pleas Morgan
+          -
+            - TBD
+            - TBD
   -
-    Subtitle: Fight Against Pleas Morgan
+    Subtitle: The Corpse Flower Ritual
     Text: >-
       !!! danger "Krutoq's Resurrection"
           It is too late to stop the ritual that will resurrect Krutoq, but there is
@@ -1013,18 +1115,20 @@ Content :
           so the players should be strongly encouraged to defeat Pleas quickly.
 
 
-          At the center of the ritual chamber lies Krutoq's sarcophagus, upon which
-          a [Corpse Flower][CorpseFlower] has bloomed. The flower must consume 9
-          corpses in order to complete the ritual. The flower has consumed 1d3+2 corpses
-          by the time the Party arrives in the ritual chamber, and will consume a corpse
-          within 10 ft. every turn. There are 2d12 corpses strewn around the flower, and
-          the minions will do their best to ensure the flower always has a corpse to consume.
+          At the center of the ritual chamber lies Krutoq's sarcophagus, upon which a
+          [Corpse Flower][CorpseFlower] has bloomed. The flower must consume 9
+          corpses in order to complete the ritual. The flower has consumed 1d3+2
+          corpses by the time the Party arrives in the ritual chamber, and will
+          consume a corpse within 10 ft. every turn. There are 2d12 corpses strewn
+          around the flower, and the minions will do their best to ensure the flower
+          always has a corpse to consume.
 
 
-          After the flower consumes and digests it's ninth corpse, the ritual completes
-          at full strength. If the flower is destroyed before it digests the last corpse,
-          the ritual will complete, but Krutoq will be weakened by comparison. Refer to the
-          table below on how Krutoq's strength is affected by the flower's ritual.
+          After the flower consumes and digests it's ninth corpse, the ritual
+          completes at full strength. If the flower is destroyed before it digests
+          the last corpse, the ritual will complete, but Krutoq will be weakened by
+          comparison. Refer to the table below on how Krutoq's strength is affected
+          by the flower's ritual.
   -
     Table:
       Meta :
@@ -1043,13 +1147,91 @@ Content :
             - 80% Health, Krutoq loses his 7th and 6th Level Spell Slots
           -
             - 6
-            - 70% Health, 
+            - 70% Health, Krutoq loses 7th, 6th, and 5th Level Spell Slots
+          -
+            - 5
+            - 60% Health, Krutoq loses 7th, 6th, 5th, and 4th Level Spell Slots
+          -
+            - 4
+            - 50% Health, Krutoq loses 7th, 6th, 5th, 4th, and 3rd Level Spell Slots
+          -
+            - 3
+            - 40% Health, Krutoq loses 7th, 6th, 5th, 4th, 3rd , and 2nd Level Spell Slots
   -
     Subtitle: First Fight Against Elandorr Krutoq
     Text: >-
+      Based on the completion of the [Corpse Flower][CorpseFlower] ritual, the lich's
+      power may be lessened. Regardless of how the ritual ends, Krutoq will break
+      free of the chrysalis that surrounds him and attack the Party. Morgan, if not
+      killed during the defense of the Corpse Flower, will flee the Golden Vault through
+      a secret passageway, and will disappear from the Imperial Palace while his minions
+      help the risen Lich.
+
+
+      If Krutoq is brought to under 10% health, he will attempt to collapse part of
+      the chamber to make his escape through the same passageway as Morgan before
+      collapsing it behind him.
+
+
+      If he succeeds in escaping, the Lich will make it's way to the ruins of his
+      tower, where he will be restored to full strength by consuming the life force
+      stored within the well of power at the bottom of the deepest chamber. If the party
+      heads directly for the tower with no stop, they may catch up to the Lich before
+      he has a chance to restore himself. Otherwise, proceed on to the Second Fight.
+
+
+      If Krutoq is killed, his body can be investigated to find his phylactery, a
+      small metal Coucillor's signet ring. A detect magic spell reveals a powerful
+      aura of necromancy magic around it. Any character who examines the box and
+      succeeds on a DC 15 Intelligence (Arcana) check recognizes it as a lich’s
+      phylactery. The ring can be studied for a short rest or through the Identify
+      spell, as with a magical item, in order to learn the mechanism by which it may
+      be destroyed.
+
+
+      The ring can be destroyed by melting it in the tremendous heat of one of the City's
+      forges. If the ring is thrown into a forge not within Terraworth, it seemingly
+      resists the heat and remains cool to the touch.
+
       
+      If Krutoq's phylactery is destroyed before he can restore himself, the energy
+      stored in the tower destabilizes, causing the tower to implode in on itself,
+      ending the Lich's threat once and for all.
   -
     Subtitle: Second Fight Against Elandorr Krutoq
+  -
+    Subtitle: Restoring the Flameskull
+    Text: >-
+      With Krutoq defeated, the shriveled head of the Lich's corpse can be used as
+      part of the ritual to restore the Flameskull to life.
+
+
+      !!! info "Resoration Ritual"
+          The three ritual components the flameskull needs are slightly cryptic,
+          though Leighya and Arthur (if present) are aware of three requirements:
+
+
+              1. "A blood sacrifice from a willing creature." Any amount of blood will
+              suffice, as long as it is given willingly.  
+              
+              
+              2. "A blade that has taken a life." Any blade that its wielder has used to
+              kill another creature will do.
+              
+              
+              3. “The head of the reanimator” refers to the head of the necromancer who
+              animated the flameskull (Krutoq).
+
+
+          The three components must be placed around the flameskull within a simple
+          ritual circle of salt. The material components are consumed in a blinding
+          flash of light as the Flameskull's original body is restored, along with all
+          of his memories.
+
+
+      The Flameskull, if restored, will introduce themselves as Hemmet the Sentinel,
+      a First Age Knight of Terraworth, and offer to pledge himself to the party's
+      cause.
   -
     Title: Pleas' Patrols
     Text: >-
@@ -1059,8 +1241,9 @@ Content :
 
 
       The following table contains the types of patrol that the players may encounter
-      while in Terraworth. There are several types of encounters that can be triggered
-      depending on where the party is and whether or not they have been spotted.
+      while in Terraworth. There are several types of encounters that can be
+      triggered depending on where the party is and whether or not they have been
+      spotted.
     Table:
       Meta : 
         Columns :
@@ -1162,3 +1345,7 @@ Refs:
   Razerblast: https://www.dndbeyond.com/monsters/razerblast
   ## Other
   CorpseFlower: https://www.dndbeyond.com/monsters/corpse-flower
+  ## Spells
+  ControlFlames: https://www.dndbeyond.com/spells/control-flames
+  Darkness: https://www.dndbeyond.com/spells/darkness
+  Hallow: https://www.dndbeyond.com/spells/hallow
