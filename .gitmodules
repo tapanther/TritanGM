@@ -1,3 +1,4 @@
 [submodule "yaml-wiki"]
 	path = yaml-wiki
 	url = git@github.com:tapanther/yaml-wiki.git
+	branch = master
