@@ -822,9 +822,55 @@ Content :
       dozen or so Templar squires practicing under the watchful eye of at least two
       Templar Knights.
   -
+    Subtitle : Inner Enclaves Catacombs Exits
+    Text : >-
+      Most of the catacomb exits within the Inner Enclaves have been lost or
+      destroyed as the nobility distrusted or disliked the idea of an uncontrolled
+      network of tunnels connecting their lands.
+    Table :
+      1 : Gondarus Oratory
+      2 : Blarney House
+      3 : Leighilnbridge
+      4 : Stewyrt's Castle
+  -
+    Text : >-
+      **Gondarus Oratory**
+
+      
+      Located on the estates of the Broderyck Estates, this ancient church dates back
+      to the founding of Blackpoint. Originally a farmer's church, the building
+      resembles an overtuned boat. According to the common folklore, the building was
+      dedicated to a powerful fey who helped the early inhabitants of the city
+      survive through a famine.
+
+      
+      **Blarney House**
+
+      
+      Largest City Watch precinct within the Inner Enclaves. Typically handles the
+      investigation of minor crimes, as the Inner Enclaves are primarily patrolled
+      and policed by the Nobles' private forces.
+
+
+      **Leighilnbridge**
+
+      
+      A secondary Dusk Templar fortification within the Inner Enclaves. This fortress
+      has a reputation for handling would-be rebellions among the more foolish
+      nobility swiftly and brutally.
+
+
+      **Stewyrt's Castle**
+
+      
+      A fortification built by Lord Stewyrt, Chancellor and Regent prior to the
+      Restoration within his estate. It is generally accepted that the purpose of
+      the fortress was to provide another powerbase to maintain control over the
+      nobles.
+  -
     Subtitle : Outer Enclaves Catacombs Exits
     Text : >-
-      Of over a hundred exits in the Outer Enclaves, only four are still usable as an
+      Of over a hundred exits in the Outer Enclaves, only five are still usable as an
       exit, as they were merely plastered over rather than collapsed or filled in.  A
       DC 13 Strength check can be used to break through the plaster, or
       alternatively, the plaster wall has AC 11 and 100 hp. The party will then
@@ -837,12 +883,40 @@ Content :
     Table :
       1 : Fin Barre's Cathedral
       2 : Mél of Ardagh
-      3 : St. Canice
-      4 : Iosa the Redeemer
+      3 : Iosa the Redeemer
+      4 : An Rath Ringfort
+      5 : Old Crom Castle
   -
     Text : >-
-      **Fin Barre**
+      **Finn Barre's Cathedral**
+
+      
+      The last cathedral constructed before the Great Sack. The cathedral replaced
+      an older temple that had burned down.
 
 
-      The last cathedral to be build before the Great Sack, the Fin Barre is named after
-      a folk hero 
+      **Mél of Ardagh**
+
+      
+      This temple was named after a figure from the city's early history, remember
+      for shunning their noble birthright to watch over the poor and downtrodden. The
+      temple sits in the Outer Enclave of the same name.
+
+
+      **Iosa the Redeemer**
+
+      
+      A public house in the Outer Enclaves known for feeding the poor and wretched.
+
+
+      **An Rath Ringfort**
+
+      
+      An otherwise empty mound within the city, this location marked the first loss
+      suffered against Baltatrax by the defenders. The mound has been left empty
+      as a memorial to the lost.
+
+
+      **Old Crom Castle**
+      Headquarters of the City Watch, located in the Outer Districts.
+
