@@ -7,8 +7,8 @@ theme:
     primary: blue
     accent: blue
   favicon: 'img/favicon.ico'
-  logo:
-    icon: 'local_library'
+  icon:
+    logo: 'material/library'
 repo_name: 'tapanther/TritanGM'
 repo_url: 'https://github.com/tapanther/TritanGM'
 site_url: 'https://tapanther.github.io/TritanGM/'
