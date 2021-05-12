@@ -3,3 +3,4 @@ docs/
 .#*
 **/.DS_Store
 **/links.md.j2
+.idea/

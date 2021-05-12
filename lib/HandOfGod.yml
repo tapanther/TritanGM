@@ -6,14 +6,33 @@ control :
 title : The Hand of God
 GeneralInfo :
   Description : >-
-    TEXT
+    To the far South of the continent lay the shattered spires of the Broken Gate, the former Imperial Capital and
+    the site of the downfall of First Age society. Though the ruins are rich in First Age artefacts and relics, few are
+    foolhardy enough to attempt an expedition to the ancient capital, and fewer still return to tell the tales. Hordes
+    of monsters and beasts claim the city ruins as their own, and have carved out their own warring domains within the
+    walls. Until now, the different factions have been at a detente, eyeing one another warily from a distance, but
+    news of an ancient relic threaten to destabilize the careful balance of power. *The Hand of God*, one of five
+    parts of a terrible weapon discovered by the Alchemist, lies hidden within the city. Most troubling of all, rather
+    than devolving into a free-for-all, the various monstrous factions have made diplomatic overtures to one another, a
+    collaboration not seen since the Demogorgon's rampage six centuries earlier.
 Content :
   -
     separate : True
     Title : Reaching the Broken Gate
-    Subtitle : By Sea
+    Subtitle : By Land or By Sea
     Text : >-
-      TEXT
+      The Broken Gate is located along the Southern Coast of the continent, at the mouth of an artificial river known
+      as the Lion's Tail. While it can be reached by either land or sea, both options present various hazards.
+
+      By land, the great distance through the monster-infested provinces and the natural barrier formed by the
+      Nonewallow are enough to discourage all but the most resilient of explorers. Without towns or cities to rest,
+      the months-long expedition will be a battle of attrition, wearing away at the group's resources and personnel.
+
+      By sea, the journey is far quicker, taking only about a week from major ports, but no less dangerous. Pirates and
+      raiders patrol the sea, looking to score a quick haul from an unsuspecting merchant vessel that strays too close
+      to the shores. Furthermore, the group risks being stranded, as the city's docks are no safe harbour. New ships
+      are bound to attract the wrong sort of attention, and explorers might soon discover that their passage quickly
+      becomes a one-way trip.
   -
     separate : False
     Subtitle : The Breach
