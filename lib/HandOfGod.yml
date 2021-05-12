@@ -1,0 +1,40 @@
+---
+node : Campaign
+template : Generic.md
+control :
+  - subtitle_headings
+title : The Hand of God
+GeneralInfo :
+  Description : >-
+    TEXT
+Content :
+  -
+    separate : True
+    Title : Reaching the Broken Gate
+    Subtitle : By Sea
+    Text : >-
+      TEXT
+  -
+    separate : False
+    Subtitle : The Breach
+    Text : >-
+      TEXT
+  -
+    separate : True
+    Title : City Outskirts
+    Subtitle : Slums
+    Text : >-
+      TEXT
+  -
+    separate : True
+    Title : Imperial Orcs
+    Subtitle : Description
+    Text: >-
+      TEXT
+  -
+    separate : True
+    Title : Major NPCs
+    Subtitle : Vidarok The Red
+    Text : >-
+      Clothed in brilliant vermillion, Vidarok sees himself as the rightful "Emperor"
+      of the lands ravaged during the Great Sack.
